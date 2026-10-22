@@ -66,3 +66,9 @@ main{max-width:none;padding:0 2%;margin:0 auto}
 .designer-credit figcaption{display:flex;justify-content:space-between;width:100%;font-weight:700;line-height:1;margin-top:8px}
 @media(max-width:1050px){.preview-masthead{--title-size:clamp(76px,12vw,128px)}}
 @media(max-width:680px){.masthead-right{padding-bottom:0}.designer-credit figcaption{font-size:9px}}
+
+/* Let the normal-width credit determine portrait width. */
+.designer-credit{width:max-content;display:grid;grid-template-columns:max-content}
+.designer-credit img{width:0;min-width:100%;max-width:none;height:auto}
+.designer-credit figcaption{display:block;width:auto;font-size:11px;font-weight:700;letter-spacing:normal;word-spacing:normal;white-space:nowrap}
+@media(max-width:680px){.designer-credit{width:max-content}.designer-credit img{width:0;min-width:100%}.designer-credit figcaption{font-size:9px}}
