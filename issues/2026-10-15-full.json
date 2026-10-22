@@ -34,7 +34,8 @@
           "url": "https://www.pentagram.com/news"
         }
       ],
-      "unavailable": false
+      "unavailable": false,
+      "collectionPlans": {}
     },
     {
       "id": "arsenal",
@@ -58,7 +59,8 @@
         "https://m.itsnicethat.com/original_images/Arsenal_Rocastle_4x5_002.png?class=w1080",
         "https://m.itsnicethat.com/original_images/Arsenal_Rocastle_16x9_ImageGroup_002.png?class=w1080"
       ],
-      "unavailable": false
+      "unavailable": false,
+      "collectionPlans": {}
     },
     {
       "id": "doha",
@@ -88,7 +90,8 @@
           "url": "https://www.pentagram.com/news"
         }
       ],
-      "unavailable": false
+      "unavailable": false,
+      "collectionPlans": {}
     },
     {
       "id": "kuda",
@@ -112,7 +115,8 @@
       "source": "It’s Nice That",
       "url": "https://www.itsnicethat.com/articles/barkas-kuda-graphic-design-project-131026",
       "references": [],
-      "unavailable": false
+      "unavailable": false,
+      "collectionPlans": {}
     },
     {
       "id": "adc",
@@ -131,7 +135,8 @@
       "images": [
         "https://www.oneclub.org/images/userfiles/ADC%20106%20launch_web%20banner.webp"
       ],
-      "unavailable": false
+      "unavailable": false,
+      "collectionPlans": {}
     },
     {
       "id": "pohoda",
@@ -156,7 +161,8 @@
       "source": "It’s Nice That",
       "url": "https://www.itsnicethat.com/articles/andrej-and-andrej-pohoda-festival-30th-anniversary-graphic-design-project-141026",
       "references": [],
-      "unavailable": false
+      "unavailable": false,
+      "collectionPlans": {}
     },
     {
       "id": "raoul",
@@ -179,7 +185,8 @@
         "https://m.itsnicethat.com/original_images/QuasarRounded.png?class=w1080",
         "https://m.itsnicethat.com/original_images/Wall-of-Fonts.JPG?class=w1080"
       ],
-      "unavailable": false
+      "unavailable": false,
+      "collectionPlans": {}
     },
     {
       "id": "petra",
@@ -209,7 +216,8 @@
           "name": "10.14 报道",
           "url": "https://www.underconsideration.com/brandnew/archives/new_logo_identity_and_packaging_for_petra_by_ana_couto.php"
         }
-      ]
+      ],
+      "collectionPlans": {}
     },
     {
       "id": "attitude",
@@ -240,7 +248,8 @@
           "url": "https://www.underconsideration.com/brandnew/archives/new_logo_and_packaging_for_attitude_fraiche_by_lg2.php"
         }
       ],
-      "unavailable": false
+      "unavailable": false,
+      "collectionPlans": {}
     },
     {
       "id": "biotic",
@@ -269,7 +278,8 @@
           "url": "https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_biotic_by_mucho.php"
         }
       ],
-      "unavailable": false
+      "unavailable": false,
+      "collectionPlans": {}
     },
     {
       "id": "basketball",
@@ -299,7 +309,8 @@
           "url": "https://campaignbrief.com/hulsbosch-creates-new-consumer-brand-to-unite-australian-basketball/"
         }
       ],
-      "unavailable": false
+      "unavailable": false,
+      "collectionPlans": {}
     },
     {
       "id": "nuria",
@@ -323,7 +334,8 @@
       "source": "It’s Nice That",
       "url": "https://www.itsnicethat.com/articles/nuria-balinha-graphic-design-discover-141026",
       "references": [],
-      "unavailable": false
+      "unavailable": false,
+      "collectionPlans": {}
     },
     {
       "id": "bingo",
@@ -344,7 +356,8 @@
       "source": "It’s Nice That",
       "url": "https://www.itsnicethat.com/articles/atelier-bingo-avignonesi-graphic-design-sponsored-content-131026",
       "references": [],
-      "unavailable": false
+      "unavailable": false,
+      "collectionPlans": {}
     }
   ]
 }

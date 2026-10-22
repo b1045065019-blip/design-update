@@ -34,7 +34,185 @@
         "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-7.jpg?class=w1080"
       ],
       "unavailable": false,
-      "references": []
+      "references": [],
+      "collectionPlans": {
+        "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-21.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-21.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Fulham F.C"
+            ]
+          ],
+          "tags": [
+            "字体设计",
+            "海报设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/FFC_CaseStudy_Typeface_DNA.gif": {
+          "url": "https://m.itsnicethat.com/original_images/FFC_CaseStudy_Typeface_DNA.gif?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Fulham F.C"
+            ]
+          ],
+          "tags": [
+            "字体设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/FFC_CaseStudy_Matchday_Socials.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/FFC_CaseStudy_Matchday_Socials.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Fulham F.C"
+            ]
+          ],
+          "tags": [
+            "版式设计",
+            "广告设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-4.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-4.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Fulham F.C"
+            ]
+          ],
+          "tags": [
+            "字体设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-2.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-2.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Fulham F.C"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "字体设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-14.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-14.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Fulham F.C"
+            ]
+          ],
+          "tags": [
+            "字体设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-18.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-18.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Fulham F.C"
+            ]
+          ],
+          "tags": [
+            "海报设计",
+            "字体设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-19.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-19.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Fulham F.C"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "字体设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-20.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-20.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Fulham F.C"
+            ]
+          ],
+          "tags": [
+            "广告设计",
+            "海报设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-22.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-22.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Fulham F.C"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "字体设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-10.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-10.jpg?class=w1080",
+          "exclude": true,
+          "reason": "普通球迷纪实照，未突出设计应用"
+        },
+        "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-13.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-13.jpg?class=w1080",
+          "exclude": true,
+          "reason": "普通球场纪实照，未突出设计应用"
+        },
+        "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-6.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-6.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Fulham F.C"
+            ]
+          ],
+          "tags": [
+            "版式设计",
+            "广告设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-7.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-7.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Fulham F.C"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "字体设计"
+          ],
+          "brands": []
+        }
+      }
     },
     {
       "id": "milkshake-20261021",
@@ -65,7 +243,181 @@
         "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-3.png?class=w1080"
       ],
       "unavailable": false,
-      "references": []
+      "references": [],
+      "collectionPlans": {
+        "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-1.png": {
+          "url": "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-1.png?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Milkshake"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-16.png": {
+          "url": "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-16.png?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Milkshake"
+            ]
+          ],
+          "tags": [
+            "海报设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-2.png": {
+          "url": "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-2.png?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Milkshake"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-8.gif": {
+          "url": "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-8.gif?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Milkshake"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-15.gif": {
+          "url": "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-15.gif?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Milkshake"
+            ]
+          ],
+          "tags": [
+            "视觉设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-13.gif": {
+          "url": "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-13.gif?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Milkshake"
+            ]
+          ],
+          "tags": [
+            "视觉设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-14.png": {
+          "url": "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-14.png?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Milkshake"
+            ]
+          ],
+          "tags": [
+            "品牌设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-9.png": {
+          "url": "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-9.png?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Milkshake"
+            ],
+            [
+              "时尚",
+              "设计",
+              "服装"
+            ]
+          ],
+          "tags": [
+            "品牌设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-10.png": {
+          "url": "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-10.png?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Milkshake"
+            ],
+            [
+              "时尚",
+              "设计",
+              "服装"
+            ]
+          ],
+          "tags": [
+            "品牌设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-12.png": {
+          "url": "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-12.png?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Milkshake"
+            ]
+          ],
+          "tags": [
+            "海报设计",
+            "广告设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-4.png": {
+          "url": "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-4.png?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Milkshake"
+            ]
+          ],
+          "tags": [
+            "广告设计",
+            "视觉设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-3.png": {
+          "url": "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-3.png?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Milkshake"
+            ]
+          ],
+          "tags": [
+            "海报设计",
+            "广告设计"
+          ],
+          "brands": []
+        }
+      }
     },
     {
       "id": "wenkai-20261021",
@@ -83,7 +435,8 @@
       "url": "https://github.com/lxgw/LxgwWenKai/releases/tag/v1.530",
       "images": [],
       "unavailable": true,
-      "references": []
+      "references": [],
+      "collectionPlans": {}
     },
     {
       "id": "source-20261021",
@@ -114,7 +467,199 @@
         "https://m.itsnicethat.com/original_images/laurenz-brunner-graphic-design-itsnicethat-2.jpg?class=w1080"
       ],
       "unavailable": false,
-      "references": []
+      "references": [],
+      "collectionPlans": {
+        "https://m.itsnicethat.com/original_images/laurenz-brunner-graphic-design-itsnicethat-18.png": {
+          "url": "https://m.itsnicethat.com/original_images/laurenz-brunner-graphic-design-itsnicethat-18.png?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Dictionary of the Illegible"
+            ]
+          ],
+          "tags": [
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/7_Illegible_Glyphs.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/7_Illegible_Glyphs.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Dictionary of the Illegible"
+            ]
+          ],
+          "tags": [
+            "字体设计",
+            "视觉设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/Diagram_Laurenz_Brunner.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/Diagram_Laurenz_Brunner.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Dictionary of the Illegible"
+            ]
+          ],
+          "tags": [
+            "视觉设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/laurenz-brunner-graphic-design-itsnicethat-16.png": {
+          "url": "https://m.itsnicethat.com/original_images/laurenz-brunner-graphic-design-itsnicethat-16.png?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Dictionary of the Illegible"
+            ]
+          ],
+          "tags": [
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/laurenz-brunner-graphic-design-itsnicethat-12.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/laurenz-brunner-graphic-design-itsnicethat-12.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Dictionary of the Illegible"
+            ]
+          ],
+          "tags": [
+            "字体设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/laurenz-brunner-graphic-design-itsnicethat-6.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/laurenz-brunner-graphic-design-itsnicethat-6.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Dictionary of the Illegible"
+            ]
+          ],
+          "tags": [
+            "字体设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/laurenz-brunner-graphic-design-itsnicethat.png": {
+          "url": "https://m.itsnicethat.com/original_images/laurenz-brunner-graphic-design-itsnicethat.png?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Dictionary of the Illegible"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "字体设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/laurenz-brunner-graphic-design-itsnicethat-10.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/laurenz-brunner-graphic-design-itsnicethat-10.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Dictionary of the Illegible"
+            ]
+          ],
+          "tags": [
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/laurenz-brunner-graphic-design-itsnicethat-5.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/laurenz-brunner-graphic-design-itsnicethat-5.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Dictionary of the Illegible"
+            ]
+          ],
+          "tags": [
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/laurenz-brunner-graphic-design-itsnicethat-19.png": {
+          "url": "https://m.itsnicethat.com/original_images/laurenz-brunner-graphic-design-itsnicethat-19.png?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Dictionary of the Illegible"
+            ]
+          ],
+          "tags": [
+            "字体设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/laurenz-brunner-graphic-design-itsnicethat-8.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/laurenz-brunner-graphic-design-itsnicethat-8.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Dictionary of the Illegible"
+            ]
+          ],
+          "tags": [
+            "字体设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/Screenshot_2026-10-07_at_10.28.41.png": {
+          "url": "https://m.itsnicethat.com/original_images/Screenshot_2026-10-07_at_10.28.41.png?class=w1080",
+          "exclude": true,
+          "reason": "普通场景照片，未突出图书设计"
+        },
+        "https://m.itsnicethat.com/original_images/laurenz-brunner-graphic-design-itsnicethat-2.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/laurenz-brunner-graphic-design-itsnicethat-2.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Dictionary of the Illegible"
+            ]
+          ],
+          "tags": [
+            "字体设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-16.png": {
+          "url": "https://m.itsnicethat.com/original_images/studio-herrstrom-milkshake-graphic-design-project-itsnicethat-16.png?class=w1080",
+          "exclude": true,
+          "reason": "图片未能读取核实"
+        },
+        "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-21.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/music-f37-graphic-design-itsnicethat-21.jpg?class=w1080",
+          "exclude": true,
+          "reason": "相关推荐，非本篇作品"
+        },
+        "https://m.itsnicethat.com/original_images/Thumbnails_Sept_20265.png": {
+          "url": "https://m.itsnicethat.com/original_images/Thumbnails_Sept_20265.png?class=w828",
+          "exclude": true,
+          "reason": "相关推荐，非本篇作品"
+        },
+        "https://m.itsnicethat.com/original_images/sewell_party.png": {
+          "url": "https://m.itsnicethat.com/original_images/sewell_party.png?class=w1080",
+          "exclude": true,
+          "reason": "相关推荐，非本篇作品"
+        }
+      }
     },
     {
       "id": "neveo-20261021",
@@ -150,7 +695,170 @@
           "name": "设计机构官方案例",
           "url": "https://www.nemesis.studio/work/neveo"
         }
-      ]
+      ],
+      "collectionPlans": {
+        "https://cdn.prod.website-files.com/678bed0eec8afcb96a813987/6ad1ce70efb4ecda8ba437a9_neveo_case_01.webp": {
+          "url": "https://cdn.prod.website-files.com/678bed0eec8afcb96a813987/6ad1ce70efb4ecda8ba437a9_neveo_case_01.webp",
+          "paths": [
+            [
+              "设计",
+              "Neveo"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://cdn.prod.website-files.com/678bed0eec8afcb96a813987/6ad1cee45ad58ef99842bf6f_neveo_case_05.webp": {
+          "url": "https://cdn.prod.website-files.com/678bed0eec8afcb96a813987/6ad1cee45ad58ef99842bf6f_neveo_case_05.webp",
+          "paths": [
+            [
+              "设计",
+              "Neveo"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://cdn.prod.website-files.com/678bed0eec8afcb96a813987/6ad1cf01203317cf9ad9659b_neveo_case_07.webp": {
+          "url": "https://cdn.prod.website-files.com/678bed0eec8afcb96a813987/6ad1cf01203317cf9ad9659b_neveo_case_07.webp",
+          "paths": [
+            [
+              "设计",
+              "Neveo"
+            ]
+          ],
+          "tags": [
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://cdn.prod.website-files.com/678bed0eec8afcb96a813987/6ad1cf42bd8d8413b97365cd_neveo_case_09.webp": {
+          "url": "https://cdn.prod.website-files.com/678bed0eec8afcb96a813987/6ad1cf42bd8d8413b97365cd_neveo_case_09.webp",
+          "paths": [
+            [
+              "设计",
+              "Neveo"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://cdn.prod.website-files.com/678bed0eec8afcb96a813987/6ad1cf5db075e22d7be016b8_neveo_case_11.webp": {
+          "url": "https://cdn.prod.website-files.com/678bed0eec8afcb96a813987/6ad1cf5db075e22d7be016b8_neveo_case_11.webp",
+          "paths": [
+            [
+              "设计",
+              "Neveo"
+            ]
+          ],
+          "tags": [
+            "广告设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://cdn.prod.website-files.com/678bed0eec8afcb96a813987/6ad1d1e3abe1fe0fbd571eaf_neveo_case_12.webp": {
+          "url": "https://cdn.prod.website-files.com/678bed0eec8afcb96a813987/6ad1d1e3abe1fe0fbd571eaf_neveo_case_12.webp",
+          "paths": [
+            [
+              "设计",
+              "Neveo"
+            ]
+          ],
+          "tags": [
+            "视觉设计"
+          ],
+          "brands": []
+        },
+        "https://cdn.prod.website-files.com/678bed0eec8afcb96a813987/6ad1d1e67b70ab9f5d81d9ad_neveo_case_13.webp": {
+          "url": "https://cdn.prod.website-files.com/678bed0eec8afcb96a813987/6ad1d1e67b70ab9f5d81d9ad_neveo_case_13.webp",
+          "paths": [
+            [
+              "设计",
+              "Neveo"
+            ]
+          ],
+          "tags": [
+            "品牌设计"
+          ],
+          "brands": []
+        },
+        "https://cdn.prod.website-files.com/678bed0eec8afcb96a813987/6ad1d226bd8d8413b9753f83_neveo_case_15.webp": {
+          "url": "https://cdn.prod.website-files.com/678bed0eec8afcb96a813987/6ad1d226bd8d8413b9753f83_neveo_case_15.webp",
+          "paths": [
+            [
+              "设计",
+              "Neveo"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://cdn.prod.website-files.com/678bed0eec8afcb96a813987/6ad1d2346bc4f74d3933b72e_neveo_case_16.webp": {
+          "url": "https://cdn.prod.website-files.com/678bed0eec8afcb96a813987/6ad1d2346bc4f74d3933b72e_neveo_case_16.webp",
+          "paths": [
+            [
+              "设计",
+              "Neveo"
+            ]
+          ],
+          "tags": [
+            "品牌设计"
+          ],
+          "brands": []
+        },
+        "https://cdn.prod.website-files.com/678bed0eec8afcb96a813987/6ad1d26bd2c302f3ab9b2e05_neveo_case_20.webp": {
+          "url": "https://cdn.prod.website-files.com/678bed0eec8afcb96a813987/6ad1d26bd2c302f3ab9b2e05_neveo_case_20.webp",
+          "paths": [
+            [
+              "设计",
+              "Neveo"
+            ]
+          ],
+          "tags": [
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://cdn.prod.website-files.com/678bed0eec8afcb96a813987/6ad1d2bac6bb109aa879088c_neveo_case_23.webp": {
+          "url": "https://cdn.prod.website-files.com/678bed0eec8afcb96a813987/6ad1d2bac6bb109aa879088c_neveo_case_23.webp",
+          "paths": [
+            [
+              "设计",
+              "Neveo"
+            ]
+          ],
+          "tags": [
+            "品牌设计"
+          ],
+          "brands": []
+        },
+        "https://cdn.prod.website-files.com/678bed0eec8afcb96a813987/6ad1d2c022121732935676c5_neveo_case_24.webp": {
+          "url": "https://cdn.prod.website-files.com/678bed0eec8afcb96a813987/6ad1d2c022121732935676c5_neveo_case_24.webp",
+          "paths": [
+            [
+              "设计",
+              "Neveo"
+            ]
+          ],
+          "tags": [
+            "品牌设计"
+          ],
+          "brands": []
+        }
+      }
     },
     {
       "id": "ptal-20261021",
@@ -197,7 +905,270 @@
           "name": "较早报道（2026 年 6 月）",
           "url": "https://www.creativebloq.com/design/branding/when-you-strip-out-culture-you-get-a-hollow-brand-why-india-is-killing-the-design-game"
         }
-      ]
+      ],
+      "collectionPlans": {
+        "https://static.wixstatic.com/media/1bc19a_4417467f2bfd4f7b8041355c40abf410~mv2.png": {
+          "url": "https://static.wixstatic.com/media/1bc19a_4417467f2bfd4f7b8041355c40abf410~mv2.png",
+          "paths": [
+            [
+              "设计",
+              "P•TAL"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "品牌设计"
+          ],
+          "brands": []
+        },
+        "https://static.wixstatic.com/media/1bc19a_8c5725f55bf0474ab89ce9565be3b0f0~mv2.png": {
+          "url": "https://static.wixstatic.com/media/1bc19a_8c5725f55bf0474ab89ce9565be3b0f0~mv2.png",
+          "paths": [
+            [
+              "设计",
+              "P•TAL"
+            ]
+          ],
+          "tags": [
+            "视觉设计"
+          ],
+          "brands": []
+        },
+        "https://static.wixstatic.com/media/1bc19a_0723de19bd67483eae22fee18f26ebbd~mv2.png": {
+          "url": "https://static.wixstatic.com/media/1bc19a_0723de19bd67483eae22fee18f26ebbd~mv2.png",
+          "paths": [
+            [
+              "设计",
+              "P•TAL"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "视觉设计"
+          ],
+          "brands": []
+        },
+        "https://static.wixstatic.com/media/1bc19a_4d3691f1eae4492f8fe3fb9a8121e5ca~mv2.png": {
+          "url": "https://static.wixstatic.com/media/1bc19a_4d3691f1eae4492f8fe3fb9a8121e5ca~mv2.png",
+          "paths": [
+            [
+              "设计",
+              "P•TAL"
+            ]
+          ],
+          "tags": [
+            "品牌设计"
+          ],
+          "brands": []
+        },
+        "https://static.wixstatic.com/media/1bc19a_9c620c6ab8d94d64b4771a742894c106~mv2.jpg": {
+          "url": "https://static.wixstatic.com/media/1bc19a_9c620c6ab8d94d64b4771a742894c106~mv2.jpg",
+          "paths": [
+            [
+              "设计",
+              "P•TAL"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://static.wixstatic.com/media/1bc19a_76afeaa6ac2247c2b947c362c8bd2a6a~mv2.png": {
+          "url": "https://static.wixstatic.com/media/1bc19a_76afeaa6ac2247c2b947c362c8bd2a6a~mv2.png",
+          "paths": [
+            [
+              "设计",
+              "P•TAL"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "视觉设计"
+          ],
+          "brands": []
+        },
+        "https://static.wixstatic.com/media/1bc19a_643c71a7ce16433c9d928f638c1c231a~mv2.png": {
+          "url": "https://static.wixstatic.com/media/1bc19a_643c71a7ce16433c9d928f638c1c231a~mv2.png",
+          "paths": [
+            [
+              "设计",
+              "P•TAL"
+            ]
+          ],
+          "tags": [
+            "版式设计",
+            "品牌设计"
+          ],
+          "brands": []
+        },
+        "https://static.wixstatic.com/media/1bc19a_95bbda444e0847979c8b32b9900f8512~mv2.png": {
+          "url": "https://static.wixstatic.com/media/1bc19a_95bbda444e0847979c8b32b9900f8512~mv2.png",
+          "paths": [
+            [
+              "设计",
+              "P•TAL"
+            ]
+          ],
+          "tags": [
+            "广告设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://static.wixstatic.com/media/1bc19a_95d66ae80f024c72bb469aed7ec3f486~mv2.png": {
+          "url": "https://static.wixstatic.com/media/1bc19a_95d66ae80f024c72bb469aed7ec3f486~mv2.png",
+          "paths": [
+            [
+              "设计",
+              "P•TAL"
+            ]
+          ],
+          "tags": [
+            "视觉设计"
+          ],
+          "brands": []
+        },
+        "https://static.wixstatic.com/media/1bc19a_37b9e55012a2431490c872367a7c2b07~mv2.png": {
+          "url": "https://static.wixstatic.com/media/1bc19a_37b9e55012a2431490c872367a7c2b07~mv2.png",
+          "paths": [
+            [
+              "设计",
+              "P•TAL"
+            ]
+          ],
+          "tags": [
+            "视觉设计"
+          ],
+          "brands": []
+        },
+        "https://static.wixstatic.com/media/1bc19a_cf6b6454b9be49478d59ce490fcf1194~mv2.png": {
+          "url": "https://static.wixstatic.com/media/1bc19a_cf6b6454b9be49478d59ce490fcf1194~mv2.png",
+          "paths": [
+            [
+              "设计",
+              "P•TAL"
+            ]
+          ],
+          "tags": [
+            "视觉设计"
+          ],
+          "brands": []
+        },
+        "https://static.wixstatic.com/media/1bc19a_6cc0a183a1d94e4fa8eae05f4d3a1ecc~mv2.png": {
+          "url": "https://static.wixstatic.com/media/1bc19a_6cc0a183a1d94e4fa8eae05f4d3a1ecc~mv2.png",
+          "paths": [
+            [
+              "设计",
+              "P•TAL"
+            ]
+          ],
+          "tags": [
+            "包装设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://static.wixstatic.com/media/1bc19a_285bd85029e04a2ba4399f2f16e5148a~mv2.png": {
+          "url": "https://static.wixstatic.com/media/1bc19a_285bd85029e04a2ba4399f2f16e5148a~mv2.png",
+          "paths": [
+            [
+              "设计",
+              "P•TAL"
+            ]
+          ],
+          "tags": [
+            "包装设计"
+          ],
+          "brands": []
+        },
+        "https://static.wixstatic.com/media/1bc19a_35452aa51c714b3d859ba44c934a37ad~mv2.png": {
+          "url": "https://static.wixstatic.com/media/1bc19a_35452aa51c714b3d859ba44c934a37ad~mv2.png",
+          "paths": [
+            [
+              "设计",
+              "P•TAL"
+            ]
+          ],
+          "tags": [
+            "包装设计"
+          ],
+          "brands": []
+        },
+        "https://static.wixstatic.com/media/1bc19a_391d4af12b024db48faea9311d42ce40~mv2.png": {
+          "url": "https://static.wixstatic.com/media/1bc19a_391d4af12b024db48faea9311d42ce40~mv2.png",
+          "paths": [
+            [
+              "设计",
+              "P•TAL"
+            ]
+          ],
+          "tags": [
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://static.wixstatic.com/media/1bc19a_ebd0eb3f931b401eb7b46b4bccd70ff3~mv2.png": {
+          "url": "https://static.wixstatic.com/media/1bc19a_ebd0eb3f931b401eb7b46b4bccd70ff3~mv2.png",
+          "exclude": true,
+          "reason": "图片未能读取核实"
+        },
+        "https://static.wixstatic.com/media/1bc19a_46aebe76efa1424ebbf3a943ba75b0c3~mv2.png": {
+          "url": "https://static.wixstatic.com/media/1bc19a_46aebe76efa1424ebbf3a943ba75b0c3~mv2.png",
+          "paths": [
+            [
+              "设计",
+              "P•TAL"
+            ]
+          ],
+          "tags": [
+            "字体设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://static.wixstatic.com/media/1bc19a_fe547c7361e34a3f919d8d128ef6db30~mv2.png": {
+          "url": "https://static.wixstatic.com/media/1bc19a_fe547c7361e34a3f919d8d128ef6db30~mv2.png",
+          "paths": [
+            [
+              "设计",
+              "P•TAL"
+            ]
+          ],
+          "tags": [
+            "字体设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://static.wixstatic.com/media/1bc19a_dc403c7fa9d34b28b40f581bdfa7aef8~mv2.png": {
+          "url": "https://static.wixstatic.com/media/1bc19a_dc403c7fa9d34b28b40f581bdfa7aef8~mv2.png",
+          "paths": [
+            [
+              "设计",
+              "P•TAL"
+            ]
+          ],
+          "tags": [
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://static.wixstatic.com/media/1bc19a_bc58144a9a6d4f449dc46e4cf908adbb~mv2.png": {
+          "url": "https://static.wixstatic.com/media/1bc19a_bc58144a9a6d4f449dc46e4cf908adbb~mv2.png",
+          "paths": [
+            [
+              "设计",
+              "P•TAL"
+            ]
+          ],
+          "tags": [
+            "版式设计"
+          ],
+          "brands": []
+        }
+      }
     },
     {
       "id": "book-20261021",
@@ -223,7 +1194,118 @@
         "https://m.itsnicethat.com/original_images/ABFMB_carolinaincerti_6.jpg?class=w1080"
       ],
       "unavailable": false,
-      "references": []
+      "references": [],
+      "collectionPlans": {
+        "https://m.itsnicethat.com/original_images/ABFMB_carolinaincerti_1.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/ABFMB_carolinaincerti_1.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "A Book for Making Books"
+            ]
+          ],
+          "tags": [
+            "版式设计",
+            "字体设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/ABFMB_carolinaincerti_10.gif": {
+          "url": "https://m.itsnicethat.com/original_images/ABFMB_carolinaincerti_10.gif?class=w1080",
+          "exclude": true,
+          "reason": "与第一张为同一封面，省略重复展示"
+        },
+        "https://m.itsnicethat.com/original_images/ABFMB_carolinaincerti_9.gif": {
+          "url": "https://m.itsnicethat.com/original_images/ABFMB_carolinaincerti_9.gif?class=w1080",
+          "exclude": true,
+          "reason": "图片未能读取核实"
+        },
+        "https://m.itsnicethat.com/original_images/ABFMB_carolinaincerti_8.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/ABFMB_carolinaincerti_8.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "A Book for Making Books"
+            ]
+          ],
+          "tags": [
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/ABFMB_carolinaincerti_4.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/ABFMB_carolinaincerti_4.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "A Book for Making Books"
+            ]
+          ],
+          "tags": [
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/ABFMB_carolinaincerti_5.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/ABFMB_carolinaincerti_5.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "A Book for Making Books"
+            ]
+          ],
+          "tags": [
+            "版式设计",
+            "字体设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/ABFMB_carolinaincerti_7.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/ABFMB_carolinaincerti_7.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "A Book for Making Books"
+            ]
+          ],
+          "tags": [
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/ABFMB_carolinaincerti_2.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/ABFMB_carolinaincerti_2.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "A Book for Making Books"
+            ]
+          ],
+          "tags": [
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/ABFMB_carolinaincerti_6.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/ABFMB_carolinaincerti_6.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "A Book for Making Books"
+            ]
+          ],
+          "tags": [
+            "版式设计",
+            "字体设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/OPENBOOKS_carolinaincerti_12.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/OPENBOOKS_carolinaincerti_12.jpg?class=w1080",
+          "exclude": true,
+          "reason": "制作现场纪实，未单独收录"
+        }
+      }
     },
     {
       "id": "winston-20261021",
@@ -248,7 +1330,22 @@
           "name": "官方首发（2025 年 9 月 23 日）",
           "url": "https://fiftythousandfeet.com/news/fifty-thousand-feet-creates-new-brand-identity-for-winston-artory-group-bringing-trust-and-transparency-to-the-art-market/"
         }
-      ]
+      ],
+      "collectionPlans": {
+        "https://cdn.sanity.io/images/8ddqpkj0/production/4a8b5a47eaa1987763996a0a5c5f457c30e55e17-2220x1665.png": {
+          "url": "https://cdn.sanity.io/images/8ddqpkj0/production/4a8b5a47eaa1987763996a0a5c5f457c30e55e17-2220x1665.png?q=90",
+          "paths": [
+            [
+              "设计",
+              "Winston Artory Group"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        }
+      }
     },
     {
       "id": "signs-20261021",
@@ -270,7 +1367,50 @@
         "https://m.itsnicethat.com/original_images/A4D80A72-A21C-4A9D-B5AA-95E03778E930.jpeg?class=w1080"
       ],
       "unavailable": false,
-      "references": []
+      "references": [],
+      "collectionPlans": {
+        "https://m.itsnicethat.com/original_images/BBFF7C9C-E441-430A-8D27-37AD731DA56B.jpeg": {
+          "url": "https://m.itsnicethat.com/original_images/BBFF7C9C-E441-430A-8D27-37AD731DA56B.jpeg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "新加坡地铁纸质标识"
+            ]
+          ],
+          "tags": [
+            "视觉设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/IMG_9234.jpeg": {
+          "url": "https://m.itsnicethat.com/original_images/IMG_9234.jpeg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "新加坡地铁纸质标识"
+            ]
+          ],
+          "tags": [
+            "视觉设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/A4D80A72-A21C-4A9D-B5AA-95E03778E930.jpeg": {
+          "url": "https://m.itsnicethat.com/original_images/A4D80A72-A21C-4A9D-B5AA-95E03778E930.jpeg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "新加坡地铁纸质标识"
+            ]
+          ],
+          "tags": [
+            "视觉设计"
+          ],
+          "brands": []
+        }
+      }
     }
   ]
 }

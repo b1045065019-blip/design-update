@@ -26,7 +26,8 @@
           "name": "BrandOpus 官方项目说明",
           "url": "https://www.brandopus.com/insights/a-bold-new-identity-for-kings"
         }
-      ]
+      ],
+      "collectionPlans": {}
     },
     {
       "id": "tdf-ura",
@@ -52,7 +53,8 @@
           "name": "官方公告（10 月 9 日）",
           "url": "https://blog.documentfoundation.org/blog/2026/10/09/tdf-visual-identity/"
         }
-      ]
+      ],
+      "collectionPlans": {}
     },
     {
       "id": "saltlick-order",
@@ -79,7 +81,8 @@
           "name": "Order 官方案例",
           "url": "https://order.design/project/salt-lick-on-salt-creek"
         }
-      ]
+      ],
+      "collectionPlans": {}
     },
     {
       "id": "node-brandbrothers",
@@ -110,7 +113,8 @@
           "name": "较早媒体报道（9 月 21 日）",
           "url": "https://abduzeedo.com/brand-identity-node-visual-system-brand-brothers"
         }
-      ]
+      ],
+      "collectionPlans": {}
     },
     {
       "id": "alascripty-alphabettes",
@@ -130,7 +134,8 @@
         "https://www.alphabettes.org/wp-content/uploads/2026/09/Alphabettes_header_Alascripty_Leksen-1024x146.jpg"
       ],
       "unavailable": false,
-      "references": []
+      "references": [],
+      "collectionPlans": {}
     },
     {
       "id": "sewell-lettering",
@@ -152,7 +157,8 @@
         "https://m.itsnicethat.com/original_images/sewell_cloverposter.png?class=w828"
       ],
       "unavailable": false,
-      "references": []
+      "references": [],
+      "collectionPlans": {}
     },
     {
       "id": "foam-editorial-talk",
@@ -170,7 +176,8 @@
       "url": "https://www.itsnicethat.com/articles/nicer-tuesdays-london-september-foam-magazine-151026",
       "images": [],
       "unavailable": true,
-      "references": []
+      "references": [],
+      "collectionPlans": {}
     },
     {
       "id": "on-ondesign",
@@ -193,7 +200,8 @@
           "name": "Ondesign 官方平台",
           "url": "https://design.on.com/"
         }
-      ]
+      ],
+      "collectionPlans": {}
     }
   ]
 }
