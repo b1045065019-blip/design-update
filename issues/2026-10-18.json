@@ -1,0 +1,199 @@
+{
+  "date": "2026-10-18",
+  "label": "正式刊 002",
+  "coverage": "内容范围：2026.10.15—10.17（三个完整自然日）｜共 8 条｜2026.10.19 补发；按来源当地日期归档。",
+  "window_start": "2026-10-15",
+  "window_end": "2026-10-17",
+  "articles": [
+    {
+      "id": "kings-brandopus",
+      "title": "KINGS 更新字标与肉类零食包装",
+      "name": "KINGS · BrandOpus",
+      "category": "品牌设计",
+      "secondary": "项目报道",
+      "region": "国际",
+      "studio": "BrandOpus / Rob Clarke",
+      "date": "2026.10.15（报道）",
+      "note": "Brand New 报道日期；机构官网仅标 2026 年 10 月，具体首发日未确认。图片链接暂不可核验。",
+      "kind": "项目报道",
+      "summary": "BrandOpus 为 Kepak 旗下 KINGS 重做品牌定位与包装，面向更广泛的日常零食消费场景。与 Rob Clarke 合作的字标加入咬痕，包装用大字号口味文字、色彩区分和统一信息标签组织产品系列。",
+      "source": "Brand New / BrandOpus",
+      "url": "https://www.underconsideration.com/brandnew/archives/new_logo_and_packaging_for_kings_by_brandopus.php",
+      "images": [],
+      "unavailable": true,
+      "references": [
+        {
+          "name": "BrandOpus 官方项目说明",
+          "url": "https://www.brandopus.com/insights/a-bold-new-identity-for-kings"
+        }
+      ]
+    },
+    {
+      "id": "tdf-ura",
+      "title": "The Document Foundation 独立视觉识别获报道",
+      "name": "The Document Foundation · Ura Design",
+      "category": "品牌设计",
+      "secondary": "旧项目新报道",
+      "region": "国际",
+      "studio": "Ura Design",
+      "date": "2026.10.16（报道）",
+      "note": "旧项目新报道：官方于 10 月 9 日发布，10 月 14 日更新；本期按 Brand New 10 月 16 日报道归档。",
+      "kind": "旧项目新报道",
+      "summary": "Ura Design 为 The Document Foundation 建立独立于 LibreOffice 软件的机构识别，包括页面造型标志、绿色配色与 Inter 字体。官方说明 LibreOffice 自身标志保持不变，新系统将用于基金会网站和机构材料。",
+      "source": "Brand New / TDF",
+      "url": "https://www.underconsideration.com/brandnew/archives/new_logo_for_the_document_foundation_by_ura_design.php",
+      "images": [
+        "https://blog.documentfoundation.org/wp-content/uploads/2026/10/tdf-logo-announcement-1-1024x576.png",
+        "https://blog.documentfoundation.org/wp-content/uploads/2026/10/tdf-logo-announcement-2-1024x577.png"
+      ],
+      "unavailable": false,
+      "references": [
+        {
+          "name": "官方公告（10 月 9 日）",
+          "url": "https://blog.documentfoundation.org/blog/2026/10/09/tdf-visual-identity/"
+        }
+      ]
+    },
+    {
+      "id": "saltlick-order",
+      "title": "Order 为高山薰衣草农场设计模块化边框识别",
+      "name": "Salt Lick on Salt Creek · Order",
+      "category": "品牌设计",
+      "secondary": "项目报道",
+      "region": "国际",
+      "studio": "Order；摄影 Kyle Johnson",
+      "date": "2026.10.15（报道）",
+      "note": "按 Brand New 报道日期归档；Order 案例页未注明首次公开日。",
+      "kind": "项目报道",
+      "summary": "Order 为科罗拉多州农场及其产品线设计视觉识别、包装和网站。系统将五十余款历史装饰边框数字化，结合 Medium 与 Caslon Ionic 字体，延展至印刷品和个护产品包装。",
+      "source": "Brand New / Order",
+      "url": "https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_salt_lick_on_salt_creek_by_order.php",
+      "images": [
+        "https://order-site-images-dev.imgix.net/a63ca591-b0e1-4e4f-bcca-8443eb14c3f8/ORDER_SLSC_33.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=70&rect=0%2C0%2C9150%2C6100&w=1000",
+        "https://order-site-images-dev.imgix.net/a63ca591-b0e1-4e4f-bcca-8443eb14c3f8/ORDER_SLSC_14.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=70&rect=0%2C0%2C2558%2C1492&w=1000",
+        "https://order-site-images-dev.imgix.net/a63ca591-b0e1-4e4f-bcca-8443eb14c3f8/ORDER_SLSC_15.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=70&rect=0%2C0%2C9150%2C5556&w=1000"
+      ],
+      "unavailable": false,
+      "references": [
+        {
+          "name": "Order 官方案例",
+          "url": "https://order.design/project/salt-lick-on-salt-creek"
+        }
+      ]
+    },
+    {
+      "id": "node-brandbrothers",
+      "title": "Brand Brothers 的 Node 模块化字标系统获新报道",
+      "name": "Node · Brand Brothers",
+      "category": "品牌设计",
+      "secondary": "旧项目新报道",
+      "region": "国际",
+      "studio": "Brand Brothers",
+      "date": "2026.10.16（报道）",
+      "note": "旧项目新报道：9 月已有媒体介绍，并非本期首次发布；按 Brand New 10 月 16 日报道归档。",
+      "kind": "旧项目新报道",
+      "summary": "Brand Brothers 为 Economy V1 的个人服务器 Node 设计图形识别和视觉方向，以定制字标发展出模块化系统，覆盖平面与动态应用。官方将该产品的推出时间列为 2027 年。",
+      "source": "Brand New / Brand Brothers",
+      "url": "https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_node_by_brand_brothers.php",
+      "images": [
+        "https://brandbrothers.b-cdn.net/wp-content/uploads/2026/08/ref_node-1_compressed.jpg",
+        "https://brandbrothers.b-cdn.net/wp-content/uploads/2026/08/ref_node-2_compressed.jpg",
+        "https://brandbrothers.b-cdn.net/wp-content/uploads/2026/08/ref_node-3_compressed.jpg"
+      ],
+      "unavailable": false,
+      "references": [
+        {
+          "name": "设计机构官方案例",
+          "url": "https://brandbrothers.studio/en/node-visual-identity-branding-motion-design/"
+        },
+        {
+          "name": "较早媒体报道（9 月 21 日）",
+          "url": "https://abduzeedo.com/brand-identity-node-visual-system-brand-brothers"
+        }
+      ]
+    },
+    {
+      "id": "alascripty-alphabettes",
+      "title": "Alphabettes 展示 Andrea Leksen 的 Alascripty 字体页眉",
+      "name": "Alascripty · Andrea Leksen",
+      "category": "字体设计",
+      "secondary": "字体展示",
+      "region": "国际",
+      "studio": "Andrea Leksen",
+      "date": "2026.10.15",
+      "note": "日期为 Alphabettes 页眉展示日期，不代表字体首次发售；未确认新字体发布。",
+      "kind": "字体展示",
+      "summary": "Alphabettes 在页眉作品档案中加入 Andrea Leksen 的 Alascripty 展示，并标注 10 月 15 日。可查看其字形在网站名称中的组合与应用。",
+      "source": "Alphabettes",
+      "url": "https://www.alphabettes.org/category/header/",
+      "images": [
+        "https://www.alphabettes.org/wp-content/uploads/2026/09/Alphabettes_header_Alascripty_Leksen-1024x146.jpg"
+      ],
+      "unavailable": false,
+      "references": []
+    },
+    {
+      "id": "sewell-lettering",
+      "title": "Sewell Killingstad 分享花卉字形与音乐项目平面作品",
+      "name": "Sewell Killingstad · Daisy Chain Fields",
+      "category": "平面设计",
+      "secondary": "设计师访谈",
+      "region": "国际",
+      "studio": "Sewell Killingstad；报道 Ellis Tree",
+      "date": "2026.10.15（访谈）",
+      "note": "新访谈回顾既有作品，音乐节应用发生于今年夏季，部分周边作品为 2025 年。",
+      "kind": "设计师访谈",
+      "summary": "It’s Nice That 介绍 Sewell Killingstad 将扫描花卉制成动态字形的过程，以及这些实验如何用于 Olivia Rodrigo 的 Daisy Chain Fields 音乐节海报和舞台。文章同时展示其周边服装、海报与标题设计。",
+      "source": "It’s Nice That",
+      "url": "https://www.itsnicethat.com/articles/sewell-killingstad-graphic-design-discover-151026",
+      "images": [
+        "https://m.itsnicethat.com/original_images/sewell_butter.gif?class=w1080",
+        "https://m.itsnicethat.com/original_images/sewell_daisychain.gif?class=w1080",
+        "https://m.itsnicethat.com/original_images/sewell_cloverposter.png?class=w828"
+      ],
+      "unavailable": false,
+      "references": []
+    },
+    {
+      "id": "foam-editorial-talk",
+      "title": "Foam Magazine 发布编辑与艺术指导分享回顾",
+      "name": "Foam Magazine · Nicer Tuesdays",
+      "category": "平面设计",
+      "secondary": "出版设计",
+      "region": "国际",
+      "studio": "Katy Hundertmark / Hamid Sallali",
+      "date": "2026.10.15（视频发布）",
+      "note": "内容回顾 9 月 Nicer Tuesdays 讲座；非新一期杂志发布。未取得可核验的作品静态图。",
+      "kind": "出版设计",
+      "summary": "Foam Magazine 主编 Katy Hundertmark 与前艺术总监 Hamid Sallali 分享杂志视觉方向的演变、主题策划及档案摄影的运用。It’s Nice That 于 10 月 15 日发布这场分享的回顾页面。",
+      "source": "It’s Nice That",
+      "url": "https://www.itsnicethat.com/articles/nicer-tuesdays-london-september-foam-magazine-151026",
+      "images": [],
+      "unavailable": true,
+      "references": []
+    },
+    {
+      "id": "on-ondesign",
+      "title": "On 介绍品牌创意内容平台 Ondesign",
+      "name": "On · Ondesign",
+      "category": "品牌设计",
+      "secondary": "品牌内容平台",
+      "region": "国际",
+      "studio": "On 创意团队",
+      "date": "2026.10.15（报道）",
+      "note": "来源明确标注 Sponsored Content（商业合作内容）；平台首上线日期未确认。正文以人物摄影为主，暂不提供作品图片收录。",
+      "kind": "品牌内容平台",
+      "summary": "On 通过 Ondesign 展示品牌内部平面、产品、数字体验与空间设计团队的工作。报道介绍该平台对创意流程和跨部门项目的呈现，包括品牌图像、零售空间和时装周项目。",
+      "source": "It’s Nice That（商业合作）",
+      "url": "https://www.itsnicethat.com/features/on-ondesign-editorial-platform-creative-industry-sponsored-content-151026",
+      "images": [],
+      "unavailable": true,
+      "references": [
+        {
+          "name": "Ondesign 官方平台",
+          "url": "https://design.on.com/"
+        }
+      ]
+    }
+  ]
+}

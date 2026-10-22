@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-15",
+  "label": "试刊 001",
+  "articles": [
+    {
+      "id": "arsenal",
+      "title": "阿森纳的文化身份，写进一套定制字体",
+      "name": "Arsenal · Rocastle",
+      "category": "字体设计",
+      "secondary": "品牌设计",
+      "region": "英国",
+      "studio": "David Rudnick & Léa Bruneau",
+      "date": "2026.10.12",
+      "note": "10.14 获 Brand New 推荐",
+      "kind": "设计师访谈",
+      "summary": "历时四年以上完成的三字重 Blackletter 字体家族，以传奇球员 David Rocastle 命名，面向俱乐部在时尚、艺术与音乐领域的品牌表达。",
+      "source": "It’s Nice That",
+      "url": "https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026",
+      "images": [
+        "https://m.itsnicethat.com/original_images/Arsenal_Rocastle_16x9_001.png?class=w1080",
+        "https://m.itsnicethat.com/original_images/Arsenal_Rocastle_16x9_010.png?class=w1080",
+        "https://m.itsnicethat.com/original_images/Arsenal_Rocastle_4x5_001.png?class=w1080",
+        "https://m.itsnicethat.com/original_images/Arsenal_Rocastle_16x9_005.png?class=w1080",
+        "https://m.itsnicethat.com/original_images/Arsenal_Rocastle_4x5_002.png?class=w1080",
+        "https://m.itsnicethat.com/original_images/Arsenal_Rocastle_16x9_ImageGroup_002.png?class=w1080"
+      ],
+      "unavailable": false
+    },
+    {
+      "id": "petra",
+      "title": "Petra 更新品牌与包装，呈现巴西本土文化",
+      "name": "Petra · Ana Couto",
+      "category": "品牌设计",
+      "secondary": "包装设计",
+      "region": "巴西",
+      "studio": "Ana Couto",
+      "date": "2026.10.14",
+      "note": "媒体新报道 · 项目此前于 09.17 见报",
+      "kind": "官方案例",
+      "summary": "项目覆盖品牌定位、标志、语言与视觉体系、包装及销售现场。铜色、深蓝与曲线图形贯穿包装和品牌应用。",
+      "source": "Ana Couto",
+      "url": "https://anacouto.com.br/cases/petra/",
+      "images": [
+        "https://anacouto.com.br/wp-content/uploads/2026/09/02-1024x576.png",
+        "https://anacouto.com.br/wp-content/uploads/2026/09/06-1-1024x576.png",
+        "https://anacouto.com.br/wp-content/uploads/2026/09/10-1024x576.png",
+        "https://anacouto.com.br/wp-content/uploads/2026/09/12-1024x576.jpg",
+        "https://anacouto.com.br/wp-content/uploads/2026/09/14-1024x576.png",
+        "https://anacouto.com.br/wp-content/uploads/2026/09/22-1024x576.png"
+      ],
+      "unavailable": false
+    },
+    {
+      "id": "attitude",
+      "title": "从菜园到餐桌，LG2 重塑生鲜包装系统",
+      "name": "Attitude Fraîche · LG2",
+      "category": "品牌设计",
+      "secondary": "包装设计",
+      "region": "加拿大",
+      "studio": "LG2",
+      "date": "2026.10.14",
+      "note": "媒体新报道 · 原报道 10.06",
+      "kind": "项目报道",
+      "summary": "以菜园里的作物标牌作为核心图形，通过颜色编码区分生菜品种，更新包装信息层级，并逐步延伸至其他品牌触点。",
+      "source": "Grenier",
+      "url": "https://www.grenier.qc.ca/actualites/58529/lg2-signe-la-nouvelle-identite-visuelle-dattitude-fraiche",
+      "images": [
+        "https://assets.grenier.qc.ca/uploads/images/LeGrenier-03-464939.jpg",
+        "https://assets.grenier.qc.ca/uploads/images/LeGrenier-04-464942.gif",
+        "https://assets.grenier.qc.ca/uploads/images/Legrenier-05-464945.gif",
+        "https://assets.grenier.qc.ca/uploads/images/LeGrenier-06-464948.gif",
+        "https://assets.grenier.qc.ca/uploads/images/LeGrenier-07-464951.jpg",
+        "https://assets.grenier.qc.ca/uploads/images/LeGrenier-08-464954.jpg",
+        "https://assets.grenier.qc.ca/uploads/images/LeGrenier-02-464936.gif"
+      ],
+      "unavailable": false
+    },
+    {
+      "id": "adc",
+      "title": "DixonBaxi 让 ADC 的立方体奖杯动起来",
+      "name": "ADC 106 · DixonBaxi",
+      "category": "平面设计",
+      "secondary": "动态视觉",
+      "region": "英国",
+      "studio": "DixonBaxi · Zelig Sound",
+      "date": "2026.10.13",
+      "note": "官方发布 · 媒体报道 10.14",
+      "kind": "官方发布",
+      "summary": "“In Search of What’s Next” 以 ADC Cube 为起点，通过拉伸、碎裂、复制、色彩碰撞及字体变化，构成第 106 届奖项的征集活动视觉。",
+      "source": "The One Club",
+      "url": "https://www.oneclub.org/press/-adc106-launch",
+      "images": [
+        "https://www.oneclub.org/images/userfiles/ADC%20106%20launch_web%20banner.webp"
+      ],
+      "unavailable": false
+    },
+    {
+      "id": "raoul",
+      "title": "从几何规则到旧广告：Raoul 的实验字体",
+      "name": "Raoul Gottschling · Type",
+      "category": "字体设计",
+      "secondary": "平面设计",
+      "region": "德国",
+      "studio": "Raoul Gottschling",
+      "date": "2026.10.12",
+      "note": "延伸阅读 · 非当天首发",
+      "kind": "设计师访谈",
+      "summary": "专题介绍字体创作与研究过程，包括以严格几何规则构建的 Quasar，以及由 20 世纪 60 年代工业胶黏剂广告字体演变而来的 Kleber。",
+      "source": "It’s Nice That",
+      "url": "https://www.itsnicethat.com/articles/raoul-gottschling-graphic-design-project-121026",
+      "images": [
+        "https://m.itsnicethat.com/original_images/Gaueko.PNG?class=w1080",
+        "https://m.itsnicethat.com/original_images/Kleber.png?class=w1080",
+        "https://m.itsnicethat.com/original_images/Platze.png?class=w1080",
+        "https://m.itsnicethat.com/original_images/QuasarRounded.png?class=w1080",
+        "https://m.itsnicethat.com/original_images/Wall-of-Fonts.JPG?class=w1080"
+      ],
+      "unavailable": false
+    }
+  ]
+}

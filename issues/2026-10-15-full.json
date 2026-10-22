@@ -1,0 +1,350 @@
+{
+  "id": "2026-10-15-full",
+  "date": "2026-10-15",
+  "label": "正式刊 001",
+  "coverage": "内容范围：2026.10.12—10.14（三个完整自然日）｜共 13 条｜按来源当地日期归档；旧项目新报道已标注。",
+  "window_start": "2026-10-12",
+  "window_end": "2026-10-14",
+  "reprint_from": [
+    "2026-10-15"
+  ],
+  "articles": [
+    {
+      "id": "mta",
+      "name": "MTA Arts & Design · 40th",
+      "title": "Pentagram 公布纽约 MTA Arts & Design 40 周年视觉案例",
+      "category": "品牌设计",
+      "secondary": "平面设计",
+      "region": "美国",
+      "studio": "Pentagram · Giorgia Lupi",
+      "date": "2026.10.12",
+      "summary": "以原有双圆标志为基础加入单线几何“40”，新增紫色与渐变应用。视觉延伸至地铁车厢海报、艺术卡片和动态传播，字体沿用 Neue Haas Grotesk。",
+      "note": "官网案例发布日期；周年活动此前已开展，并非本周启动。",
+      "images": [
+        "https://pentagram-production.imgix.net/61de6152-6887-4f90-b9d9-8f36963d6ba7/08.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C1920%2C1080&w=640&crop=1&fit=crop&h=360&s=8e58a38add59eddd7fbd051e0ce6161a",
+        "https://pentagram-production.imgix.net/61de6152-6887-4f90-b9d9-8f36963d6ba7/02_02.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C1080%2C1350&w=640&s=4c4d26e0bc3950eef3c197813b57dfd4",
+        "https://pentagram-production.imgix.net/61de6152-6887-4f90-b9d9-8f36963d6ba7/03.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C1920%2C1080&w=640&crop=1&fit=crop&h=360&s=1fb84aa08ededdc80f40d296582b9462"
+      ],
+      "kind": "官方案例",
+      "source": "Pentagram",
+      "url": "https://www.pentagram.com/work/mta-arts-design-40th",
+      "references": [
+        {
+          "name": "官网日期依据",
+          "url": "https://www.pentagram.com/news"
+        }
+      ],
+      "unavailable": false
+    },
+    {
+      "id": "arsenal",
+      "title": "阿森纳的文化身份，写进一套定制字体",
+      "name": "Arsenal · Rocastle",
+      "category": "字体设计",
+      "secondary": "品牌设计",
+      "region": "英国",
+      "studio": "David Rudnick & Léa Bruneau",
+      "date": "2026.10.12",
+      "note": "10.12 设计师访谈；10.14 获 Brand New 推荐。",
+      "kind": "设计师访谈",
+      "summary": "历时四年以上完成的三字重 Blackletter 字体家族，以传奇球员 David Rocastle 命名，面向俱乐部在时尚、艺术与音乐领域的品牌表达。",
+      "source": "It’s Nice That",
+      "url": "https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026",
+      "images": [
+        "https://m.itsnicethat.com/original_images/Arsenal_Rocastle_16x9_001.png?class=w1080",
+        "https://m.itsnicethat.com/original_images/Arsenal_Rocastle_16x9_010.png?class=w1080",
+        "https://m.itsnicethat.com/original_images/Arsenal_Rocastle_4x5_001.png?class=w1080",
+        "https://m.itsnicethat.com/original_images/Arsenal_Rocastle_16x9_005.png?class=w1080",
+        "https://m.itsnicethat.com/original_images/Arsenal_Rocastle_4x5_002.png?class=w1080",
+        "https://m.itsnicethat.com/original_images/Arsenal_Rocastle_16x9_ImageGroup_002.png?class=w1080"
+      ],
+      "unavailable": false
+    },
+    {
+      "id": "doha",
+      "name": "Design Doha Biennial",
+      "title": "Pentagram 的多哈双年展双语视觉获新报道",
+      "category": "品牌设计",
+      "secondary": "字体设计",
+      "region": "卡塔尔 / 英国",
+      "studio": "Pentagram · Samar Maakaroun",
+      "date": "2026.10.14（报道）",
+      "summary": "阿拉伯文与英文在同一排印结构中并置，通过延长字形笔画建立连接关系。米色、深栗色、橙色与原有蓝色构成识别系统，主展 Arab Design Now 使用同源但更粗重的字形表达。",
+      "note": "10.14 官网记录 Design Week 报道；官方案例已于 10.08 发布。",
+      "images": [
+        "https://pentagram-production.imgix.net/40f53c96-2d59-4fa5-9dd0-e03939d2eb4e/SM_DDB26_10.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C1872%2C2340&w=640&s=223d962403590bdc4b94686ad9d7f650",
+        "https://pentagram-production.imgix.net/be780306-6d0c-4650-8897-3d39012832a8/DDB26_Tool_5.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C1395%2C1743&w=640&s=2f339089a97128aef1abe20b4f05a955",
+        "https://pentagram-production.imgix.net/40f53c96-2d59-4fa5-9dd0-e03939d2eb4e/SM_DDB26_09.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C1872%2C2340&w=640&s=f5cffa6f59c05e83b1f1b6f82d6a72e0",
+        "https://pentagram-production.imgix.net/40f53c96-2d59-4fa5-9dd0-e03939d2eb4e/SM_DDB26_11.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C3840%2C2160&w=640&crop=1&fit=crop&h=360&s=60a2c8c749a3fddc7d8a4dabe38e2059",
+        "https://pentagram-production.imgix.net/40f53c96-2d59-4fa5-9dd0-e03939d2eb4e/SM_DDB26_13.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C1872%2C2340&w=640&s=fa1f6d9b484c7db08a096798973b8506",
+        "https://pentagram-production.imgix.net/40f53c96-2d59-4fa5-9dd0-e03939d2eb4e/SM_DDB26_25.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C1872%2C2340&w=640&s=f1aadea03b68c915da281e36e747a83f"
+      ],
+      "kind": "旧项目新报道",
+      "source": "Pentagram",
+      "url": "https://www.pentagram.com/work/design-doha-biennial",
+      "references": [
+        {
+          "name": "10.14 报道记录",
+          "url": "https://www.pentagram.com/news"
+        }
+      ],
+      "unavailable": false
+    },
+    {
+      "id": "kuda",
+      "name": "Kuda · Barkas",
+      "title": "Barkas 为 Kuda 重塑品牌，加入定制字形与奈拉符号",
+      "category": "品牌设计",
+      "secondary": "字体设计",
+      "region": "尼日利亚",
+      "studio": "Barkas；字体 Erkin Karamemet",
+      "date": "2026.10.13",
+      "summary": "新系统涵盖品牌定位、标志、网站以及个人和企业银行应用。厚重几何字形、模块化网格、定制奈拉符号与手绘插图组成视觉语言，个人业务用深紫色，企业业务以黑色区分。",
+      "note": "媒体报道日期；项目具体首次上线日期未披露。",
+      "images": [
+        "https://m.itsnicethat.com/original_images/barkas-kuda-itsnicethat-2.jpeg?class=w1080",
+        "https://m.itsnicethat.com/original_images/barkas-kuda-itsnicethat-4.jpeg?class=w1080",
+        "https://m.itsnicethat.com/original_images/barkas-kuda-itsnicethat-1.jpeg?class=w1080",
+        "https://m.itsnicethat.com/original_images/barkas-kuda-itsnicethat-7.jpeg?class=w1080",
+        "https://m.itsnicethat.com/original_images/barkas-kuda-itsnicethat-8.jpeg?class=w1080"
+      ],
+      "kind": "项目报道",
+      "source": "It’s Nice That",
+      "url": "https://www.itsnicethat.com/articles/barkas-kuda-graphic-design-project-131026",
+      "references": [],
+      "unavailable": false
+    },
+    {
+      "id": "adc",
+      "title": "DixonBaxi 让 ADC 的立方体奖杯动起来",
+      "name": "ADC 106 · DixonBaxi",
+      "category": "平面设计",
+      "secondary": "动态视觉",
+      "region": "英国",
+      "studio": "DixonBaxi · Zelig Sound",
+      "date": "2026.10.13",
+      "note": "官方发布 · 媒体报道 10.14",
+      "kind": "官方发布",
+      "summary": "“In Search of What’s Next” 以 ADC Cube 为起点，通过拉伸、碎裂、复制、色彩碰撞及字体变化，构成第 106 届奖项的征集活动视觉。",
+      "source": "The One Club",
+      "url": "https://www.oneclub.org/press/-adc106-launch",
+      "images": [
+        "https://www.oneclub.org/images/userfiles/ADC%20106%20launch_web%20banner.webp"
+      ],
+      "unavailable": false
+    },
+    {
+      "id": "pohoda",
+      "name": "Pohoda Festival · Andrej & Andrej",
+      "title": "Pohoda 30 周年视觉：双婴儿标志与圆角展示字体",
+      "category": "品牌设计",
+      "secondary": "字体设计",
+      "region": "斯洛伐克",
+      "studio": "Andrej & Andrej；3D Matej Martinec",
+      "date": "2026.10.14",
+      "summary": "工作室重新设计音乐节的标志、字体与配色，将历史上的双婴儿图形转为 3D 模型。展示字体取材于早期活动字样，部分小写字母可沿上下边缘对齐，应用于演出名单、海报及周边。",
+      "note": "媒体报道日期；对既有周年视觉的项目介绍。",
+      "images": [
+        "https://m.itsnicethat.com/original_images/andrej-andrej-pohoda-graphic-design-itsnicethat-15.jpg?class=w1080",
+        "https://m.itsnicethat.com/original_images/andrej-andrej-pohoda-graphic-design-itsnicethat-8.jpg?class=w1080",
+        "https://m.itsnicethat.com/original_images/andrej-andrej-pohoda-graphic-design-itsnicethat-13.jpg?class=w1080",
+        "https://m.itsnicethat.com/original_images/andrej-andrej-pohoda-graphic-design-itsnicethat-3.jpg?class=w1080",
+        "https://m.itsnicethat.com/original_images/andrej-andrej-pohoda-graphic-design-itsnicethat-12.jpg?class=w1080",
+        "https://m.itsnicethat.com/original_images/andrej-andrej-pohoda-graphic-design-itsnicethat-2.jpg?class=w1080"
+      ],
+      "kind": "项目报道",
+      "source": "It’s Nice That",
+      "url": "https://www.itsnicethat.com/articles/andrej-and-andrej-pohoda-festival-30th-anniversary-graphic-design-project-141026",
+      "references": [],
+      "unavailable": false
+    },
+    {
+      "id": "raoul",
+      "title": "从几何规则到旧广告：Raoul 的实验字体",
+      "name": "Raoul Gottschling · Type",
+      "category": "字体设计",
+      "secondary": "平面设计",
+      "region": "德国",
+      "studio": "Raoul Gottschling",
+      "date": "2026.10.12",
+      "note": "10.12 设计师专题报道；字体作品创作时间不等同于报道日期。",
+      "kind": "设计师访谈",
+      "summary": "专题介绍字体创作与研究过程，包括以严格几何规则构建的 Quasar，以及由 20 世纪 60 年代工业胶黏剂广告字体演变而来的 Kleber。",
+      "source": "It’s Nice That",
+      "url": "https://www.itsnicethat.com/articles/raoul-gottschling-graphic-design-project-121026",
+      "images": [
+        "https://m.itsnicethat.com/original_images/Gaueko.PNG?class=w1080",
+        "https://m.itsnicethat.com/original_images/Kleber.png?class=w1080",
+        "https://m.itsnicethat.com/original_images/Platze.png?class=w1080",
+        "https://m.itsnicethat.com/original_images/QuasarRounded.png?class=w1080",
+        "https://m.itsnicethat.com/original_images/Wall-of-Fonts.JPG?class=w1080"
+      ],
+      "unavailable": false
+    },
+    {
+      "id": "petra",
+      "title": "Petra 更新品牌与包装，呈现巴西本土文化",
+      "name": "Petra · Ana Couto",
+      "category": "品牌设计",
+      "secondary": "包装设计",
+      "region": "巴西",
+      "studio": "Ana Couto",
+      "date": "2026.10.14（报道）",
+      "note": "媒体新报道 · 项目此前于 09.17 见报",
+      "kind": "旧项目新报道",
+      "summary": "项目覆盖品牌定位、标志、语言与视觉体系、包装及销售现场。铜色、深蓝与曲线图形贯穿包装和品牌应用。",
+      "source": "Ana Couto",
+      "url": "https://anacouto.com.br/cases/petra/",
+      "images": [
+        "https://anacouto.com.br/wp-content/uploads/2026/09/02-1024x576.png",
+        "https://anacouto.com.br/wp-content/uploads/2026/09/06-1-1024x576.png",
+        "https://anacouto.com.br/wp-content/uploads/2026/09/10-1024x576.png",
+        "https://anacouto.com.br/wp-content/uploads/2026/09/12-1024x576.jpg",
+        "https://anacouto.com.br/wp-content/uploads/2026/09/14-1024x576.png",
+        "https://anacouto.com.br/wp-content/uploads/2026/09/22-1024x576.png"
+      ],
+      "unavailable": false,
+      "references": [
+        {
+          "name": "10.14 报道",
+          "url": "https://www.underconsideration.com/brandnew/archives/new_logo_identity_and_packaging_for_petra_by_ana_couto.php"
+        }
+      ]
+    },
+    {
+      "id": "attitude",
+      "title": "从菜园到餐桌，LG2 重塑生鲜包装系统",
+      "name": "Attitude Fraîche · LG2",
+      "category": "品牌设计",
+      "secondary": "包装设计",
+      "region": "加拿大",
+      "studio": "LG2",
+      "date": "2026.10.14（报道）",
+      "note": "媒体新报道 · 原报道 10.06",
+      "kind": "旧项目新报道",
+      "summary": "以菜园里的作物标牌作为核心图形，通过颜色编码区分生菜品种，更新包装信息层级，并逐步延伸至其他品牌触点。",
+      "source": "Grenier",
+      "url": "https://www.grenier.qc.ca/actualites/58529/lg2-signe-la-nouvelle-identite-visuelle-dattitude-fraiche",
+      "images": [
+        "https://assets.grenier.qc.ca/uploads/images/LeGrenier-03-464939.jpg",
+        "https://assets.grenier.qc.ca/uploads/images/LeGrenier-04-464942.gif",
+        "https://assets.grenier.qc.ca/uploads/images/Legrenier-05-464945.gif",
+        "https://assets.grenier.qc.ca/uploads/images/LeGrenier-06-464948.gif",
+        "https://assets.grenier.qc.ca/uploads/images/LeGrenier-07-464951.jpg",
+        "https://assets.grenier.qc.ca/uploads/images/LeGrenier-08-464954.jpg",
+        "https://assets.grenier.qc.ca/uploads/images/LeGrenier-02-464936.gif"
+      ],
+      "references": [
+        {
+          "name": "10.14 报道",
+          "url": "https://www.underconsideration.com/brandnew/archives/new_logo_and_packaging_for_attitude_fraiche_by_lg2.php"
+        }
+      ],
+      "unavailable": false
+    },
+    {
+      "id": "biotic",
+      "name": "Biotic · Mucho",
+      "title": "Mucho 为 Biotic 构建以细胞运动为核心的视觉系统",
+      "category": "品牌设计",
+      "secondary": "动态视觉",
+      "region": "美国 / 西班牙",
+      "studio": "Mucho",
+      "date": "2026.10.13（报道）",
+      "summary": "以单个圆点作为标志，将细胞增殖转化为反应扩散动画和静态纹理，采用黑白配色。项目服务于介绍合成细胞研究的非营利机构 Biotic。",
+      "note": "Brand New 于 10.13 新报道；详细项目报道已见于 10.08。",
+      "images": [
+        "https://m.itsnicethat.com/original_images/mucho-biotic-graphic-design-itsnicethat-2.jpg?class=w1080",
+        "https://m.itsnicethat.com/original_images/mucho-biotic-graphic-design-itsnicethat-15.jpg?class=w1080",
+        "https://m.itsnicethat.com/original_images/mucho-biotic-graphic-design-itsnicethat-3.jpg?class=w1080",
+        "https://m.itsnicethat.com/original_images/mucho-biotic-graphic-design-itsnicethat-5.jpg?class=w1080",
+        "https://m.itsnicethat.com/original_images/mucho-biotic-graphic-design-itsnicethat-9.jpg?class=w1080"
+      ],
+      "kind": "旧项目新报道",
+      "source": "It’s Nice That",
+      "url": "https://www.itsnicethat.com/articles/mucho-biotic-spudcells-graphic-design-project-081026",
+      "references": [
+        {
+          "name": "10.13 报道",
+          "url": "https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_biotic_by_mucho.php"
+        }
+      ],
+      "unavailable": false
+    },
+    {
+      "id": "basketball",
+      "name": "AUS Basketball · Hulsbosch",
+      "title": "AUS Basketball：统一国家队、人才通道与赛事品牌",
+      "category": "品牌设计",
+      "secondary": "平面设计",
+      "region": "澳大利亚",
+      "studio": "Hulsbosch",
+      "date": "2026.10.13（报道）",
+      "summary": "Hulsbosch 为 Basketball Australia 建立面向消费者的 AUS Basketball 品牌，将国家队、精英培养体系和全国性赛事纳入统一识别，并延伸至服装和零售触点。",
+      "note": "Brand New 于 10.13 收录；项目至少在 08.31 已有报道。",
+      "images": [
+        "https://www.hulsbosch.com.au/wp-content/uploads/2026/09/HULSBOSCH_BasketballAustralia_1920x1080_01.jpg",
+        "https://www.hulsbosch.com.au/wp-content/uploads/2026/09/HULSBOSCH_BasketballAustralia_1920x1080_02.jpg"
+      ],
+      "kind": "旧项目新报道",
+      "source": "Hulsbosch",
+      "url": "https://www.hulsbosch.com.au/news/hulsbosch-creates-new-consumer-brand-to-unite-australian-basketball/",
+      "references": [
+        {
+          "name": "10.13 报道",
+          "url": "https://www.underconsideration.com/brandnew/archives/new_consumer_brand_for_basketball_australia_by_hulsbosch.php"
+        },
+        {
+          "name": "08.31 较早报道",
+          "url": "https://campaignbrief.com/hulsbosch-creates-new-consumer-brand-to-unite-australian-basketball/"
+        }
+      ],
+      "unavailable": false
+    },
+    {
+      "id": "nuria",
+      "name": "Núria Balinha · Zines",
+      "title": "Núria Balinha 的独立刊物：拼贴、手绘与变形排印",
+      "category": "平面设计",
+      "secondary": "出版设计",
+      "region": "西班牙相关项目",
+      "studio": "Núria Balinha",
+      "date": "2026.10.14",
+      "summary": "设计师在系列独立刊物中混合拾得图像、拼贴、绘画及变形文字，围绕流行文化、女性主义和个人经验组织内容。报道介绍她从内容研究到 InDesign 排版的制作过程。",
+      "note": "设计师专题报道；非单一新刊物的发行公告。",
+      "images": [
+        "https://m.itsnicethat.com/original_images/ezgif.com-video-to-gif-converter_3_2KG5yeB.gif?class=w828",
+        "https://m.itsnicethat.com/original_images/ezgif.com-video-to-gif-converter_3_copy_6.gif?class=w828",
+        "https://m.itsnicethat.com/original_images/ezgif.com-video-to-gif-converter_3_copy_5.gif?class=w828",
+        "https://m.itsnicethat.com/original_images/ezgif.com-video-to-gif-converter_3_copy_4.gif?class=w828",
+        "https://m.itsnicethat.com/original_images/ezgif.com-video-to-gif-converter_3_copy_2_2VoUDtP.gif?class=w828"
+      ],
+      "kind": "项目报道",
+      "source": "It’s Nice That",
+      "url": "https://www.itsnicethat.com/articles/nuria-balinha-graphic-design-discover-141026",
+      "references": [],
+      "unavailable": false
+    },
+    {
+      "id": "bingo",
+      "name": "Avignonesi · Atelier Bingo",
+      "title": "Atelier Bingo 为 Avignonesi 2016 年份酒设计拼贴酒标",
+      "category": "平面设计",
+      "secondary": "包装设计",
+      "region": "法国 / 意大利",
+      "studio": "Atelier Bingo；Bonvini 1909",
+      "date": "2026.10.13",
+      "summary": "为 Late Release 系列设计酒标与盒装，将托斯卡纳的丘陵、植物和建筑转化为剪纸、手绘及印章纹理。碎片扫描后重新拼贴，包装盒展开可呈现连续画面，本次限量 9,000 瓶。",
+      "note": "来源明确标注 Sponsored Content（商业合作内容）。",
+      "images": [
+        "https://m.itsnicethat.com/original_images/Key_Visual_673mSTN.jpg?class=w1080",
+        "https://m.itsnicethat.com/original_images/Workinprogress_Avignonesi_AtelierBingo_02.jpg?class=w1080"
+      ],
+      "kind": "商业合作报道",
+      "source": "It’s Nice That",
+      "url": "https://www.itsnicethat.com/articles/atelier-bingo-avignonesi-graphic-design-sponsored-content-131026",
+      "references": [],
+      "unavailable": false
+    }
+  ]
+}
