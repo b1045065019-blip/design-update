@@ -52,3 +52,10 @@ main{max-width:none;padding:0 2%;margin:0 auto}
 .toolbar nav{display:flex;flex:1 1 700px;flex-wrap:wrap;gap:8px 24px;min-width:0}
 .toolbar .filter{white-space:nowrap}.toolbar .search{flex:0 1 250px;margin-top:0;min-width:180px}
 @media(max-width:680px){.toolbar nav{flex-basis:100%;gap:8px 18px}.toolbar .filter{font-size:12px}.toolbar .search{flex:1 1 100%;min-width:0}}
+
+/* Designer credit, aligned with the masthead's lower right edge. */
+.preview-masthead{align-items:stretch}.masthead-right{display:flex;flex-direction:column}
+.designer-credit{width:112px;margin:auto 0 0 auto;padding-top:32px;text-align:center;flex-shrink:0}
+.designer-credit img{display:block;width:112px;height:auto;max-width:100%;object-fit:contain}
+.designer-credit figcaption{margin-top:7px;color:#000;font:11px/1.3 Arial,"Helvetica Neue",sans-serif;white-space:nowrap}
+@media(max-width:680px){.designer-credit{width:84px;padding-top:24px}.designer-credit img{width:84px}.designer-credit figcaption{font-size:9px;margin-top:6px}}
