@@ -7,6 +7,13 @@
     "file": "issues/2026-10-21.json"
   },
   {
+    "id": "2026-10-22-collection-test",
+    "date": "2026-10-22",
+    "label": "收录功能测试",
+    "count": 1,
+    "file": "issues/2026-10-22-collection-test.json"
+  },
+  {
     "id": "2026-10-18",
     "date": "2026-10-18",
     "label": "正式刊 002",

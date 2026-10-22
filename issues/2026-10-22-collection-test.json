@@ -1,0 +1,74 @@
+{
+  "id": "2026-10-22-collection-test",
+  "date": "2026-10-22",
+  "label": "收录功能测试",
+  "coverage": "收录功能测试 · Koto × Instagram · 非三日新闻期刊 · 官方案例仅标注 2026 年",
+  "articles": [
+    {
+      "id": "koto-instagram-collection-test",
+      "title": "Koto 为 Instagram 更新字标",
+      "name": "Instagram Wordmark — Koto",
+      "category": "品牌设计",
+      "secondary": "字体设计",
+      "region": "国际",
+      "studio": "Koto / Instagram",
+      "date": "2026（官方仅标年份）",
+      "note": "收录功能测试案例；不计入三日新闻。官方未标注具体发布日期。",
+      "kind": "官方案例 · 收录测试",
+      "summary": "Koto 与 Instagram 团队合作调整品牌字标，通过手写字形、连字和曲线细节的推敲，保留原有识别特征，并用于产品界面、营销及创作者相关场景。",
+      "source": "Koto 官方",
+      "url": "https://koto.com/projects/instagram",
+      "images": [
+        "https://cdn.sanity.io/images/sbsn7wuy/production/319a5f7a94688bf4f58631c57fd444a377a93221-3840x2160.jpg",
+        "https://cdn.sanity.io/images/sbsn7wuy/production/12ed3b1dfeed685c969caf8fcc1bab03eec8d125-3840x2160.jpg",
+        "https://cdn.sanity.io/images/sbsn7wuy/production/e08fe0f71b52494cb7a578826a4e268a448bb286-2160x2700.jpg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://cdn.sanity.io/images/sbsn7wuy/production/319a5f7a94688bf4f58631c57fd444a377a93221-3840x2160.jpg": {
+          "url": "https://cdn.sanity.io/images/sbsn7wuy/production/319a5f7a94688bf4f58631c57fd444a377a93221-3840x2160.jpg",
+          "paths": [
+            [
+              "设计",
+              "Instagram Wordmark — Koto"
+            ]
+          ],
+          "tags": [
+            "字体设计",
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://cdn.sanity.io/images/sbsn7wuy/production/12ed3b1dfeed685c969caf8fcc1bab03eec8d125-3840x2160.jpg": {
+          "url": "https://cdn.sanity.io/images/sbsn7wuy/production/12ed3b1dfeed685c969caf8fcc1bab03eec8d125-3840x2160.jpg",
+          "paths": [
+            [
+              "设计",
+              "Instagram Wordmark — Koto"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://cdn.sanity.io/images/sbsn7wuy/production/e08fe0f71b52494cb7a578826a4e268a448bb286-2160x2700.jpg": {
+          "url": "https://cdn.sanity.io/images/sbsn7wuy/production/e08fe0f71b52494cb7a578826a4e268a448bb286-2160x2700.jpg",
+          "paths": [
+            [
+              "设计",
+              "Instagram Wordmark — Koto"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "视觉设计"
+          ],
+          "brands": []
+        }
+      }
+    }
+  ]
+}
