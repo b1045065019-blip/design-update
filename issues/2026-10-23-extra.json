@@ -1,0 +1,375 @@
+{
+  "id": "2026-10-23-extra",
+  "date": "2026-10-23",
+  "label": "手动加更 001",
+  "window_start": "2026-10-20",
+  "window_end": "2026-10-22",
+  "coverage": "手动加更｜2026.10.20—10.22（三个完整自然日）｜7 条新增项目，排除已推送内容｜不改变正式三日刊周期",
+  "articles": [
+    {
+      "id": "doha-extra-20261023",
+      "title": "Pentagram 的多哈设计双年展双语识别获新报道",
+      "name": "Design Doha Biennial 2026",
+      "category": "品牌设计",
+      "secondary": "字体设计",
+      "region": "国际",
+      "studio": "Pentagram · Samar Maakaroun 团队",
+      "date": "2026.10.20（报道）",
+      "note": "旧项目新报道；官方发布日为 10 月 8 日，报道日为 10 月 20 日。报道全文需订阅，项目细节依据公开官方案例。",
+      "kind": "项目报道",
+      "summary": "Samar Maakaroun 团队为多哈设计双年展设计阿拉伯文与英文并置的视觉系统，以字形延伸线连接不同内容，并扩展为展览图形与动态应用。官方项目已于 10 月 8 日发布，本期收录 10 月 20 日的新报道。",
+      "source": "Brand New / Pentagram",
+      "url": "https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_design_doha_biennial_2026_by_pentagram.php",
+      "images": [
+        "https://pentagram-production.imgix.net/795eb105-0f5d-469f-9a21-6d435a186d0f/SM_DDB26_Thumbnail_V2.png?auto=compress%2Cformat&crop=entropy&fit=crop&fm=jpg&h=470&q=80&rect=144%2C0%2C2592%2C1620&w=900&s=90e50a3caab8b7eb59ae39fb4488c072",
+        "https://pentagram-production.imgix.net/b28b6833-9ac7-4484-bfd0-dc14d7bda205/SM_DDB26_03.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C2880%2C1620&w=2000&s=d9a39e5606e901798d32ee08325ae6f6"
+      ],
+      "unavailable": false,
+      "references": [
+        {
+          "name": "Pentagram 官方案例",
+          "url": "https://www.pentagram.com/work/design-doha-biennial"
+        },
+        {
+          "name": "Pentagram 官方新闻索引（10 月 8 日）",
+          "url": "https://www.pentagram.com/news"
+        }
+      ],
+      "collectionPlans": {
+        "https://pentagram-production.imgix.net/795eb105-0f5d-469f-9a21-6d435a186d0f/SM_DDB26_Thumbnail_V2.png": {
+          "url": "https://pentagram-production.imgix.net/795eb105-0f5d-469f-9a21-6d435a186d0f/SM_DDB26_Thumbnail_V2.png?auto=compress%2Cformat&crop=entropy&fit=crop&fm=jpg&h=470&q=80&rect=144%2C0%2C2592%2C1620&w=900&s=90e50a3caab8b7eb59ae39fb4488c072",
+          "paths": [
+            [
+              "设计",
+              "Design Doha Biennial 2026"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "字体设计"
+          ],
+          "brands": []
+        },
+        "https://pentagram-production.imgix.net/b28b6833-9ac7-4484-bfd0-dc14d7bda205/SM_DDB26_03.png": {
+          "url": "https://pentagram-production.imgix.net/b28b6833-9ac7-4484-bfd0-dc14d7bda205/SM_DDB26_03.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C2880%2C1620&w=2000&s=d9a39e5606e901798d32ee08325ae6f6",
+          "paths": [
+            [
+              "设计",
+              "Design Doha Biennial 2026"
+            ]
+          ],
+          "tags": [
+            "海报设计",
+            "版式设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "storefront-extra-20261023",
+      "title": "Pentagram 为 Storefront Gala 2026 设计定制字母系统",
+      "name": "Storefront Gala 2026",
+      "category": "品牌设计",
+      "secondary": "字体设计",
+      "region": "国际",
+      "studio": "Pentagram · Natasha Jen 团队；报道 Emily Gosling",
+      "date": "2026.10.22（报道）",
+      "note": "旧项目新报道；活动日期 9 月 28 日，媒体报道日期 10 月 22 日。",
+      "kind": "项目报道",
+      "summary": "Natasha Jen 团队从 Grand Central Oyster Bar 的招牌字形出发，为 Storefront Gala 延展完整字母系统。粗黑轮廓与多色字形用于活动海报、数字图形及印刷节目册。活动已于 9 月 28 日举行，本次为新报道。",
+      "source": "BP&O",
+      "url": "https://bpando.org/2026/10/22/pentagram-new-york-storefront-gala-2026-event-identity-design/",
+      "images": [
+        "https://bpando.org/wp-content/uploads/storefront-gala-2026-pentagram-identity-logo-wordmark-bpo-review-typography.jpeg",
+        "https://bpando.org/wp-content/uploads/storefront-gala-2026-pentagram-identity-logo-wordmark-bpo-review-print.jpeg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://bpando.org/wp-content/uploads/storefront-gala-2026-pentagram-identity-logo-wordmark-bpo-review-typography.jpeg": {
+          "url": "https://bpando.org/wp-content/uploads/storefront-gala-2026-pentagram-identity-logo-wordmark-bpo-review-typography.jpeg",
+          "paths": [
+            [
+              "设计",
+              "Storefront Gala 2026"
+            ]
+          ],
+          "tags": [
+            "字体设计"
+          ],
+          "brands": []
+        },
+        "https://bpando.org/wp-content/uploads/storefront-gala-2026-pentagram-identity-logo-wordmark-bpo-review-print.jpeg": {
+          "url": "https://bpando.org/wp-content/uploads/storefront-gala-2026-pentagram-identity-logo-wordmark-bpo-review-print.jpeg",
+          "paths": [
+            [
+              "设计",
+              "Storefront Gala 2026"
+            ]
+          ],
+          "tags": [
+            "海报设计",
+            "版式设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "tdc-extra-20261023",
+      "title": "TDC73 启动征集，并发布 Grafis Nusantara 设计的活动视觉",
+      "name": "TDC73 — Be Bold, Be Seen",
+      "category": "字体设计",
+      "secondary": "平面设计",
+      "region": "国际",
+      "studio": "Type Directors Club / Grafis Nusantara",
+      "date": "2026.10.21（官方新闻）",
+      "note": "官方新闻日期为 10 月 21 日；报名日期请以官方参赛入口为准，新闻稿早鸟年份存在前后不一致，未转述该日期。",
+      "kind": "赛事与字体设计新闻",
+      "summary": "TDC73 开放视觉传达、字形书写及字体设计三个方向的参赛征集，并调整类别说明、增加书写系统选择。Grafis Nusantara 以印度尼西亚民间招牌、包装和贴纸为参考，设计本届字体视觉及动态传播。",
+      "source": "Type Directors Club",
+      "url": "https://tdc.org/news/global-tdc73-competition-kicks-off/",
+      "images": [
+        "https://tdc.org/wp-content/uploads/2026/10/TDC73-launch-scaled.jpg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://tdc.org/wp-content/uploads/2026/10/TDC73-launch-scaled.jpg": {
+          "url": "https://tdc.org/wp-content/uploads/2026/10/TDC73-launch-scaled.jpg",
+          "paths": [
+            [
+              "设计",
+              "TDC73 — Be Bold, Be Seen"
+            ]
+          ],
+          "tags": [
+            "字体设计",
+            "海报设计",
+            "版式设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "canada-extra-20261023",
+      "title": "Caserne 为 Let’s Grow Canada 设计的品牌系统获新报道",
+      "name": "Let’s Grow Canada",
+      "category": "品牌设计",
+      "secondary": "视觉设计",
+      "region": "国际",
+      "studio": "Caserne / Small Giants；图标合作 Benjamin Lamingo；报道 Emily Gosling",
+      "date": "2026.10.20（报道）",
+      "note": "旧项目新报道；倡议于 2026 年 2 月启动，本次报道发布于 10 月 20 日。",
+      "kind": "项目报道",
+      "summary": "Caserne 与 Small Giants 为农业及食品倡议 Let’s Grow Canada 制作品牌识别，以几何枫叶、鲜明色彩及 Neue Brücke 字体组成系统，并与 Benjamin Lamingo 合作开发覆盖食品产业的图标。倡议已于 2026 年 2 月启动。",
+      "source": "BP&O",
+      "url": "https://bpando.org/2026/10/20/caserne-brand-identity-design-lets-grow-canada/",
+      "images": [
+        "https://bpando.org/wp-content/uploads/caserne-lets-grow-canada-branding-identity-design-logo-bpo-review-typography.jpg",
+        "https://bpando.org/wp-content/uploads/caserne-lets-grow-canada-branding-identity-design-logo-bpo-review-icons.jpg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://bpando.org/wp-content/uploads/caserne-lets-grow-canada-branding-identity-design-logo-bpo-review-typography.jpg": {
+          "url": "https://bpando.org/wp-content/uploads/caserne-lets-grow-canada-branding-identity-design-logo-bpo-review-typography.jpg",
+          "paths": [
+            [
+              "设计",
+              "Let’s Grow Canada"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://bpando.org/wp-content/uploads/caserne-lets-grow-canada-branding-identity-design-logo-bpo-review-icons.jpg": {
+          "url": "https://bpando.org/wp-content/uploads/caserne-lets-grow-canada-branding-identity-design-logo-bpo-review-icons.jpg",
+          "paths": [
+            [
+              "设计",
+              "Let’s Grow Canada"
+            ]
+          ],
+          "tags": [
+            "视觉设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "dayjob-extra-20261023",
+      "title": "Day Job 为电影制作公司 To Be Formed 设计可变字标",
+      "name": "To Be Formed — Day Job",
+      "category": "品牌设计",
+      "secondary": "字体设计",
+      "region": "国际",
+      "studio": "Day Job；主字标设计 Orysia Zabeida；报道 Harry Bennett",
+      "date": "2026.10.21（报道）",
+      "note": "按 10 月 21 日报道日期归档；项目首次上线日期未确认。",
+      "kind": "项目报道",
+      "summary": "Day Job 为 Lance Oppenheim 联合创立的制作公司 To Be Formed 设计识别，将粗细与字形差异组合成主字标，并准备约 20 个可交替使用的辅助字标。系统延展至影片宣传图与网站，参考非传统书封及早期 DVD 菜单。",
+      "source": "It’s Nice That",
+      "url": "https://www.itsnicethat.com/articles/tbf-day-job-graphic-design-project-211026",
+      "images": [
+        "https://m.itsnicethat.com/original_images/tbf-graphic-design-itsnicethat-1.png?class=w1080",
+        "https://m.itsnicethat.com/original_images/tbf-graphic-design-itsnicethat-2.png?class=w1080",
+        "https://m.itsnicethat.com/original_images/tbf-graphic-design-itsnicethat-3.png?class=w1080"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://m.itsnicethat.com/original_images/tbf-graphic-design-itsnicethat-1.png": {
+          "url": "https://m.itsnicethat.com/original_images/tbf-graphic-design-itsnicethat-1.png?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "To Be Formed — Day Job"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "字体设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/tbf-graphic-design-itsnicethat-2.png": {
+          "url": "https://m.itsnicethat.com/original_images/tbf-graphic-design-itsnicethat-2.png?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "To Be Formed — Day Job"
+            ]
+          ],
+          "tags": [
+            "海报设计",
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/tbf-graphic-design-itsnicethat-3.png": {
+          "url": "https://m.itsnicethat.com/original_images/tbf-graphic-design-itsnicethat-3.png?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "To Be Formed — Day Job"
+            ]
+          ],
+          "tags": [
+            "海报设计",
+            "标志设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "podium-extra-20261023",
+      "title": "Humbleteam 的 Podium 品牌与网站系统获报道",
+      "name": "Podium — Humbleteam",
+      "category": "品牌设计",
+      "secondary": "视觉设计",
+      "region": "国际",
+      "studio": "Humbleteam；报道 alex",
+      "date": "2026.10.21（报道）",
+      "note": "按媒体报道日期归档；项目首次发布日未确认。",
+      "kind": "项目报道",
+      "summary": "Humbleteam 为 Podium 制作品牌及网站视觉，以红色圆形“聚光灯”作为核心图形，并将其嵌入字标。系统结合 Sharp Grotesk 字体、模块化界面与动态表现，延展至名片、文具及其他品牌应用。",
+      "source": "abduzeedo",
+      "url": "https://abduzeedo.com/humbleteam-unveils-podium-uiux-design-web-system",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_podium-brand-identity-website-marketing-agency-humbleteam_3.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_podium-brand-identity-website-marketing-agency-humbleteam_5.jpg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_podium-brand-identity-website-marketing-agency-humbleteam_3.jpg": {
+          "url": "https://cms.abduzeedo.com/sites/default/files/originals/gallery_podium-brand-identity-website-marketing-agency-humbleteam_3.jpg",
+          "paths": [
+            [
+              "设计",
+              "Podium — Humbleteam"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_podium-brand-identity-website-marketing-agency-humbleteam_5.jpg": {
+          "url": "https://cms.abduzeedo.com/sites/default/files/originals/gallery_podium-brand-identity-website-marketing-agency-humbleteam_5.jpg",
+          "paths": [
+            [
+              "设计",
+              "Podium — Humbleteam"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "视觉设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "affinity-extra-20261023",
+      "title": "Affinity / Cavalry 的 Free Form 项目发布海报与设计素材",
+      "name": "Free Form — Melina K & Rob Farmer",
+      "category": "平面设计",
+      "secondary": "海报设计",
+      "region": "国际",
+      "studio": "Melina K / Rob Farmer；It’s Nice That × Affinity / Cavalry",
+      "date": "2026.10.21（合作内容）",
+      "note": "来源明确标注 Brand Partnership；这是海报与素材项目报道，不作为软件首次推出或首次免费消息。",
+      "kind": "合作项目 / 设计资源",
+      "summary": "It’s Nice That 与 Affinity、Cavalry 合作邀请 Melina K 和 Rob Farmer，以各自感到创作自由的场景为题制作海报。项目同时提供 Affinity 素材文件与 Cavalry 动画文件，供设计师下载实验。",
+      "source": "It’s Nice That",
+      "url": "https://www.itsnicethat.com/features/affinity-and-cavalry-free-form-brand-partnership-211026",
+      "images": [
+        "https://m.itsnicethat.com/original_images/Doves_Blue_RGB_MELINA_K.png?class=w1080",
+        "https://m.itsnicethat.com/original_images/Flowers_Compressed_3.gif?class=w480"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://m.itsnicethat.com/original_images/Doves_Blue_RGB_MELINA_K.png": {
+          "url": "https://m.itsnicethat.com/original_images/Doves_Blue_RGB_MELINA_K.png?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Free Form — Melina K & Rob Farmer"
+            ]
+          ],
+          "tags": [
+            "海报设计",
+            "字体设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/Flowers_Compressed_3.gif": {
+          "url": "https://m.itsnicethat.com/original_images/Flowers_Compressed_3.gif?class=w480",
+          "paths": [
+            [
+              "设计",
+              "Free Form — Melina K & Rob Farmer"
+            ]
+          ],
+          "tags": [
+            "海报设计",
+            "字体设计"
+          ],
+          "brands": []
+        }
+      }
+    }
+  ]
+}
