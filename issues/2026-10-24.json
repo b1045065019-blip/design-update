@@ -1,0 +1,211 @@
+{
+  "date": "2026-10-24",
+  "label": "正式刊 004（补发）",
+  "window_start": "2026-10-21",
+  "window_end": "2026-10-23",
+  "coverage": "内容范围：2026.10.21—10.23（三个完整自然日）｜5 条新增内容，排除手动加更已发项目｜10 月 25 日补发",
+  "published_on": "2026-10-25",
+  "source_failures": [
+    "DixonBaxi：扫描连接失败；搜索未发现本窗口可核实的新项目。"
+  ],
+  "articles": [
+    {
+      "id": "bodycare-20261024",
+      "title": "Fold7Design 为 Bodycare 更新视觉与零售体验",
+      "name": "Bodycare — Fold7Design",
+      "category": "品牌设计",
+      "secondary": "视觉设计",
+      "region": "国际",
+      "studio": "Fold7Design",
+      "date": "2026.10.22（报道）",
+      "summary": "Fold7Design 为英国美妆零售商 Bodycare 设计新的品牌与门店体验。视觉以明亮配色及可变图形符号展开，借用爱心、对话框等社交表达，并延伸至商品导视、员工物料和创作者空间。",
+      "source": "Ads of Brands",
+      "url": "https://adsofbrands.net/public/en/news/fold7design-partners-with-bodycare-to-relaunch-the-brand-as-a-social-first-retail-experience/10964",
+      "note": "按 10 月 22 日报道日期归档；品牌重启及部分门店已先行落地，不作为当日首次开店消息。",
+      "kind": "项目报道",
+      "images": [
+        "https://adsofbrands.net/public/images/news/1/17926626559271.png",
+        "https://adsofbrands.net/public/images/news/1/1792662655956.jpeg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://adsofbrands.net/public/images/news/1/17926626559271.png": {
+          "url": "https://adsofbrands.net/public/images/news/1/17926626559271.png",
+          "paths": [
+            [
+              "设计",
+              "Bodycare — Fold7Design"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "视觉设计"
+          ],
+          "brands": []
+        },
+        "https://adsofbrands.net/public/images/news/1/1792662655956.jpeg": {
+          "url": "https://adsofbrands.net/public/images/news/1/1792662655956.jpeg",
+          "paths": [
+            [
+              "设计",
+              "Bodycare — Fold7Design"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "视觉设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "sfrc-20261024",
+      "title": "Study Hall 的 San Francisco Running Company 识别获新报道",
+      "name": "San Francisco Running Company",
+      "category": "品牌设计",
+      "secondary": "标志设计",
+      "region": "国际",
+      "studio": "Study Hall · Jeremy Volk / Matt Yerman 团队",
+      "date": "2026.10.22（报道）",
+      "summary": "Study Hall 为旧金山跑步品牌 SFRC 制作品牌及动态识别，以拉力赛车文化中的速度感、技术细节与泥点质感为参考，结合粗体文字、雾气和运动模糊，呈现湾区跑步社群的地域特征。",
+      "source": "Brand New / Study Hall",
+      "url": "https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_san_francisco_running_company_by_study_hall.php",
+      "note": "按 10 月 22 日报道日期归档；官方项目未标首次上线日。媒体全文需订阅，设计细节来自官方公开案例。",
+      "kind": "项目报道",
+      "images": [
+        "https://cdn.sanity.io/images/0igjr1v5/production/92804f774d08121ee55e189b6398006efb4c0ba8-3280x1845.png?auto=format"
+      ],
+      "unavailable": false,
+      "references": [
+        {
+          "name": "Study Hall 官方案例",
+          "url": "https://www.studyhall.design/work/sfrc"
+        }
+      ],
+      "collectionPlans": {
+        "https://cdn.sanity.io/images/0igjr1v5/production/92804f774d08121ee55e189b6398006efb4c0ba8-3280x1845.png": {
+          "url": "https://cdn.sanity.io/images/0igjr1v5/production/92804f774d08121ee55e189b6398006efb4c0ba8-3280x1845.png?auto=format",
+          "paths": [
+            [
+              "设计",
+              "San Francisco Running Company"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "标志设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "union-20261024",
+      "title": "Two Times Elliott 的 Union 品牌识别与印刷系统获报道",
+      "name": "Union — Two Times Elliott",
+      "category": "品牌设计",
+      "secondary": "版式设计",
+      "region": "国际",
+      "studio": "Two Times Elliott",
+      "date": "2026.10.23（报道）",
+      "summary": "Two Times Elliott 为办公空间服务品牌 Union 设计加宽字标、几何符号及印刷系统。识别延展至文具、楼宇租赁资料和品牌规范，以网格排版、建筑图纸、摄影及压凹印刷串联信息。",
+      "source": "abduzeedo",
+      "url": "https://abduzeedo.com/union-inside-two-times-elliotts-visual-identity",
+      "note": "按 10 月 23 日报道日期归档；项目首次发布日未确认。",
+      "kind": "项目报道",
+      "images": [
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_union-two-times-elliott_0.jpg",
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_union-two-times-elliott_1.jpg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_union-two-times-elliott_0.jpg": {
+          "url": "https://cms.abduzeedo.com/sites/default/files/originals/gallery_union-two-times-elliott_0.jpg",
+          "paths": [
+            [
+              "设计",
+              "Union — Two Times Elliott"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://cms.abduzeedo.com/sites/default/files/originals/gallery_union-two-times-elliott_1.jpg": {
+          "url": "https://cms.abduzeedo.com/sites/default/files/originals/gallery_union-two-times-elliott_1.jpg",
+          "paths": [
+            [
+              "设计",
+              "Union — Two Times Elliott"
+            ]
+          ],
+          "tags": [
+            "版式设计",
+            "品牌设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "above-20261024",
+      "title": "Chợ Chời 为 Above Water 设计的饮料包装获新报道",
+      "name": "Above Water — Chợ Chời Creative",
+      "category": "品牌设计",
+      "secondary": "包装设计",
+      "region": "国际",
+      "studio": "Chợ Chời Creative；报道 Lisa Cain",
+      "date": "2026.10.21（报道）",
+      "summary": "Chợ Chời Creative 为椰子气泡饮品牌 Above Water 设计包装，参考椰子在仪式与神话中的意象，以雕刻感文字、植物、太阳及角色插画构成不同罐身场景。",
+      "source": "BP&O",
+      "url": "https://bpando.org/2026/10/21/fresh-out-of-history/",
+      "note": "来源为 BP&O Voices 包装专栏，按新报道日期归档，未转述评论；项目首发日未知。当前仅取得低分辨率预览，暂不提供图片收录。",
+      "kind": "项目报道",
+      "images": [],
+      "unavailable": true,
+      "references": [],
+      "collectionPlans": {}
+    },
+    {
+      "id": "muzli-20261024",
+      "title": "Muzli 发布 2,190 个网站的字体使用调查",
+      "name": "Muzli Font Pairings 2026",
+      "category": "字体设计",
+      "secondary": "版式设计",
+      "region": "国际",
+      "studio": "Petras Baukys / Muzli",
+      "date": "2026.10.21（发布）",
+      "summary": "Muzli 对设计画廊收录的 2,190 个网站进行字体调查，报告称约 60% 的样本在标题与正文中使用同一字体家族；Inter 出现在约 13% 的网站。文章同时说明浏览器字体识别方法、样本排除条件及月份加权方式。",
+      "source": "Muzli",
+      "url": "https://muz.li/blog/font-pairings-2026/",
+      "note": "数字为 Muzli 自有样本调查结果，不代表整个互联网；文章发布于 10 月 21 日。",
+      "kind": "字体研究",
+      "images": [
+        "https://files.muzli.cloud/blog/font-pairings-2026/one-or-two.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://files.muzli.cloud/blog/font-pairings-2026/one-or-two.png": {
+          "url": "https://files.muzli.cloud/blog/font-pairings-2026/one-or-two.png",
+          "paths": [
+            [
+              "设计",
+              "Muzli Font Pairings 2026"
+            ]
+          ],
+          "tags": [
+            "版式设计",
+            "视觉设计"
+          ],
+          "brands": []
+        }
+      }
+    }
+  ]
+}
