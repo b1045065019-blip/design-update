@@ -1,0 +1,324 @@
+{
+  "date": "2026-10-27",
+  "label": "正式刊 005",
+  "window_start": "2026-10-24",
+  "window_end": "2026-10-26",
+  "coverage": "内容范围：2026.10.24—10.26（三个完整自然日）｜6 条新增报道，按项目去重；报道日期与项目首发日期分别说明",
+  "published_on": "2026-10-27",
+  "source_failures": [
+    "Brand New 扫描命中旧播客 feed，已改用公开首页核对本窗口标题和日期；正文需订阅，本期设计细节依据可读取的官方案例与公开报道。",
+    "候选输出达到160条上限，部分后排来源未进入精简列表；已补查扫描缓存及设计媒体首页，未把导航和无日期项目当成新资讯。"
+  ],
+  "articles": [
+    {
+      "id": "whitecase-20261027",
+      "title": "Uncommon 的 White & Case 品牌识别获新报道",
+      "name": "White & Case — Uncommon",
+      "category": "品牌设计",
+      "secondary": "字体设计",
+      "region": "国际",
+      "studio": "Uncommon Creative Studio · New York",
+      "date": "2026.10.26（报道）",
+      "summary": "Uncommon 纽约团队为伟凯律师事务所 White & Case 制作新的识别系统，以定制字标、具有石刻感的 & 符号、动态字体及图像处理工具构成视觉语言。新字标与蓝色系统延伸至名片等品牌物料。",
+      "source": "Brand New / Uncommon",
+      "url": "https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_white_case_by_uncommon_creative_studio.php",
+      "note": "按10月26日新报道归档，不作为当日首次发布；Uncommon 的公开说明发表于10月23日，更早的公开报道已存在。媒体正文需订阅，细节来自工作室公开说明；图片另见标志情报局。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/10/2026101012213824.png",
+        "https://imgs.logonews.cn/uploads/2026/10/2026101012222295.png",
+        "https://imgs.logonews.cn/uploads/2026/10/1288db0a-1286-427b-b396-98da82286892.jpg"
+      ],
+      "unavailable": false,
+      "references": [
+        {
+          "name": "Uncommon 官方项目说明",
+          "url": "https://www.linkedin.com/posts/uncommon-creative-studio_proud-to-unveil-the-new-brand-identity-for-activity-7519369185425215489-9WFC"
+        },
+        {
+          "name": "标志情报局：图片及早期报道",
+          "url": "https://www.logonews.cn/white-case-new-logo.html"
+        }
+      ],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/10/2026101012222295.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/2026101012222295.png",
+          "paths": [
+            [
+              "设计",
+              "White & Case"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "字体设计"
+          ],
+          "brands": [],
+          "reviewed_at": "2026-10-27"
+        },
+        "https://imgs.logonews.cn/uploads/2026/10/1288db0a-1286-427b-b396-98da82286892.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/1288db0a-1286-427b-b396-98da82286892.jpg",
+          "paths": [
+            [
+              "设计",
+              "White & Case"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "版式设计"
+          ],
+          "brands": [],
+          "reviewed_at": "2026-10-27"
+        }
+      }
+    },
+    {
+      "id": "mario-20261027",
+      "title": "《超级马里奥》系列字标与角色视觉更新获报道",
+      "name": "Super Mario — Nintendo",
+      "category": "标志设计",
+      "secondary": "视觉设计",
+      "region": "国际",
+      "studio": "Nintendo；具体设计团队未披露",
+      "date": "2026.10.24（报道）",
+      "summary": "标志情报局报道，任天堂官网马里奥角色介绍页出现调整后的系列字标和角色渲染图。字标保留彩色立体字的基本轮廓，调整集中于字母厚度、阴影、高光及侧面明暗关系；角色图展示奔跑、跳跃等姿态。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/nintendo-updates-the-super-mario-series-logo.html",
+      "note": "按10月24日报道日期归档；官网首次替换时间未确认，不将报道日写成官方发布日期。封面仅预览，已审核的新旧字标对照与角色合成图可供点击收录。",
+      "kind": "视觉更新报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/09/2026092005225762.jpg",
+        "https://imgs.logonews.cn/uploads/2026/09/2026092005230429.png",
+        "https://imgs.logonews.cn/uploads/2026/09/1ba8c5d0-950e-43cf-a828-66f6e667c784.jpg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/09/2026092005230429.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/09/2026092005230429.png",
+          "paths": [
+            [
+              "设计",
+              "Super Mario"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": [],
+          "reviewed_at": "2026-10-27"
+        },
+        "https://imgs.logonews.cn/uploads/2026/09/1ba8c5d0-950e-43cf-a828-66f6e667c784.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/09/1ba8c5d0-950e-43cf-a828-66f6e667c784.jpg",
+          "paths": [
+            [
+              "设计",
+              "Super Mario"
+            ]
+          ],
+          "tags": [
+            "视觉设计"
+          ],
+          "brands": [],
+          "reviewed_at": "2026-10-27"
+        }
+      }
+    },
+    {
+      "id": "farmergracy-20261027",
+      "title": "Bolden 与 Tobias Hall 的 Farmer Gracy 品牌项目获新报道",
+      "name": "Farmer Gracy — Bolden",
+      "category": "品牌设计",
+      "secondary": "版式设计",
+      "region": "国际",
+      "studio": "Bolden；徽章 Tobias Hall / Handsome Frank；插画 Iris van den Akker",
+      "date": "2026.10.26（报道）",
+      "summary": "Bolden 为园艺品牌 Farmer Gracy 更新品牌及电商体验，项目涵盖品牌基础、徽章、语言系统、插画、摄影、包装和印刷物料。Tobias Hall 负责徽章设计，Iris van den Akker 负责插画；官方案例展示了配合植物摄影的网页分类与排版。",
+      "source": "Brand New / Bolden",
+      "url": "https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_farmer_gracy_by_tobias_hall_and_bolden.php",
+      "note": "按10月26日新报道归档；官方案例未给出首次上线日。媒体正文需订阅，项目范围与署名依据 Bolden 公开案例。封面仅预览，仅为审核过的网页设计图准备收录，不将普通花园摄影误标为品牌作品。",
+      "kind": "项目报道",
+      "images": [
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/10/farmer_gracy_logo_before_after.png",
+        "https://framerusercontent.com/images/C3XU0clAtsEMfdsKrnYeaoMptnA.jpg?width=2720&height=1628"
+      ],
+      "unavailable": false,
+      "references": [
+        {
+          "name": "Bolden 官方案例：Farmer Gracy 2.0",
+          "url": "https://bolden.nl/work/farmer-gracy-v2"
+        }
+      ],
+      "collectionPlans": {
+        "https://framerusercontent.com/images/C3XU0clAtsEMfdsKrnYeaoMptnA.jpg": {
+          "url": "https://framerusercontent.com/images/C3XU0clAtsEMfdsKrnYeaoMptnA.jpg?width=2720&height=1628",
+          "paths": [
+            [
+              "设计",
+              "Farmer Gracy"
+            ]
+          ],
+          "tags": [
+            "版式设计",
+            "视觉设计"
+          ],
+          "brands": [],
+          "reviewed_at": "2026-10-27"
+        }
+      }
+    },
+    {
+      "id": "temper-20261027",
+      "title": "Hono 将温网决胜回合拆成 Temper 梨酒的60张标签",
+      "name": "Temper Sixty — Studio Hono",
+      "category": "包装设计",
+      "secondary": "平面设计",
+      "region": "国际",
+      "studio": "Studio Hono；Risograph 印刷 Herr & Frau Rio；摄影 Sebastian Flek / Manuel Perić",
+      "date": "2026.10.26（报道）",
+      "summary": "维也纳工作室 Hono 为 Temper 与酿酒师 Luka Zeichmann 的合作梨酒设计60张连续标签，以2008年温网决赛决胜回合的最后四秒为图形序列。绿紫网格经 Risograph 印刷后逐张手工编号并打孔，让瓶中酒液成为画面里的网球；标签扫描后组合成动画。",
+      "source": "It’s Nice That",
+      "url": "https://www.itsnicethat.com/articles/studio-hono-temper-branding-project-261026",
+      "note": "按10月26日报道归档；文章说明项目用于今年温网期间的英国发布，不是10月首次上市。作品标签标注为 Sparkling Pear Cider（气泡梨酒）。封面动图仅预览，收录内容为已审核的标签与序列静态图。",
+      "kind": "包装项目报道",
+      "images": [
+        "https://m.itsnicethat.com/original_images/Temper-Hero-Close_1.gif?class=w1080",
+        "https://m.itsnicethat.com/original_images/TEMPER_HONO_03_60_LABEL.jpg?class=w1440",
+        "https://m.itsnicethat.com/original_images/TEMPER_HONO_10_FRAMES.jpg?class=w1440"
+      ],
+      "unavailable": false,
+      "references": [
+        {
+          "name": "Studio Hono 官网",
+          "url": "https://hono.at/"
+        }
+      ],
+      "collectionPlans": {
+        "https://m.itsnicethat.com/original_images/TEMPER_HONO_03_60_LABEL.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/TEMPER_HONO_03_60_LABEL.jpg?class=w1440",
+          "paths": [
+            [
+              "设计",
+              "Temper Sixty"
+            ]
+          ],
+          "tags": [
+            "包装设计",
+            "版式设计"
+          ],
+          "brands": [],
+          "reviewed_at": "2026-10-27"
+        },
+        "https://m.itsnicethat.com/original_images/TEMPER_HONO_10_FRAMES.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/TEMPER_HONO_10_FRAMES.jpg?class=w1440",
+          "paths": [
+            [
+              "设计",
+              "Temper Sixty"
+            ]
+          ],
+          "tags": [
+            "包装设计",
+            "视觉设计"
+          ],
+          "brands": [],
+          "reviewed_at": "2026-10-27"
+        }
+      }
+    },
+    {
+      "id": "klassic-20261027",
+      "title": "ORKR 为 KlassiC. 更新的标志与品牌形象获报道",
+      "name": "KlassiC. — ORKR",
+      "category": "品牌设计",
+      "secondary": "标志设计",
+      "region": "国内",
+      "studio": "ORKR · 韩国",
+      "date": "2026.10.26（报道）",
+      "summary": "生活风格品牌 KlassiC. 的新识别由韩国团队 ORKR 设计，保留品牌蓝色，并更新符号和字标。新符号采用椭圆外轮廓与内部箭头状线条；标志情报局将这次更新与品牌的 The Everyday Maker 理念联系起来。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/klassic-new-logo.html",
+      "note": "按10月26日报道归档；项目首次启用日期未确认，不把报道日期视为设计完成日。仅为已核对的新旧标志对照图准备收录，封面不导入。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/05/2026050303572261.png",
+        "https://imgs.logonews.cn/uploads/2026/05/2026050303572962.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/05/2026050303572962.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/05/2026050303572962.png",
+          "paths": [
+            [
+              "设计",
+              "KlassiC."
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": [],
+          "reviewed_at": "2026-10-27"
+        }
+      }
+    },
+    {
+      "id": "fifau20-20261027",
+      "title": "2027年国际足联U-20世界杯的会徽与图形系统获新报道",
+      "name": "FIFA U-20 World Cup 2027",
+      "category": "品牌设计",
+      "secondary": "标志设计",
+      "region": "国际",
+      "studio": "FIFA；具体设计团队未披露",
+      "date": "2026.10.24（报道）",
+      "summary": "2027年国际足联U-20世界杯视觉以字母 U 及 U20 字形为基础，配合蓝绿、紫红渐变图形。报道介绍，图形参考阿塞拜疆和乌兹别克斯坦的传统瓷砖与马赛克，并与 U Shape The Game 赛事口号共同使用。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/2027-fifa-u-20-logo.html",
+      "note": "按10月24日报道归档；报道明确官方发布为10月15日，非本窗口首发。对照图展示2025与2027两届视觉，不是同一届方案的修改前后。封面仅预览。",
+      "kind": "赛事视觉报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/10/df74ccef-a5df-4bc6-a4d5-2a9467965ae9.jpg",
+        "https://imgs.logonews.cn/uploads/2026/10/f6293001-8e44-4298-9d18-2febedc4e359.jpg",
+        "https://imgs.logonews.cn/uploads/2026/10/1320764c-c63d-4f99-b345-012dc21f7580.jpg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/10/f6293001-8e44-4298-9d18-2febedc4e359.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/f6293001-8e44-4298-9d18-2febedc4e359.jpg",
+          "paths": [
+            [
+              "设计",
+              "FIFA U-20 World Cup 2027"
+            ]
+          ],
+          "tags": [
+            "视觉设计",
+            "版式设计"
+          ],
+          "brands": [],
+          "reviewed_at": "2026-10-27"
+        },
+        "https://imgs.logonews.cn/uploads/2026/10/1320764c-c63d-4f99-b345-012dc21f7580.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/1320764c-c63d-4f99-b345-012dc21f7580.jpg",
+          "paths": [
+            [
+              "设计",
+              "FIFA U-20 World Cup 2027"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": [],
+          "reviewed_at": "2026-10-27"
+        }
+      }
+    }
+  ],
+  "editorial_notes": [
+    "已检查 AI 视觉与平面设计关注方向；本轮未核实到符合10月24—26日日期及内容条件的新增条目，不以窗口外指南或纯视频教程凑数。"
+  ]
+}
