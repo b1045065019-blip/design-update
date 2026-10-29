@@ -1,0 +1,849 @@
+{
+  "date": "2026-10-30",
+  "label": "正式刊 006",
+  "window_start": "2026-10-27",
+  "window_end": "2026-10-29",
+  "coverage": "内容范围：2026.10.27—10.29（三个完整自然日）｜12 条新增报道，按项目去重；报道日期与项目首发日期分别说明",
+  "published_on": "2026-10-30",
+  "source_failures": [
+    "Brand New 自动扫描再次命中旧 The Follow-up 播客 RSS（条目停在 2024 年），已改用公开首页按日期核对标题；正文需订阅，条目细节以可读取的媒体与工作室公开页面为准，未据此猜测栏目内文。",
+    "候选输出仍受 160 条上限限制，入榜来源集中在 Pentagram、TypeTogether、BP&O、方正字库、COLLINS、Recraft、标志情报局等；已补查 state/scan-cache.json 的分来源缓存、Brand New 与 It's Nice That 当前首页及 Pentagram 新闻页，未把导航链接当成新资讯。",
+    "Adobe Blog / Canva Newsroom 本次无法稳定读取正文列表，AI 图像类来源（Ideogram 10 月 26 日、Recraft 10 月 7 日、Krea 10 月 22 日、Figma AI 10 月 10 日）在窗口内没有新发布，因此本期没有硬凑 AI 条目。"
+  ],
+  "articles": [
+    {
+      "id": "spring-japan-20261030",
+      "title": "春秋航空日本首航 12 年后首次全面焕新：樱花粉进场，字标换成黑体",
+      "name": "Spring Airlines Japan 品牌焕新",
+      "category": "标志设计",
+      "secondary": "视觉设计",
+      "region": "日本",
+      "studio": "春秋航空日本；设计执行方未披露",
+      "date": "2026.10.27（报道）",
+      "summary": "春秋航空日本（2012 年成立，日本航空与春秋航空共同出资，成田机场为主枢纽）宣布自 2014 年首航以来首次全面更新 LOGO 与机身涂装，并同步优化机场与线上体验。新 LOGO 延续品牌绿色并加入樱花粉，保留原有「3S」元素，同时融入「JAPAN」首字母 J，并重新引入初代标志里的樱花图形；字体由偏正式的明朝体改为黑体，加入柔和弧线，口号仍为「FLY WITH SMILE」。新涂装保留尾翼轮廓，图案从机身前部延伸至尾翼，加入春日暖风与飘落樱花。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/spring-japan-new-logo.html",
+      "note": "按 10 月 27 日报道归档；报道称「近日宣布」，未给出确切发布日，因此不把报道日写成官方发布日。首架新涂装客机 JA05GR 计划年内投入运营，官网 12 月起逐步上线，属于已公布但未完成落地的部分。",
+      "kind": "品牌焕新报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/10/a02db7c5-c86f-4724-9a17-fbe7a6e2270f.png",
+        "https://imgs.logonews.cn/uploads/2026/10/41ca8167-76bc-44d0-bddd-31991aeca097.jpeg",
+        "https://imgs.logonews.cn/uploads/2026/10/2403cfb8-deda-452e-9cad-c0eb2004f6e4.jpg",
+        "https://imgs.logonews.cn/uploads/2026/10/a0f8f457-29d1-4676-861e-4d8de6f3fc9b.jpg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/10/a02db7c5-c86f-4724-9a17-fbe7a6e2270f.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/a02db7c5-c86f-4724-9a17-fbe7a6e2270f.png",
+          "paths": [
+            [
+              "设计",
+              "Spring Japan 品牌焕新"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "品牌设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/10/41ca8167-76bc-44d0-bddd-31991aeca097.jpeg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/41ca8167-76bc-44d0-bddd-31991aeca097.jpeg",
+          "paths": [
+            [
+              "设计",
+              "Spring Japan 品牌焕新"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "视觉设计",
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/10/2403cfb8-deda-452e-9cad-c0eb2004f6e4.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/2403cfb8-deda-452e-9cad-c0eb2004f6e4.jpg",
+          "paths": [
+            [
+              "设计",
+              "Spring Japan 品牌焕新"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/10/a0f8f457-29d1-4676-861e-4d8de6f3fc9b.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/a0f8f457-29d1-4676-861e-4d8de6f3fc9b.jpg",
+          "paths": [
+            [
+              "设计",
+              "Spring Japan 品牌焕新"
+            ]
+          ],
+          "tags": [
+            "视觉设计",
+            "标志设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "galaxy-macau-20261030",
+      "title": "澳门银河去掉冠状图形，标识只剩无衬线中英文",
+      "name": "Galaxy Macau 品牌识别更新",
+      "category": "标志设计",
+      "secondary": "视觉设计",
+      "region": "中国澳门",
+      "studio": "未披露",
+      "date": "2026.10.29（报道）",
+      "summary": "澳门银河（2011 年开幕，现汇集 8 家酒店品牌及购物、影院、会展设施）更新品牌识别。沿用自开业起的几何冠状图形被取消，新标识只保留中英文名称，两者均改为无衬线字体，长期使用的金色仍是主要品牌色。报道同时给出新旧对照：旧系统下银河综艺馆、银河国际会议中心、银河时尚汇等子品牌共用冠状图形，新版为纯文字家族。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/galaxy-macau-new-logo.html",
+      "note": "报道明确说明截至发稿未找到官方说明，设计理念与创作背景未知；本文只记录官网与官方平台可见的新旧视觉变化，不推测设计意图，也不把报道日当作正式发布日。",
+      "kind": "识别更新报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/09/2026092909311380.png",
+        "https://imgs.logonews.cn/uploads/2026/09/2026092909313714.png",
+        "https://imgs.logonews.cn/uploads/2026/09/2026092909311054.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/09/2026092909311380.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/09/2026092909311380.png",
+          "paths": [
+            [
+              "设计",
+              "澳门银河品牌识别更新"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/09/2026092909313714.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/09/2026092909313714.png",
+          "paths": [
+            [
+              "设计",
+              "澳门银河品牌识别更新"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "品牌设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/09/2026092909311054.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/09/2026092909311054.png",
+          "paths": [
+            [
+              "设计",
+              "澳门银河品牌识别更新"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "indonesia-creative-20261030",
+      "title": "印尼把 21 个创意子行业收进一个国家级品牌：像素「ci」",
+      "name": "Creative by Indonesia 国家创意品牌",
+      "category": "品牌设计",
+      "secondary": "标志设计",
+      "region": "印度尼西亚",
+      "studio": "印尼创意经济部；设计执行方未披露",
+      "date": "2026.10.29（报道）",
+      "summary": "印尼创意经济部为创意产业推出统一国家品牌「印尼创意（Creative by Indonesia）」，随平台上线同步公布 LOGO。标识由像素化的「ci」与一个圆环构成，点与点之间的连接被解释为 21 个创意经济子行业之间的融合与不受限的创意流动。创意经济部长 Teuku Riefky Harsya 表示，创意经济正成为印尼经济新引擎，该项目整合工艺、服装设计、音乐、数码内容、游戏开发、配音等 21 个子行业资源，帮助本土创意 IP 进入国际市场。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/creative-by-indonesia.html",
+      "note": "按 10 月 29 日报道归档；官方发布日期与平台上线确切时间未在报道中给出，不补猜。",
+      "kind": "国家品牌报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/10/a9c737dc-692a-478d-9fce-d26e8d02c500.jpg",
+        "https://imgs.logonews.cn/uploads/2026/10/4bd2114e-e3ad-4cf5-bbd7-cc1e0a1e01cb.png",
+        "https://imgs.logonews.cn/uploads/2026/10/0c5e1038-4102-4521-b9b1-0b3f0c1b3fe2.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/10/a9c737dc-692a-478d-9fce-d26e8d02c500.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/a9c737dc-692a-478d-9fce-d26e8d02c500.jpg",
+          "paths": [
+            [
+              "设计",
+              "Creative by Indonesia"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "视觉设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/10/4bd2114e-e3ad-4cf5-bbd7-cc1e0a1e01cb.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/4bd2114e-e3ad-4cf5-bbd7-cc1e0a1e01cb.png",
+          "paths": [
+            [
+              "设计",
+              "Creative by Indonesia"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "品牌设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/10/0c5e1038-4102-4521-b9b1-0b3f0c1b3fe2.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/0c5e1038-4102-4521-b9b1-0b3f0c1b3fe2.png",
+          "paths": [
+            [
+              "设计",
+              "Creative by Indonesia"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "品牌设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "korea-k-mark-20261030",
+      "title": "韩国推国家认证标志「K」：政府持有商标，扫码验真",
+      "name": "K-Brand 国家认证标志 — CDR Associates",
+      "category": "标志设计",
+      "secondary": "品牌设计",
+      "region": "韩国",
+      "studio": "CDR Associates",
+      "date": "2026.10.28（报道）",
+      "summary": "韩国知识产权部宣布推出面向韩国品牌（K-Brand）的国家认证机制，由政府直接持有认证商标权，以便在海外作为商标权受侵害方参与维权。韩国设计机构 CDR Associates 完成识别设计，理念落在多样性、扩展、飞翔与「信赖之蓝」四点：大写 K 由不同形态的正方形、圆形与三角形组合，象征食品、美妆、时尚、科技等不同领域品牌汇聚到同一认证之下；图形既向中心汇聚又向外延伸，左上方展开的形态像鸟展翅。主色为被称为 Trustworthy Blue 的蓝色。消费者可用手机摄像头直接扫描标志验真，无需安装应用；已有 31 家企业申请，包括三养食品、爱茉莉太平洋与韩国人参公社。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/k-brand-new-logo.html",
+      "note": "按 10 月 28 日报道归档；认证制度尚在推进阶段，标志全面上包装的时间未公布，不写成已全面启用。",
+      "kind": "认证标志报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/10/9ae508fd-a456-465b-92e8-2bef38498a09.png",
+        "https://imgs.logonews.cn/uploads/2026/10/96e4e231-e3f5-4b4b-8741-02ac0ffa242d.jpg",
+        "https://imgs.logonews.cn/uploads/2026/10/46ae0a2b-68b4-4e4c-bdc9-6f6e8244073e.png",
+        "https://imgs.logonews.cn/uploads/2026/10/e966766f-a330-49ab-942d-a3e145975f31.jpg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/10/9ae508fd-a456-465b-92e8-2bef38498a09.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/9ae508fd-a456-465b-92e8-2bef38498a09.png",
+          "paths": [
+            [
+              "设计",
+              "K-Brand 韩国国家认证标志"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/10/96e4e231-e3f5-4b4b-8741-02ac0ffa242d.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/96e4e231-e3f5-4b4b-8741-02ac0ffa242d.jpg",
+          "paths": [
+            [
+              "设计",
+              "K-Brand 韩国国家认证标志"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "品牌设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/10/46ae0a2b-68b4-4e4c-bdc9-6f6e8244073e.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/46ae0a2b-68b4-4e4c-bdc9-6f6e8244073e.png",
+          "paths": [
+            [
+              "设计",
+              "K-Brand 韩国国家认证标志"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/10/e966766f-a330-49ab-942d-a3e145975f31.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/e966766f-a330-49ab-942d-a3e145975f31.jpg",
+          "paths": [
+            [
+              "设计",
+              "K-Brand 韩国国家认证标志"
+            ]
+          ],
+          "tags": [
+            "视觉设计",
+            "标志设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "mcafee-20261030",
+      "title": "McAfee 十年后再改标：折面去掉，红变亮橙红",
+      "name": "McAfee 标志更新",
+      "category": "标志设计",
+      "secondary": "字体设计",
+      "region": "美国",
+      "studio": "未披露",
+      "date": "2026.10.28（报道）",
+      "summary": "McAfee 再次更新 LOGO，距 2016 年那次「M + 盾牌」简化正好十年。新版保留 M 盾牌符号，但移除原有的立体折面与深浅色层次，改为更统一、简洁的几何线条，品牌色从深红调整为更明亮的红橙色。字标同步调整字形比例、曲线与字距，整体更轻盈；字母 A 的顶部由向上突出改为收拢，轮廓更接近规整的等腰三角形，图形与字标之间的比例和组合关系也重新调整。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/mcafee-new-logo-2026.html",
+      "note": "按 10 月 28 日报道归档，报道为简讯，未给出官方发布日与设计方，不补猜。",
+      "kind": "标志更新报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/10/2026101013072250.png",
+        "https://imgs.logonews.cn/uploads/2026/10/2026101013072349.jpg",
+        "https://imgs.logonews.cn/uploads/2026/10/2026101013072085.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/10/2026101013072250.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/2026101013072250.png",
+          "paths": [
+            [
+              "设计",
+              "McAfee 标志更新"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/10/2026101013072349.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/2026101013072349.jpg",
+          "paths": [
+            [
+              "设计",
+              "McAfee 标志更新"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/10/2026101013072085.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/2026101013072085.png",
+          "paths": [
+            [
+              "设计",
+              "McAfee 标志更新"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "simmer-20261030",
+      "title": "Simmer 用「猎狮」做体育游戏品牌：折角、斜线与数据层级",
+      "name": "Simmer — Play",
+      "category": "品牌设计",
+      "secondary": "版式设计",
+      "region": "美国",
+      "studio": "Play（设计工作室）",
+      "date": "2026.10.29（报道）",
+      "summary": "面向体育迷的在线游戏平台 Simmer 推出全新品牌形象，由设计工作室 Play 完成，范围覆盖 LOGO、视觉识别系统、命名、艺术指导、UX/UI 与网站开发。新 LOGO 取自古代「猎狮」场景，用明显折角与倾斜线条强化紧张与对抗感——人面对强敌需要观察、判断并等待时机，与平台一对一竞技的玩法对应。字体、版式、动态图形与 UI 组件延续同一方向，大量使用斜线和结构明确的版面；数据展示被重新整理为更易读的信息层级，用青色突出关键数据，整体配色偏暖并取自古代竞技场景。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/simmer-new-logo.html",
+      "note": "按 10 月 29 日报道归档；报道未给出品牌上线日期与发布声明细节，不猜测。",
+      "kind": "品牌项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/09/2026091913280952.png",
+        "https://imgs.logonews.cn/uploads/2026/09/202609191329487.jpg",
+        "https://imgs.logonews.cn/uploads/2026/09/2026091913354520.jpg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/09/2026091913280952.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/09/2026091913280952.png",
+          "paths": [
+            [
+              "设计",
+              "Simmer 品牌形象"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "品牌设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/09/202609191329487.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/09/202609191329487.jpg",
+          "paths": [
+            [
+              "设计",
+              "Simmer 品牌形象"
+            ]
+          ],
+          "tags": [
+            "版式设计",
+            "视觉设计",
+            "品牌设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/09/2026091913354520.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/09/2026091913354520.jpg",
+          "paths": [
+            [
+              "设计",
+              "Simmer 品牌形象"
+            ]
+          ],
+          "tags": [
+            "视觉设计",
+            "品牌设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "slso-20261030",
+      "title": "Pentagram 为圣路易斯交响乐团做识别：字标随乐章错落",
+      "name": "St. Louis Symphony Orchestra — Pentagram",
+      "category": "品牌设计",
+      "secondary": "标志设计",
+      "region": "美国",
+      "studio": "Pentagram（Natasha Jen、Eddie Opara 及团队）",
+      "date": "2026.10.27（官方发布）",
+      "summary": "Pentagram 与圣路易斯交响乐团（SLSO）合作完成品牌策略与视觉识别，呼应 Snøhetta 为 Powell Hall 所做扩建中的曲线，让乐团的「艺术身份」与「物理空间」形成连贯关系。新字标可与单字母组合标志搭配、独立使用，或以错落排列出现，暗示音乐的律动与乐器之间的交替；系统延伸至季节 campaign、官网与 Powell Hall 内的标识。背景是新建筑 Jack C. Taylor 音乐中心落成：64,000 平方英尺扩建与修复后的音乐厅整合，2025 年乐团第 146 季在此重开。项目与乐团总裁兼 CEO Marie-Hélène Bernard、首席营销与传播官 Unitey Kull 及乐手、观众共同推进。",
+      "source": "Pentagram",
+      "url": "https://www.pentagram.com/work/st-louis-symphony-orchestra",
+      "note": "Pentagram 新闻页把该项目标为 Oct 27, 2026 的工作发布；项目本身随 2025 年 Powell Hall 重开启动，因此发布日不等于品牌首次启用日。",
+      "kind": "品牌项目发布",
+      "images": [
+        "https://pentagram-production.imgix.net/ad6f5655-a5f2-45f6-86b4-90dc0fca5f79/SLSO_CaseStudy_05.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C2576%2C1450&w=640&crop=1&fit=crop&h=360&s=d69721ee01f1db5ddd30cf7376fb9742",
+        "https://pentagram-production.imgix.net/ad6f5655-a5f2-45f6-86b4-90dc0fca5f79/SLSO_CaseStudy_08.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C3020%2C1700&w=640&crop=1&fit=crop&h=360&s=dc326477793b1006d12812d63cb365a6",
+        "https://pentagram-production.imgix.net/ad6f5655-a5f2-45f6-86b4-90dc0fca5f79/SLSO_CaseStudy_03.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C3020%2C1700&w=640&crop=1&fit=crop&h=360&s=1c199134bae6b95e6e6177cf485e7748"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://pentagram-production.imgix.net/ad6f5655-a5f2-45f6-86b4-90dc0fca5f79/SLSO_CaseStudy_05.png": {
+          "url": "https://pentagram-production.imgix.net/ad6f5655-a5f2-45f6-86b4-90dc0fca5f79/SLSO_CaseStudy_05.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C2576%2C1450&w=640&crop=1&fit=crop&h=360&s=d69721ee01f1db5ddd30cf7376fb9742",
+          "paths": [
+            [
+              "设计",
+              "圣路易斯交响乐团"
+            ]
+          ],
+          "tags": [
+            "海报设计",
+            "版式设计",
+            "品牌设计"
+          ],
+          "brands": []
+        },
+        "https://pentagram-production.imgix.net/ad6f5655-a5f2-45f6-86b4-90dc0fca5f79/SLSO_CaseStudy_08.png": {
+          "url": "https://pentagram-production.imgix.net/ad6f5655-a5f2-45f6-86b4-90dc0fca5f79/SLSO_CaseStudy_08.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C3020%2C1700&w=640&crop=1&fit=crop&h=360&s=dc326477793b1006d12812d63cb365a6",
+          "paths": [
+            [
+              "设计",
+              "圣路易斯交响乐团"
+            ]
+          ],
+          "tags": [
+            "视觉设计",
+            "品牌设计"
+          ],
+          "brands": []
+        },
+        "https://pentagram-production.imgix.net/ad6f5655-a5f2-45f6-86b4-90dc0fca5f79/SLSO_CaseStudy_03.png": {
+          "url": "https://pentagram-production.imgix.net/ad6f5655-a5f2-45f6-86b4-90dc0fca5f79/SLSO_CaseStudy_03.png?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C3020%2C1700&w=640&crop=1&fit=crop&h=360&s=1c199134bae6b95e6e6177cf485e7748",
+          "paths": [
+            [
+              "设计",
+              "圣路易斯交响乐团"
+            ]
+          ],
+          "tags": [
+            "视觉设计",
+            "品牌设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "london-life-20261030",
+      "title": "Pentagram 把伦敦的四种性格排成大字，投上 Piccadilly 大屏",
+      "name": "London Life — Pentagram",
+      "category": "版式设计",
+      "secondary": "字体设计",
+      "region": "英国",
+      "studio": "Pentagram（Domenic Lippa 及团队）",
+      "date": "2026.10.29（官方发布）",
+      "summary": "作为 2026 伦敦设计节的一部分，Pentagram 的 Domenic Lippa 团队在伦敦最具标志性的大屏上做了一件纯字体作品，用字型捕捉伦敦的四种性格：以泰晤士河表现「水」——它分开又连接南北岸；以 Pearly Kings and Queens 的历史形象表现城市古怪的传统；以城市绿意表现那种让人提气的繁盛；最后是那些常常离奇到好笑的街名。案例图显示字型以整面建筑转角为画布，逐字排布成名副其实的「字体情书」。",
+      "source": "Pentagram",
+      "url": "https://www.pentagram.com/work/london-life",
+      "note": "Pentagram 新闻页标注 Oct 29, 2026；作品属于伦敦设计节期间的投放，具体上屏档期官方未逐日公布，不把发布日写成投放首日。",
+      "kind": "字体应用项目",
+      "images": [
+        "https://pentagram-production.imgix.net/010470ce-3868-4492-a22c-4476616e177e/DL_PICCLDF26_08.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C5776%2C3056&w=640&crop=1&fit=crop&h=339&s=314c769a044a3ff5eca2e3229381b776",
+        "https://pentagram-production.imgix.net/010470ce-3868-4492-a22c-4476616e177e/DL_PICCLDF26_16.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C5776%2C3056&w=640&crop=1&fit=crop&h=339&s=227b198deb5af06c51894d9743a4999d",
+        "https://pentagram-production.imgix.net/010470ce-3868-4492-a22c-4476616e177e/DL_PICCLDF26_12.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C5776%2C3056&w=640&crop=1&fit=crop&h=339&s=0f6393e4cea68a97a10261871c81f53b"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://pentagram-production.imgix.net/010470ce-3868-4492-a22c-4476616e177e/DL_PICCLDF26_08.jpg": {
+          "url": "https://pentagram-production.imgix.net/010470ce-3868-4492-a22c-4476616e177e/DL_PICCLDF26_08.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C5776%2C3056&w=640&crop=1&fit=crop&h=339&s=314c769a044a3ff5eca2e3229381b776",
+          "paths": [
+            [
+              "设计",
+              "London Life"
+            ]
+          ],
+          "tags": [
+            "字体设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://pentagram-production.imgix.net/010470ce-3868-4492-a22c-4476616e177e/DL_PICCLDF26_16.jpg": {
+          "url": "https://pentagram-production.imgix.net/010470ce-3868-4492-a22c-4476616e177e/DL_PICCLDF26_16.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C5776%2C3056&w=640&crop=1&fit=crop&h=339&s=227b198deb5af06c51894d9743a4999d",
+          "paths": [
+            [
+              "设计",
+              "London Life"
+            ]
+          ],
+          "tags": [
+            "字体设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://pentagram-production.imgix.net/010470ce-3868-4492-a22c-4476616e177e/DL_PICCLDF26_12.jpg": {
+          "url": "https://pentagram-production.imgix.net/010470ce-3868-4492-a22c-4476616e177e/DL_PICCLDF26_12.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C5776%2C3056&w=640&crop=1&fit=crop&h=339&s=0f6393e4cea68a97a10261871c81f53b",
+          "paths": [
+            [
+              "设计",
+              "London Life"
+            ]
+          ],
+          "tags": [
+            "字体设计",
+            "版式设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "a2-louisiana-20261030",
+      "title": "A2 Type 为路易斯安那现代艺术博物馆做了一套字体系统",
+      "name": "A2 Type × Louisiana Museum of Modern Art",
+      "category": "字体设计",
+      "secondary": "版式设计",
+      "region": "英国 / 丹麦",
+      "studio": "A2 Type（Scott Williams、Henrik Kubel）",
+      "date": "2026.10.28（报道）",
+      "summary": "伦敦字体厂牌 A2 Type（Scott Williams 与 Henrik Kubel 创立，已逾 25 年，此前为纽约时报、GOV.uk、LinkedIn 等做定制字体，并与 Margaret Calvert 长期合作）为丹麦路易斯安那现代艺术博物馆设计新衬线字体。项目从会员杂志《Louisiana Magazine》的一款衬线字开始，随合作推进扩大为一整套字体系统；设计依据博物馆的建筑与庞大的印刷档案，案例图里可看到 Antikva、Grotesk、Mono、Plakat 等不同字重的规格与样张。",
+      "source": "It’s Nice That",
+      "url": "https://www.itsnicethat.com/articles/a2-type-louisiana-museum-of-modern-art-graphic-design-project-281026",
+      "note": "按 10 月 28 日报道归档；报道未给出字体公开发售或全面替换的日期，不当作字体上线公告。",
+      "kind": "字体项目报道",
+      "images": [
+        "https://m.itsnicethat.com/original_images/A2-TYPE-Louisiana-Museum-of-Modern-Art_page_002.jpg?class=w1080",
+        "https://m.itsnicethat.com/original_images/A2-TYPE-Louisiana-Museum-of-Modern-Art_page_003.jpg?class=w1080",
+        "https://m.itsnicethat.com/original_images/A2-TYPE-Louisiana-Museum-of-Modern-Art_page_001.jpg?class=w1080"
+      ],
+      "unavailable": false,
+      "references": [
+        {
+          "name": "A2 Type 官网",
+          "url": "https://a2-type.co.uk/"
+        }
+      ],
+      "collectionPlans": {
+        "https://m.itsnicethat.com/original_images/A2-TYPE-Louisiana-Museum-of-Modern-Art_page_002.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/A2-TYPE-Louisiana-Museum-of-Modern-Art_page_002.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "A2 Type × Louisiana"
+            ]
+          ],
+          "tags": [
+            "字体设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/A2-TYPE-Louisiana-Museum-of-Modern-Art_page_003.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/A2-TYPE-Louisiana-Museum-of-Modern-Art_page_003.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "A2 Type × Louisiana"
+            ]
+          ],
+          "tags": [
+            "字体设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/A2-TYPE-Louisiana-Museum-of-Modern-Art_page_001.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/A2-TYPE-Louisiana-Museum-of-Modern-Art_page_001.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "A2 Type × Louisiana"
+            ]
+          ],
+          "tags": [
+            "字体设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "aplomb-20261030",
+      "title": "Aplomb 香水把每瓶香写成信：压凹邮票、封蜡瓶盖与打字机体",
+      "name": "Aplomb — (Studio) Lotta Nieminen",
+      "category": "包装设计",
+      "secondary": "字体设计",
+      "region": "芬兰 / 美国",
+      "studio": "(Studio) Lotta Nieminen；字体 Edict（Schick Toikka）、Yorik（205TF）",
+      "date": "2026.10.29（报道）",
+      "summary": "芬兰香水品牌 Aplomb 委托纽约的 (Studio) Lotta Nieminen 做整套识别，出发点是「每款香水都以一个人为灵感」。团队试过档案系统、镜子等概念，最后落在「每瓶香水像写给某人的一封信」上：每款香氛配一枚定制插画邮票，嵌在压凹边框里，其中一侧做成压凹齿孔，呼应整版邮票的触感；封蜡没有用在包装封口这种显而易见的位置，而是放在瓶盖上。字体以 Edict（Schick Toikka 的现代衬线，锐利衬线配泪滴收笔）承担主体，Yorik（205TF 打字机体）支撑次要标识，后者取自圆形邮戳并带轻微散落感，呼应香雾。",
+      "source": "It’s Nice That",
+      "url": "https://www.itsnicethat.com/articles/studio-lotta-nieminen-aplomb-branding-project-291026",
+      "note": "按 10 月 29 日报道归档；品牌上市时间未在文中给出，不写成当周首发。",
+      "kind": "包装项目报道",
+      "images": [
+        "https://m.itsnicethat.com/original_images/AP-05.jpg?class=w1080",
+        "https://m.itsnicethat.com/original_images/AP-02.jpg?class=w1080",
+        "https://m.itsnicethat.com/original_images/AP-15.jpg?class=w1080"
+      ],
+      "unavailable": false,
+      "references": [
+        {
+          "name": "Lotta Nieminen 官网",
+          "url": "https://lottanieminen.com/"
+        }
+      ],
+      "collectionPlans": {
+        "https://m.itsnicethat.com/original_images/AP-05.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/AP-05.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Aplomb 香水"
+            ]
+          ],
+          "tags": [
+            "包装设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/AP-02.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/AP-02.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Aplomb 香水"
+            ]
+          ],
+          "tags": [
+            "包装设计",
+            "字体设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/AP-15.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/AP-15.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Aplomb 香水"
+            ]
+          ],
+          "tags": [
+            "包装设计",
+            "版式设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "werf-20261030",
+      "title": "andstudio 用一个 20° 倾角做完鹿特丹船厂酒吧 Werf 的识别",
+      "name": "Werf — andstudio",
+      "category": "品牌设计",
+      "secondary": "版式设计",
+      "region": "荷兰 / 立陶宛",
+      "studio": "andstudio（维尔纽斯）",
+      "date": "2026.10.27（报道）",
+      "summary": "Werf 是开在鹿特丹 Stadswerf Koningspoort 历史船厂里的一间酒吧与小酒馆，船厂至今仍在维护修复荷兰平底船。立陶宛品牌设计工作室 andstudio 没有用锈铁、木材或船的形象做直接指涉，而是从船厂「把船送进北海的坡道与滑道」里取出一个 20° 倾角，作为整套识别的核心装置：这个角度既是坡道，也被工作室解释为餐饮里举杯、倾斜陈年酒瓶时出现的斜线。案例图显示它被用在黑白分栏的菜单、海报、酒标与服装上。",
+      "source": "BP&O",
+      "url": "https://bpando.org/2026/10/27/andstudio-werf-rotterdam-bar-identity-design",
+      "note": "按 10 月 27 日报道归档；BP&O 文章为评论体，酒吧开业确切日期未在文中标注，不写成当日开业。",
+      "kind": "品牌项目报道",
+      "images": [
+        "https://bpando.org/wp-content/uploads/werf-andstudio-brand-identity-design-bpo-review-menu.png",
+        "https://bpando.org/wp-content/uploads/andstudio_branding_werf_design-1-copy.jpg",
+        "https://bpando.org/wp-content/uploads/werf-andstudio-brand-identity-design-bpo-review-posters.avif"
+      ],
+      "unavailable": false,
+      "references": [
+        {
+          "name": "andstudio 官网",
+          "url": "https://andstudio.lt/"
+        }
+      ],
+      "collectionPlans": {
+        "https://bpando.org/wp-content/uploads/werf-andstudio-brand-identity-design-bpo-review-menu.png": {
+          "url": "https://bpando.org/wp-content/uploads/werf-andstudio-brand-identity-design-bpo-review-menu.png",
+          "paths": [
+            [
+              "设计",
+              "Werf 鹿特丹船厂酒吧"
+            ]
+          ],
+          "tags": [
+            "版式设计",
+            "品牌设计"
+          ],
+          "brands": []
+        },
+        "https://bpando.org/wp-content/uploads/andstudio_branding_werf_design-1-copy.jpg": {
+          "url": "https://bpando.org/wp-content/uploads/andstudio_branding_werf_design-1-copy.jpg",
+          "paths": [
+            [
+              "设计",
+              "Werf 鹿特丹船厂酒吧"
+            ]
+          ],
+          "tags": [
+            "海报设计",
+            "品牌设计"
+          ],
+          "brands": []
+        },
+        "https://bpando.org/wp-content/uploads/werf-andstudio-brand-identity-design-bpo-review-posters.avif": {
+          "url": "https://bpando.org/wp-content/uploads/werf-andstudio-brand-identity-design-bpo-review-posters.avif",
+          "paths": [
+            [
+              "设计",
+              "Werf 鹿特丹船厂酒吧"
+            ]
+          ],
+          "tags": [
+            "海报设计",
+            "品牌设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "bar-reve-20261030",
+      "title": "Dutchscot 给布鲁克林 Bar Rêve 做了一套「会抖一下」的美好年代字标",
+      "name": "Bar Rêve — Dutchscot",
+      "category": "品牌设计",
+      "secondary": "版式设计",
+      "region": "美国 / 英国",
+      "studio": "Dutchscot（伦敦）",
+      "date": "2026.10.29（报道）",
+      "summary": "伦敦工作室 Dutchscot 为布鲁克林新开的鸡尾酒吧 Bar Rêve 做品牌识别，范围覆盖印刷、数字、标识、周边与艺术指导。灵感取自 1871—1914 的美好年代巴黎——一个以乐观、风格与享乐著称的时期，也是新艺术运动的起点。整套识别没有直接用铁艺、玻璃灯罩这类「法式」陈词，定制字标以欧洲手写体的流动感为起点，再整体加入一层超现实的轻微抖动，配合深酒红与线描插画，做成海报、周边、菜单与杯垫。",
+      "source": "BP&O",
+      "url": "https://bpando.org/2026/10/29/dutchscot-bar-reve-brooklyn-cocktail-brand-identity-belle-epoque",
+      "note": "同一项目 It’s Nice That 于 10 月 27 日另有报道，按项目去重后只收录 BP&O 10 月 29 日一篇，避免重复条目。",
+      "kind": "品牌项目报道",
+      "images": [
+        "https://bpando.org/wp-content/uploads/bar-reve-dutchscot-branding-identity-design-bpo-review-posters.jpeg",
+        "https://bpando.org/wp-content/uploads/bar-reve-dutchscot-branding-identity-design-bpo-review-monongram.jpeg",
+        "https://bpando.org/wp-content/uploads/bar-reve-dutchscot-branding-identity-design-bpo-review-coaster.png"
+      ],
+      "unavailable": false,
+      "references": [
+        {
+          "name": "Dutchscot 官网",
+          "url": "https://dutchscot.com/"
+        }
+      ],
+      "collectionPlans": {
+        "https://bpando.org/wp-content/uploads/bar-reve-dutchscot-branding-identity-design-bpo-review-posters.jpeg": {
+          "url": "https://bpando.org/wp-content/uploads/bar-reve-dutchscot-branding-identity-design-bpo-review-posters.jpeg",
+          "paths": [
+            [
+              "设计",
+              "Bar Rêve"
+            ]
+          ],
+          "tags": [
+            "海报设计",
+            "品牌设计"
+          ],
+          "brands": []
+        },
+        "https://bpando.org/wp-content/uploads/bar-reve-dutchscot-branding-identity-design-bpo-review-monongram.jpeg": {
+          "url": "https://bpando.org/wp-content/uploads/bar-reve-dutchscot-branding-identity-design-bpo-review-monongram.jpeg",
+          "paths": [
+            [
+              "设计",
+              "Bar Rêve"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "品牌设计"
+          ],
+          "brands": []
+        },
+        "https://bpando.org/wp-content/uploads/bar-reve-dutchscot-branding-identity-design-bpo-review-coaster.png": {
+          "url": "https://bpando.org/wp-content/uploads/bar-reve-dutchscot-branding-identity-design-bpo-review-coaster.png",
+          "paths": [
+            [
+              "设计",
+              "Bar Rêve"
+            ]
+          ],
+          "tags": [
+            "品牌设计"
+          ],
+          "brands": []
+        }
+      }
+    }
+  ]
+}
