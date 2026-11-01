@@ -182,7 +182,7 @@
       "kind": "品牌焕新报道",
       "images": [
         "https://imgs.logonews.cn/uploads/2026/10/2026100213230158.png",
-        "https://imgs.logonews.cn/uploads/2026/10/2026100213230678.webp",
+        "https://imgs.logonews.cn/uploads/2026/10/2026100213233663.jpg",
         "https://imgs.logonews.cn/uploads/2026/10/202610021328574.jpg",
         "https://imgs.logonews.cn/uploads/2026/10/2026100213290416.jpg"
       ],
@@ -199,20 +199,6 @@
           ],
           "tags": [
             "标志设计"
-          ],
-          "brands": []
-        },
-        "https://imgs.logonews.cn/uploads/2026/10/2026100213230678.webp": {
-          "url": "https://imgs.logonews.cn/uploads/2026/10/2026100213230678.webp",
-          "paths": [
-            [
-              "设计",
-              "苏黎世动物园"
-            ]
-          ],
-          "tags": [
-            "标志设计",
-            "视觉设计"
           ],
           "brands": []
         },
@@ -240,6 +226,20 @@
           ],
           "tags": [
             "海报设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/10/2026100213233663.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/2026100213233663.jpg",
+          "paths": [
+            [
+              "设计",
+              "苏黎世动物园"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "视觉设计"
           ],
           "brands": []
         }
