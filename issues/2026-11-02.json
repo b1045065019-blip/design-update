@@ -1,0 +1,504 @@
+{
+  "date": "2026-11-02",
+  "label": "正式刊 007",
+  "window_start": "2026-10-30",
+  "window_end": "2026-11-01",
+  "coverage": "内容范围：2026.10.30—11.01（三个完整自然日）｜9 条新增报道，按项目去重；报道日与官方发布日分别标注，旧项目的新报道单独说明",
+  "published_on": "2026-11-02",
+  "source_failures": [
+    "Brand New 自动扫描仍命中旧的 The Follow-up 播客 RSS（条目停在 2024 年），改用公开首页逐条核对日期与标题；正文需订阅，条目只记录新旧对照图可见的变化与公开分类标签。",
+    "候选输出继续受 160 条上限限制，入榜集中在 Pentagram、TypeTogether、Brand New、方正字库、COLLINS、BP&O；已改读 state/scan-cache.json 的分来源缓存（共 550 条候选），并逐源核对当前首页与站点地图。",
+    "Canva Newsroom 返回 HTTP 403；Design360° 站内为脚本渲染、首页最新日期停在 3 月，本期未取得窗口内条目；Adobe Blog 首页为脚本渲染，未取到可核实日期的窗口内文章。",
+    "Ideogram 10 月 30 日的三篇为榜单式导购、Krea 最新博文停在 5 月，均不属设计案例，本期未收录 AI 图像类条目；Figma 10 月 31 日的 Weave 文章按官方产品说明收录，未做实测。"
+  ],
+  "articles": [
+    {
+      "id": "el-capricho-20261102",
+      "title": "高迪「奇想屋」换标：Mubien 用绿色花窗图形取代建筑剪影",
+      "name": "El Capricho de Gaudí 品牌识别",
+      "category": "品牌设计",
+      "secondary": "标志设计",
+      "region": "西班牙",
+      "studio": "Mubien",
+      "date": "2026.10.30（报道）",
+      "summary": "Brand New 10 月 30 日收录西班牙工作室 Mubien 为 El Capricho de Gaudí 重做的品牌识别。这座由高迪在 1883—1885 年设计、位于坎塔布里亚科米利亚斯的「奇想屋」现作为博物馆与活动场地开放。新旧对照显示：旧标识是一枚建筑侧影图形配细字距无衬线字标，新标识改为六个六边形围合中心圆的绿色花窗式图形，字标改成大写、字重更足的绿色衬线体，整体更紧凑。Brand New 为该案例给出的公开分类标签是 geometric、icon、monospace、wayfinding，说明项目还包含导视应用。",
+      "source": "Brand New",
+      "url": "https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_el_capricho_de_gaudi_by_mubien.php",
+      "note": "Brand New 正文需订阅，本文只记录新旧对照图中可见的字形与图形变化，以及页面公开的标签与行业分类（Culture）。设计策略、图形寓意与完整应用清单未见公开说明，不推测；日期为 Brand New 收录日，非项目官方发布日期。",
+      "kind": "项目报道",
+      "images": [
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/10/el_capricho_de_gaudi_logo_before_after.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/10/el_capricho_de_gaudi_logo_before_after.png": {
+          "url": "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/10/el_capricho_de_gaudi_logo_before_after.png",
+          "paths": [
+            [
+              "设计",
+              "El Capricho de Gaudí"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "nevada-reno-20261102",
+      "title": "内华达大学里诺分校换掉方块 N，新主标把 U 与 N 咬合成字锁",
+      "name": "University of Nevada, Reno 标志更新",
+      "category": "标志设计",
+      "secondary": "品牌设计",
+      "region": "美国",
+      "studio": "未披露",
+      "date": "2026.10.30（报道）",
+      "summary": "Brand New 10 月 30 日以 Spotted 收录内华达大学里诺分校的新标志。旧主标是海军蓝方块底上的白色 Block N，右侧配无衬线字标；新主标把 U 与 N 互相咬合成单一字锁，N 的负形里嵌一颗星，右侧改为衬线三行字标「UNIVERSITY of NEVADA RENO」，通篇只用海军蓝。Brand New 的公开标签是 athletics、blue、monogram、star、university。",
+      "source": "Brand New",
+      "url": "https://www.underconsideration.com/brandnew/archives/new_logos_for_university_of_nevada_reno.php",
+      "note": "校方发布说明未公开可读，Brand New 正文需订阅；本文只描述新旧对照图里可见的字形结构与配色，以及页面公开标签。日期为 Brand New 收录日，不当作校方公布日。",
+      "kind": "项目报道",
+      "images": [
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/10/university_of_nevada_reno_logo_before_after.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/10/university_of_nevada_reno_logo_before_after.png": {
+          "url": "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/10/university_of_nevada_reno_logo_before_after.png",
+          "paths": [
+            [
+              "设计",
+              "University of Nevada, Reno"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "houston-comets-20261102",
+      "title": "休斯敦彗星队回归 WNBA，四款新标志让篮球拖着彗尾穿过字母 H",
+      "name": "Houston Comets 新标志",
+      "category": "标志设计",
+      "secondary": "品牌设计",
+      "region": "美国",
+      "studio": "球队自主发布，设计方未披露",
+      "date": "2026.10.30（报道；球队 10.29 晚公布）",
+      "summary": "ESPN 10 月 30 日发稿，休斯敦彗星队（Houston Comets）在球队社交账号上公布回归 WNBA 的全套标志。共四款：圆形徽章内一颗拖着彗尾的篮球穿过变形的字母 H，外圈环绕「Houston Comets」；去掉外圈的主图标版本；一款次级标志把四颗星散落在「Houston」字母之间、彗尾穿过 T 与 O；另一款「Comets」字样让篮球穿过 C 与 O。ESPN 称八件商标申请在前一天出现在美国专利商标局网站，等于提前泄露了图形；球队公布的用色为蓝与红。",
+      "source": "ESPN",
+      "url": "https://www.espn.com/wnba/story/_/id/50324650/houston-comets-wnba-new-logos",
+      "note": "官方公布发生在 10 月 29 日晚（周四），ESPN 10 月 30 日发稿，因此记为报道日；商标申请日为 10 月 28 日。ESPN 未披露设计方，球队与联盟也未回应置评请求，本文不推测设计团队。",
+      "kind": "品牌项目报道",
+      "images": [
+        "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1030%2Fr1738434_1080x608_16%2D9.jpg&w=920&h=518&scale=crop&cquality=80&location=origin&format=jpg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://a.espncdn.com/combiner/i": {
+          "url": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1030%2Fr1738434_1080x608_16%2D9.jpg&w=920&h=518&scale=crop&cquality=80&location=origin&format=jpg",
+          "paths": [
+            [
+              "设计",
+              "Houston Comets"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "sapporo-zoo-20261102",
+      "title": "札幌圆山动物园请绘本作家 Sora 画一只背影北极熊，做官方商品 LOGO",
+      "name": "札幌市圆山动物园商业标志",
+      "category": "标志设计",
+      "secondary": "品牌设计",
+      "region": "日本",
+      "studio": "Sora（绘本作家、圆山动物园 PR 大使）",
+      "date": "2026.10.30（报道）",
+      "summary": "标志情报局 10 月 30 日报道，1951 年开园、饲养约 150 种动物的札幌市圆山动物园公布新的官方商业 LOGO，作者是园方 PR 大使、绘本作家 Sora，将陆续用于园区商店售卖的官方纪念商品。新图形以站立的北极熊背影为主体，把代表圆山自然的字母 M 形线条与包裹熊背的圆形曲线合成一体，用简洁柔和的线条表现安静站立的熊，也带出北海道的自然气质。Sora 长期在北海道创作，此前负责过动物园正门广场的迎宾看板。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/sapporo-zoo-new-logo.html",
+      "note": "报道未给出确切发布日，只写「上周公布」，因此日期记为报道日；设计方 Sora 的身份与旧作由报道说明，未另行核实园方公告。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/10/2026100204074861.png",
+        "https://imgs.logonews.cn/uploads/2026/10/2026100204074667.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/10/2026100204074861.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/2026100204074861.png",
+          "paths": [
+            [
+              "设计",
+              "札幌圆山动物园"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/10/2026100204074667.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/2026100204074667.png",
+          "paths": [
+            [
+              "设计",
+              "札幌圆山动物园"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "zurich-zoo-20261102",
+      "title": "苏黎世动物园砍掉用了 30 年的红色字母 h，Zooh! 收成纯字标",
+      "name": "Zoo Zürich 品牌更新",
+      "category": "品牌设计",
+      "secondary": "标志设计",
+      "region": "瑞士",
+      "studio": "Zoo Zürich 与 Gold Interactive、Metadesign、Rembrand",
+      "date": "2026.10.30（报道）",
+      "summary": "标志情报局 10 月 30 日报道，1929 年开园、饲养约 360 种逾 4000 只动物的苏黎世动物园启用新品牌形象。原标识「Zooh!」里的红色字母 h 与感叹号被取消，改成纯文字「ZOO ZÜRICH」，字体针对数字环境简化优化，便于在网站、社交媒体等场景灵活应用。园方解释，过去约 30 年那个红色 h 代表游客进入动物世界时的惊喜，但动物园的角色已从展示动物转向濒危物种与自然生态保护，新标识要体现这层转型。除 LOGO 外还推出新口号「Verbinden, was zusammengehört」（连接本应相连的事物），整套形象由园方与 Gold Interactive、Metadesign、Rembrand 三家机构共同完成。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/zoo-zurich-new-logo.html",
+      "note": "报道未给出确切启用日期，只写「近日推出」，日期记为报道日；园方说明与设计分工引自报道转述，未另读德文一手公告。",
+      "kind": "品牌焕新报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/10/2026100213230158.png",
+        "https://imgs.logonews.cn/uploads/2026/10/2026100213230678.webp",
+        "https://imgs.logonews.cn/uploads/2026/10/202610021328574.jpg",
+        "https://imgs.logonews.cn/uploads/2026/10/2026100213290416.jpg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/10/2026100213230158.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/2026100213230158.png",
+          "paths": [
+            [
+              "设计",
+              "苏黎世动物园"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/10/2026100213230678.webp": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/2026100213230678.webp",
+          "paths": [
+            [
+              "设计",
+              "苏黎世动物园"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "视觉设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/10/202610021328574.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/202610021328574.jpg",
+          "paths": [
+            [
+              "设计",
+              "苏黎世动物园"
+            ]
+          ],
+          "tags": [
+            "海报设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/10/2026100213290416.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/2026100213290416.jpg",
+          "paths": [
+            [
+              "设计",
+              "苏黎世动物园"
+            ]
+          ],
+          "tags": [
+            "海报设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "novosibirsk-zoo-20261102",
+      "title": "新西伯利亚动物园 80 周年：雪豹标志的斑纹里藏了一只艾鼬",
+      "name": "新西伯利亚动物园 80 周年品牌形象",
+      "category": "标志设计",
+      "secondary": "品牌设计",
+      "region": "俄罗斯",
+      "studio": "BRENDPROM",
+      "date": "2026.10.30（报道）",
+      "summary": "标志情报局 10 月 30 日报道，为迎接 2027 年建园 80 周年，新西伯利亚动物园公布全新品牌视觉，由莫斯科品牌设计公司 BRENDPROM 完成。新 LOGO 保留原有的雪豹与艾鼬两种代表性动物：雪豹不再是完整站姿，改为面部特写剪影，收进深绿色圆形；艾鼬用正负形手法「藏」在雪豹左下方的斑纹里，需要细看才能找到，呼应鼓励游客保持好奇、在探索中发现动物的品牌主张。围绕「发现」概念，配套插画把不同动物融入枝叶与植物图案，另延伸到导视、门票与信息屏等应用。园方希望借此纠正公众只把动物园当休闲场所的印象，强调科研、保护与教育职能。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/novosibirsk-zoo-new-logo.html",
+      "note": "报道页首段有一份站方标注「内容由人工智能生成，仅供参考」的摘要，本文事实取自正文段落与配图描述，未采用该 AI 摘要；报道未给出确切发布日，日期记为报道日。口号的中文译法沿用报道表述。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/10/582ffc8f-c547-4520-8c7c-eaaa671adf62.png",
+        "https://imgs.logonews.cn/uploads/2026/10/84e9a41e-a509-44ee-9b4f-0c4acb9ae400.gif",
+        "https://imgs.logonews.cn/uploads/2026/10/489e034d-5e33-4561-83b3-850e62353145.webp",
+        "https://imgs.logonews.cn/uploads/2026/10/55f7e1a7-7c7b-4ea7-876f-70ea23184c04.webp"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/10/582ffc8f-c547-4520-8c7c-eaaa671adf62.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/582ffc8f-c547-4520-8c7c-eaaa671adf62.png",
+          "paths": [
+            [
+              "设计",
+              "新西伯利亚动物园"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/10/84e9a41e-a509-44ee-9b4f-0c4acb9ae400.gif": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/84e9a41e-a509-44ee-9b4f-0c4acb9ae400.gif",
+          "paths": [
+            [
+              "设计",
+              "新西伯利亚动物园"
+            ]
+          ],
+          "tags": [
+            "视觉设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/10/489e034d-5e33-4561-83b3-850e62353145.webp": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/489e034d-5e33-4561-83b3-850e62353145.webp",
+          "paths": [
+            [
+              "设计",
+              "新西伯利亚动物园"
+            ]
+          ],
+          "tags": [
+            "海报设计",
+            "视觉设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/10/55f7e1a7-7c7b-4ea7-876f-70ea23184c04.webp": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/55f7e1a7-7c7b-4ea7-876f-70ea23184c04.webp",
+          "paths": [
+            [
+              "设计",
+              "新西伯利亚动物园"
+            ]
+          ],
+          "tags": [
+            "视觉设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "nike-shinjuku-20261102",
+      "title": "72 岁保安的胶带字进了耐克新宿店招牌，汉字收笔带上 Swoosh",
+      "name": "Nike 新宿旗舰店招牌字体（修悦体）",
+      "category": "字体设计",
+      "secondary": "品牌设计",
+      "region": "日本",
+      "studio": "佐藤修悦（字体）；佐佐木骏（艺术指导）",
+      "date": "2026.10.31（报道；门店 2026.04 开业）",
+      "summary": "标志情报局 10 月 31 日的「佳作」栏目报道耐克新宿站东口四层旗舰店的招牌字体。招牌上的「新宿」二字字形饱满圆润、笔画粗细均匀，收尾笔画融入耐克 Swoosh 勾形，作者是 72 岁的新宿站保安佐藤修悦。他 2002 年起在车站做夜间保安，2004 年车站启动长期翻新、乘客频繁迷路，他用施工剩下的胶带和废板材做大型手写指路牌，不打草稿、先贴胶带打格再裁切字形，逐渐形成被称作「修悦体」的手工字形。2025 年 12 月，他凭这套字体获日本标识设计协会白金荣誉奖。平面设计师佐佐木骏担任门店艺术指导时邀请他合作，佐藤先手工贴出基础字形，再按数字化调整重新裁切定稿。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/nikes-shinjuku-shuu-etsu-font-was-created-by-72-year-old-security-guard-shuu-etsu-sato.html",
+      "note": "门店 2026 年 4 月开业，奖项为报道所述的 2025 年 12 月，本篇是 10 月 31 日刊出的回顾报道，不是窗口内首发对象；报道页首段同样有站方标注的 AI 摘要，本文以正文为准。",
+      "kind": "旧项目新报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/07/202607290206072.jpg",
+        "https://imgs.logonews.cn/uploads/2026/07/2026072902052761.webp",
+        "https://imgs.logonews.cn/uploads/2026/07/2026072902064799.jpg",
+        "https://imgs.logonews.cn/uploads/2026/07/2026072902042821.jpg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/07/202607290206072.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/07/202607290206072.jpg",
+          "paths": [
+            [
+              "设计",
+              "Nike 新宿"
+            ]
+          ],
+          "tags": [
+            "字体设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/07/2026072902052761.webp": {
+          "url": "https://imgs.logonews.cn/uploads/2026/07/2026072902052761.webp",
+          "paths": [
+            [
+              "设计",
+              "Nike 新宿"
+            ]
+          ],
+          "tags": [
+            "字体设计",
+            "海报设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/07/2026072902064799.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/07/2026072902064799.jpg",
+          "paths": [
+            [
+              "设计",
+              "Nike 新宿"
+            ]
+          ],
+          "tags": [
+            "字体设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/07/2026072902042821.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/07/2026072902042821.jpg",
+          "paths": [
+            [
+              "设计",
+              "Nike 新宿"
+            ]
+          ],
+          "tags": [
+            "视觉设计",
+            "字体设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "google-doodle-20261102",
+      "title": "万圣节 Doodle 借皮影戏，Google 字标变成会摇的黑影",
+      "name": "Google 2026 万圣节 Doodle",
+      "category": "平面设计",
+      "secondary": "动态视觉",
+      "region": "美国",
+      "studio": "Google Doodle 团队（署名未披露）",
+      "date": "2026.10.31（官方发布）",
+      "summary": "10 月 31 日 Google 首页上线今年万圣节 Doodle。画面在柔和绿光下把 Google 字标处理成轻轻摇曳的黑色剪影，上方有蝙蝠飞过。Google 在作品页说明，今年灵感取自经典皮影戏艺术，并提到当天世界各地的人在看恐怖片、穿上奇装异服或挨家挨户讨糖。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/google-doodle-halloween-2026.html",
+      "note": "官方发布日为 10 月 31 日，与报道同日；报道未署名具体插画师，只引述 Google 作品页说明，设计者姓名不推测。",
+      "kind": "官方发布",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/10/a15d2601-26f5-4efb-8217-4c008fb132d8.jpg",
+        "https://imgs.logonews.cn/uploads/2026/10/f6ac2ab2-cee9-4ef6-a50a-ea30e8134eb6.gif"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/10/a15d2601-26f5-4efb-8217-4c008fb132d8.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/a15d2601-26f5-4efb-8217-4c008fb132d8.jpg",
+          "paths": [
+            [
+              "设计",
+              "Google 万圣节 Doodle 2026"
+            ]
+          ],
+          "tags": [
+            "视觉设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/10/f6ac2ab2-cee9-4ef6-a50a-ea30e8134eb6.gif": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/f6ac2ab2-cee9-4ef6-a50a-ea30e8134eb6.gif",
+          "paths": [
+            [
+              "设计",
+              "Google 万圣节 Doodle 2026"
+            ]
+          ],
+          "tags": [
+            "视觉设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "figma-weave-20261102",
+      "title": "Figma Weave 把生成与修图拆成可复用的节点流程",
+      "name": "Figma Weave 节点式创作流程",
+      "category": "平面设计",
+      "secondary": "视觉设计",
+      "region": "美国",
+      "studio": "Figma",
+      "date": "2026.10.31（官方发布）",
+      "summary": "Figma 10 月 31 日在官方博客发布 Weave 的说明文章。Weave 把 AI 生成与编辑拆成画布上的节点（node），连成可复用的工作流（workflow）；分支（branch）让团队从同一起点试不同方向，也能用不同模型跑同一段提示并排比较。编辑类节点包括色彩校正、合成（compositor）、色阶、裁切、修剪与画笔绘制，成品可打包成 Weave tool，让同事或社区直接运行而不必重搭节点。文章同时介绍 Weave 工作流与 Figma 画框并存的新方式，以及提示词变量与提示词增强节点。",
+      "source": "Figma Blog",
+      "url": "https://www.figma.com/blog/the-tldr-on-figma-weave/",
+      "note": "内容来自 Figma 官方产品说明，未做实测，因此不评价生成质量；文中所称「今天宣布」的能力以官方博文为准，未核实是否已对所有用户开放。",
+      "kind": "官方案例",
+      "images": [
+        "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=1632&h=918&q=75&fit=max&auto=format",
+        "https://cdn.sanity.io/images/599r6htc/regionalized/f82e178de672d05fccf1527eadf6b20922ad4c01-3692x1907.jpg?w=1600&q=75&fit=max&auto=format"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png": {
+          "url": "https://cdn.sanity.io/images/599r6htc/regionalized/6ff46e4235ab02c904cb2673573d5fefd08312aa-3264x1836.png?w=1632&h=918&q=75&fit=max&auto=format",
+          "paths": [
+            [
+              "设计",
+              "Figma Weave"
+            ]
+          ],
+          "tags": [
+            "视觉设计"
+          ],
+          "brands": []
+        },
+        "https://cdn.sanity.io/images/599r6htc/regionalized/f82e178de672d05fccf1527eadf6b20922ad4c01-3692x1907.jpg": {
+          "url": "https://cdn.sanity.io/images/599r6htc/regionalized/f82e178de672d05fccf1527eadf6b20922ad4c01-3692x1907.jpg?w=1600&q=75&fit=max&auto=format",
+          "paths": [
+            [
+              "设计",
+              "Figma Weave"
+            ]
+          ],
+          "tags": [
+            "视觉设计"
+          ],
+          "brands": []
+        }
+      }
+    }
+  ]
+}
