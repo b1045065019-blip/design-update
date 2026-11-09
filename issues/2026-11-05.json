@@ -1,0 +1,356 @@
+{
+  "date": "2026-11-05",
+  "id": "2026-11-05",
+  "label": "正式刊 008（补发）",
+  "window_start": "2026-11-02",
+  "window_end": "2026-11-04",
+  "coverage": "内容范围：2026.11.02—11.04（三个完整自然日）｜9 条报道，按项目去重；报道日与官方发布日分开标注，早先项目的新报道单独说明",
+  "published_on": "2026-11-10",
+  "source_failures": [
+    "本期为迟发补刊，名义刊日 2026-11-05，窗口仍取刊日前三个完整自然日（11.02—11.04）。原定 11 月 5 日与 11 月 8 日两期均因机器/网关中断未发出，现按时间顺序补齐。",
+    "Brand New 自动扫描命中的仍是旧的 The Follow-up 播客 RSS（条目停在 2024 年），改用当前公开首页逐条核对日期与标题；正文需订阅，条目只记录新旧对照图可见的变化与页面公开标签。",
+    "候选输出仍受 160 条全局上限限制，入榜集中在 Pentagram、Recraft、方正字库、BP&O；已改读 state/scan-cache.json 的分来源缓存（19 个来源），并逐源核对 BP&O、标志情报局、The Type 的 RSS 与 Brand New 首页。",
+    "Canva Newsroom 返回 HTTP 403；标志情报局站内正文与图片受访问控制，改用浏览器逐个打开文章核对；Recraft 博客、Pentagram 作品页无可核实的具体发布日期，本期未收录；Ideogram 11 月 2—4 日的更新为选购榜单与工具对比，不属设计案例。"
+  ],
+  "articles": [
+    {
+      "id": "syrian-airlines-20261105",
+      "title": "叙利亚航空重启品牌：不死鸟标志收进圆形，涂装由蓝转深绿配金",
+      "name": "叙利亚航空品牌重塑",
+      "category": "品牌设计",
+      "secondary": "标志设计",
+      "region": "叙利亚",
+      "studio": "未披露",
+      "date": "2026.11.04（报道）｜品牌重塑于 2026 年 10 月公布",
+      "summary": "成立于 1946 年的叙利亚国家航空在长期停滞后重启品牌。新标志保留 Phoenix（不死鸟）符号，但整体重构进一个圆形结构——圆象征地球、流动与延续，鸟形线条被拉平、去掉了旧标腹部的锯齿细节；深色底用金色，浅色底用深绿。阿拉伯文字标同时重绘，保留阿拉伯文的曲线又加入几何化处理，笔画转折更干净。涂装把沿用约 70 年的蓝色换成深绿配金，机身后段使用取自叙利亚传统装饰图案的几何纹样。首架改喷的 A320-200 在捷克俄斯特拉发完成喷涂后返回大马士革，并在 10 月的发布活动上亮相；官方称 2026 年初航线覆盖 9 个目的地，之后陆续增开阿姆斯特丹、维也纳、哥本哈根与莫斯科。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/syrian-airlines-new-logo.html",
+      "note": "报道日为 11 月 4 日，品牌重塑与首架新涂装亮相发生在 10 月的发布活动；设计方未披露，航司未公开完整品牌手册，本文只记录新旧对照图中可见的图形、字体与涂装变化。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/11/33c44b02-24c2-43ea-b1a0-4eba0682a802.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/11/33c44b02-24c2-43ea-b1a0-4eba0682a802.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/11/33c44b02-24c2-43ea-b1a0-4eba0682a802.png",
+          "paths": [
+            [
+              "设计",
+              "叙利亚航空"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "品牌设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "kazan-airport-20261105",
+      "title": "喀山国际机场找 Art. Lebedev 做新标：飞机翻成双箭头，也像倒置的郁金香",
+      "name": "喀山国际机场企业识别",
+      "category": "标志设计",
+      "secondary": "品牌设计",
+      "region": "俄罗斯",
+      "studio": "Art. Lebedev Studio",
+      "date": "2026.11.04（报道）｜机场 2026.10.16 公布",
+      "summary": "喀山国际机场启用 Art. Lebedev Studio 开发的新企业识别，10 月 16 日由机场旅游发展委员会宣布。新标志以飞机为主体，几何化后既像向上的双箭头，也像简化的倒置郁金香——郁金香是鞑靼斯坦国徽元素；图形右侧是「Kazan」字标，首字母 K 的斜笔与飞机轮廓呼应，副行写全称 Gabdulla Tukay International Airport。旧标是青色的波浪形色块配斜体 KAZAN 字样。政府采购网站显示这次企业形象设计费用为 280 万卢布（约 22 万元人民币）。机场新航站楼年旅客吞吐量 600 万人次、投资约 200 亿卢布，即将启用。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/new-logo-for-kazan-international-airport.html",
+      "note": "报道日 11.4，机场方公布日 10.16；费用数字来自报道引述的政府采购网站，本文不推断设计过程的其余细节。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/10/a32a635e-f4ba-407a-8c8f-b2e5ff9506c0.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/10/a32a635e-f4ba-407a-8c8f-b2e5ff9506c0.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/a32a635e-f4ba-407a-8c8f-b2e5ff9506c0.png",
+          "paths": [
+            [
+              "设计",
+              "喀山国际机场"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "品牌设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "houston-comets-20261105",
+      "title": "休斯敦彗星队 18 年后复活：H 里穿一颗彗星篮球，四颗星记得四次夺冠",
+      "name": "休斯敦彗星队队徽",
+      "category": "标志设计",
+      "secondary": "品牌设计",
+      "region": "美国",
+      "studio": "未披露",
+      "date": "2026.11.03（报道）｜球队 2026.10.29 发布",
+      "summary": "1997 年成立、四连冠后于 2008 年解散的 WNBA 球队休斯敦彗星，随费尔蒂塔家族把康涅狄格太阳迁往休斯敦而恢复队名。10 月 29 日球队在休斯敦 POST Houston 公布新队徽、字体标志与配色，为 2027 年重回 WNBA 做准备。主队徽以深蓝色字母 H 为主体，一颗红色篮球化作拖着尾焰的彗星横穿 H 的横杠；H 内嵌四颗四芒星，三颗银一颗白，白色代表得州「孤星之州」，外圈白红描边。另有一枚圆形徽章，把 H 与彗星放进红色圆底、外圈白线，灵感来自太空任务的纪念臂章；HOUSTON 与 COMETS 两组字标带太空风，字母 O 里嵌了彗星，两个 T 特意用小写，用来呼应同城的火箭队。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/houston-comets-new-logo.html",
+      "note": "报道日 11.3，发布活动为当地时间 10 月 29 日；球队未公布设计方，本文不推测。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/10/bd7be06d-bc4e-4c4f-8f49-36a0ef666926.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/10/bd7be06d-bc4e-4c4f-8f49-36a0ef666926.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/bd7be06d-bc4e-4c4f-8f49-36a0ef666926.png",
+          "paths": [
+            [
+              "设计",
+              "休斯敦彗星队"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "品牌设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "macao-dscd-20261105",
+      "title": "澳门文体局新标志：把体育局的红圆蓝三角和文化局的门洞拼成一个字",
+      "name": "澳门文化体育局标志",
+      "category": "标志设计",
+      "secondary": "视觉设计",
+      "region": "中国澳门",
+      "studio": "未披露",
+      "date": "2026.11.02（报道）｜2026.11.01 起启用",
+      "summary": "澳门文化局与文化发展基金、体育局及体育基金合并为文化体育局，11 月 1 日起生效。10 月 29 日出版的第 43 期《澳门特别行政区公报》公布新标志，附件列出 11 种使用样式，标准配色为红、蓝、黑。中文名称统一用思源黑体繁体粗体（Noto Sans T Chinese Bold），葡文名称与缩写 DSCD 用 Neue Haas Grotesk Display Pro 65 Medium。第 86/2026 号行政命令只规定样式、配色与字体，没有说明设计理念、图形含义与设计团队；从图形看，新标是把原体育局标志（红圆＋蓝色三角拼成的运动人形）与文化局标志（黑色门洞方块）的元素重新组合成一枚图形。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/cultural-and-sports-bureau-of-the-government-of-the-macao-special-administrative-region.html",
+      "note": "报道日 11.2，标志 11.1 起启用；官方未公开设计理念与团队，「由两个旧标志组合」是根据新旧图形对照的判断，不是官方说明。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/10/759cb41b-315c-40d6-91e0-dee83e0e44fe.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/10/759cb41b-315c-40d6-91e0-dee83e0e44fe.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/759cb41b-315c-40d6-91e0-dee83e0e44fe.png",
+          "paths": [
+            [
+              "设计",
+              "澳门文化体育局"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "视觉设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "firestorm-20261105",
+      "title": "爆火科技换标：扁平火焰拆成三条流线，渐变红成主色",
+      "name": "Firestorm 爆火科技品牌升级",
+      "category": "品牌设计",
+      "secondary": "标志设计",
+      "region": "中国",
+      "studio": "橙时品牌",
+      "date": "2026.11.02（报道）",
+      "summary": "做东南亚金融科技与跨境服务的 Firestorm（爆火科技）更新品牌形象，由北京橙时品牌设计。旧标是橙黄色的扁平火焰加细笔画字标；新标保留火焰的基本形态，重绘成三条相互交错的流线，既有向上燃烧的姿态又带旋转动感，与「火焰风暴」的名字对应。颜色从单一橙黄改成红、橙、金黄过渡的渐变，高饱和的「火焰红」成为主色；视觉系统另加银灰与金属、玻璃质感，字标仍为无衬线但笔画更利落。公司业务覆盖印尼、泰国、马来西亚、菲律宾，员工约 600 人。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/firestorm-technology-new-logo.html",
+      "note": "报道日 11.2；公司未公布具体换标日期，本文不推断时区与发布日。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/10/1f0ab02f-e9f9-4f01-a95c-ee956945f42e.jpg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/10/1f0ab02f-e9f9-4f01-a95c-ee956945f42e.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/1f0ab02f-e9f9-4f01-a95c-ee956945f42e.jpg",
+          "paths": [
+            [
+              "设计",
+              "爆火科技 Firestorm"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "品牌设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "tartu-punch-20261105",
+      "title": "Tartu Punch 音乐节换标：把 '26 与名字压成一块歪斜的粗黑字锁",
+      "name": "Tartu Punch 音乐节形象",
+      "category": "标志设计",
+      "secondary": "字体设计",
+      "region": "爱沙尼亚",
+      "studio": "Stepan Solodkov",
+      "date": "2026.11.04（Brand New 收录）",
+      "summary": "Brand New 11 月 4 日以 Reviewed 收录爱沙尼亚 Tartu Punch 音乐节的新形象，设计为 Stepan Solodkov。公开封面显示标志由「'26 / TARTU / PUNCH」三行堆叠而成，整体向右上倾斜，字形是自制的手绘感粗黑体：笔画外扩、字腔被压窄、转角带尖刺，行与行之间互相咬合，像一张被揉压过的贴纸。Brand New 给出的公开标签是 chunky、estonia、festival、motion、music、patterns、proprietary type、sans serif，说明形象还包含动态与图案系统。",
+      "source": "Brand New",
+      "url": "https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_tartu_punch_by_stepan_solodkov.php",
+      "note": "Brand New 正文需订阅，本文只描述封面标志图的可见特征与页面公开标签，以及行业分类 Entertainment；日期为收录日，不是音乐节官方发布日期。",
+      "kind": "项目报道",
+      "images": [
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/Tartu_Punch_logo_new.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/Tartu_Punch_logo_new.png": {
+          "url": "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/Tartu_Punch_logo_new.png",
+          "paths": [
+            [
+              "设计",
+              "Tartu Punch"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "字体设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "masani-pizza-20261105",
+      "title": "Masani Pizza 用一枚圆润复古衬线字标，避开披萨品牌的意大利国旗套路",
+      "name": "Masani Pizza 品牌识别",
+      "category": "品牌设计",
+      "secondary": "字体设计",
+      "region": "美国",
+      "studio": "Saint-Urbain",
+      "date": "2026.11.03（Brand New 收录）",
+      "summary": "Brand New 11 月 3 日以 Reviewed 收录披萨品牌 Masani Pizza 的识别，设计方 Saint-Urbain。公开封面是酒红底上的奶油色衬线字标，「Masani」与「Pizza」分两行错落，字形中宫圆、字端带球状收笔，整体偏 1970 年代美式餐厅的气质。Brand New 的公开标签是 apparel、food、merchandise、packaging、photography、pizza、restaurant、retro、saint urbain、sans serif、serif、signage、vernacular，可见应用覆盖包装、店内标识、周边与摄影。",
+      "source": "Brand New",
+      "url": "https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_masani_pizza_by_saint_urbain.php",
+      "note": "Brand New 正文需订阅，本文只描述封面标志图与公开标签；字体名称与设计理念未见公开说明，不推测。",
+      "kind": "项目报道",
+      "images": [
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/Masani_logo_new.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/Masani_logo_new.png": {
+          "url": "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/Masani_logo_new.png",
+          "paths": [
+            [
+              "设计",
+              "Masani Pizza"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "字体设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "tabby-ragged-edge-20261105",
+      "title": "Tabby 请 Ragged Edge 换掉金融感：黑色粗体小写字标配荧光绿",
+      "name": "Tabby 品牌识别",
+      "category": "品牌设计",
+      "secondary": "标志设计",
+      "region": "阿联酋",
+      "studio": "Ragged Edge",
+      "date": "2026.11.03（BP&O 报道）",
+      "summary": "BP&O 11 月 3 日刊出 Ragged Edge 为中东先买后付 App Tabby 做的新品牌。Tabby 2019 年由 Hosam Arab 与 Daniil Barkalov 创立，已扩展到沙特、阿联酋与科威特，接入 6.5 万多家零售商，业务从四期免息分期延伸到支付卡、返现、转账与商户折扣。新字标是定制的黑色粗体小写「tabby」：首字母 t 的横杠被切开，y 的尾巴带一道弧；主色是荧光绿，配手绘感单线条小人与插画，户外投放里插画直接承担说明功能。报道称 Ragged Edge 今年较早时受委托重塑品牌，让它在保持金融属性的同时更像生活类产品。",
+      "source": "BP&O",
+      "url": "https://bpando.org/2026/11/03/ragged-edge-tabby-branding-identity-design/",
+      "note": "报道日 11.3，项目在今年较早时委托，非窗口内首发；文中的业务规模数字来自 BP&O 引述的品牌方说法。",
+      "kind": "项目报道",
+      "images": [
+        "https://bpando.org/wp-content/uploads/ragged-edge-tabby-brandng-identity-design-bpo-review-logo-mark-badge.png",
+        "https://bpando.org/wp-content/uploads/ragged-edge-tabby-brandng-identity-design-bpo-review-illustrations-billboard-ads.jpg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://bpando.org/wp-content/uploads/ragged-edge-tabby-brandng-identity-design-bpo-review-logo-mark-badge.png": {
+          "url": "https://bpando.org/wp-content/uploads/ragged-edge-tabby-brandng-identity-design-bpo-review-logo-mark-badge.png",
+          "paths": [
+            [
+              "设计",
+              "Tabby"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "字体设计"
+          ],
+          "brands": []
+        },
+        "https://bpando.org/wp-content/uploads/ragged-edge-tabby-brandng-identity-design-bpo-review-illustrations-billboard-ads.jpg": {
+          "url": "https://bpando.org/wp-content/uploads/ragged-edge-tabby-brandng-identity-design-bpo-review-illustrations-billboard-ads.jpg",
+          "paths": [
+            [
+              "设计",
+              "Tabby"
+            ]
+          ],
+          "tags": [
+            "广告设计",
+            "插画"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "bnconf-20261105",
+      "title": "Brand New 会议视觉：粉色牛仔布笔记本配烫银 BNC，把会议物料做成可收藏的周边",
+      "name": "2026 Brand New Conference 视觉形象",
+      "category": "视觉设计",
+      "secondary": "版式设计",
+      "region": "美国",
+      "studio": "UnderConsideration",
+      "date": "2026.11.02（Brand New 收录）",
+      "summary": "Brand New 11 月 2 日以 Reviewed 收录自己主办的 2026 Brand New Conference（9 月 17—18 日）视觉形象。公开封面是一排粉色牛仔布封面的笔记本，布面用黑色波点、格纹、蕾丝与荷叶边拼贴出不同版本，封面上烫银的大号「BNC」字母，上方压「2026 BRAND NEW CONFERENCE / Sept 17–18」，下方是承办方 Nicolete 的字样。页面公开标签为 balloon、bnconf、denim、event、pink、script、slab serif、UnderConsideration，可看出这套形象以粉色、牛仔与亮片字为核心，延展到胸牌、笔记本等会议物料。",
+      "source": "Brand New",
+      "url": "https://www.underconsideration.com/brandnew/archives/new_identity_for_2026_brand_new_conference_by_underconsideration.php",
+      "note": "这是 Brand New 自家主办会议的自我收录，正文需订阅；本文只描述封面物料图与公开标签。会议已于 9 月 17—18 日举行，收录日不等于活动日。",
+      "kind": "项目报道",
+      "images": [
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/10/BN_Conf_2026_Identity_Case_Study_00.jpg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/10/BN_Conf_2026_Identity_Case_Study_00.jpg": {
+          "url": "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/10/BN_Conf_2026_Identity_Case_Study_00.jpg",
+          "paths": [
+            [
+              "设计",
+              "2026 Brand New Conference"
+            ]
+          ],
+          "tags": [
+            "视觉设计",
+            "版式设计"
+          ],
+          "brands": []
+        }
+      }
+    }
+  ]
+}

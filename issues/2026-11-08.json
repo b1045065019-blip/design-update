@@ -1,0 +1,248 @@
+{
+  "date": "2026-11-08",
+  "id": "2026-11-08",
+  "label": "正式刊 009（补发）",
+  "window_start": "2026-11-05",
+  "window_end": "2026-11-07",
+  "coverage": "内容范围：2026.11.05—11.07（三个完整自然日）｜6 条报道，按项目去重；报道日与官方发布日分开标注，早先项目的新报道单独说明",
+  "published_on": "2026-11-10",
+  "source_failures": [
+    "本期为迟发补刊，名义刊日 2026-11-08，窗口取刊日前三个完整自然日（11.05—11.07）。与上一期（名义 11-05）一并按时间顺序补齐。",
+    "Brand New 自动扫描仍命中旧的 The Follow-up 播客 RSS（条目停在 2024 年），改用当前公开首页核对：11 月 6—8 日站点公告休假与会议、只发 Reviewed 与 Noted，窗口内仅 11 月 5 日有更新；正文需订阅，条目只记录新旧对照图可见的变化与公开标签。",
+    "标志情报局 11 月 5—7 日 RSS 共 5 条，站内正文与图片受访问控制，改用浏览器逐篇打开核对；其中 11 月 5 日的 Karl Gerstner 壳牌旧稿属设计史回顾，未计入本期。",
+    "BP&O 本周只更新 11 月 5 日一篇；It's Nice That 首页仅给出相对时间（小时/天），无法可靠换算到具体自然日，本期未收录；TypeTogether 博客最新两条为 11 月 9 日、Ideogram 为选购榜单，均不在窗口内。"
+  ],
+  "articles": [
+    {
+      "id": "sukhishvili-joyboy-20261108",
+      "title": "格鲁吉亚国家芭蕾舞团换标：舞者剪影不变，字标拉高成向上扬起的台口",
+      "name": "Sukhishvili 国家芭蕾舞团品牌识别",
+      "category": "品牌设计",
+      "secondary": "标志设计",
+      "region": "格鲁吉亚",
+      "studio": "JoyBoy Creative Studio",
+      "date": "2026.11.05（Brand New 收录）",
+      "summary": "Brand New 11 月 5 日以 Reviewed 收录 Sukhishvili 格鲁吉亚国家芭蕾舞团的新识别，设计方 JoyBoy Creative Studio。新旧对照显示：旧标是较小的舞者剪影配两行无衬线字标，字标左对齐、字重偏粗；新标把舞者剪影放大并上移，下方换成高瘦的压缩衬线大写「SUKHISHVILI」，字形沿弧线排列、两端向上扬起，像舞台台口或裙摆的轮廓，副行「Georgian National Ballet」改为小号衬线体并居中。公开标签是 ballet、dance、georgia、icon、illustration、joyboy、proprietary type、red、serif、uppercase、wordmark，可见红色是主要品牌色之一并配有插画系统。",
+      "source": "Brand New",
+      "url": "https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_sukhishvili_national_ballet_of_georgia_by_joyboy_creative_studio.php",
+      "note": "Brand New 正文需订阅，本文只描述新旧对照图中的字形、构图与配色变化，以及页面公开标签；字体名与设计理念未见公开说明，不推测。日期为收录日，不是舞团官方发布日。",
+      "kind": "项目报道",
+      "images": [
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/sukhishvili_logo_before_after.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/sukhishvili_logo_before_after.png": {
+          "url": "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/sukhishvili_logo_before_after.png",
+          "paths": [
+            [
+              "设计",
+              "Sukhishvili 国家芭蕾舞团"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "字体设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "purple-garden-20261108",
+      "title": "Purple Garden 用七个紫与 Y2K 描边字，把占卜 App 从「催单感」里拉出来",
+      "name": "Purple Garden 品牌识别",
+      "category": "品牌设计",
+      "secondary": "海报设计",
+      "region": "美国",
+      "studio": "Mother Design",
+      "date": "2026.11.05（BP&O 报道）",
+      "summary": "BP&O 11 月 5 日刊出 Mother Design 为灵性服务 App Purple Garden 做的品牌：涵盖品牌策略、识别、摄影指导、插画、语气与动效。平台把一对一灵性咨询搬到手机，所属「灵性服务」市场规模约 23 亿美元；Mother 的判断是同类网站视觉上堆满陈词滥调、又用限时与即时答复催促下单，因此要反过来做——安静、有耐心、允许重复。方案用七个层次的紫色、Y2K 风格的描边字体（把主体字拆成空心轮廓叠在背景）与波纹状（cymatic）图案，文案写成「Notice what repeats」「Look inward, feel it outward」，应用覆盖户外海报、托特包与 App 界面。",
+      "source": "BP&O",
+      "url": "https://bpando.org/2026/11/05/mother-design-brand-identity-spirituality-app-purple-garden/",
+      "note": "报道日 11.5；这是观点文章，含作者对品牌名的吐槽，属评论意见，不代表品牌方口径。项目委托时间与官方发布日期文中未明确给出。",
+      "kind": "项目报道",
+      "images": [
+        "https://bpando.org/wp-content/uploads/mother-design-purple-garden-brand-identity-design-bpo-review-poster-tote.png",
+        "https://bpando.org/wp-content/uploads/purple-garden-mother-design-branding-identity-design-bpo-review-gif.webp"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://bpando.org/wp-content/uploads/mother-design-purple-garden-brand-identity-design-bpo-review-poster-tote.png": {
+          "url": "https://bpando.org/wp-content/uploads/mother-design-purple-garden-brand-identity-design-bpo-review-poster-tote.png",
+          "paths": [
+            [
+              "设计",
+              "Purple Garden"
+            ]
+          ],
+          "tags": [
+            "海报设计",
+            "广告设计"
+          ],
+          "brands": []
+        },
+        "https://bpando.org/wp-content/uploads/purple-garden-mother-design-branding-identity-design-bpo-review-gif.webp": {
+          "url": "https://bpando.org/wp-content/uploads/purple-garden-mother-design-branding-identity-design-bpo-review-gif.webp",
+          "paths": [
+            [
+              "设计",
+              "Purple Garden"
+            ]
+          ],
+          "tags": [
+            "海报设计",
+            "版式设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "lasportiva-20261108",
+      "title": "La Sportiva 提前为百年换标：去掉太阳与半圆，只留一座更利落的山",
+      "name": "La Sportiva 品牌形象更新",
+      "category": "标志设计",
+      "secondary": "品牌设计",
+      "region": "意大利",
+      "studio": "The Branding Letters",
+      "date": "2026.11.05（报道）",
+      "summary": "意大利户外鞋类品牌 La Sportiva 在面向国际销售网络的 2027 春夏系列发布会上公布新版品牌形象，自称是近几十年来最重要的一次更新，为 2028 年创立 100 周年做准备。新标志仍以品牌诞生地 Cimon della Pala 山峰为原型，但去掉了旧标山峰上的太阳轮廓和半圆外框，只保留由几段直笔构成的山形，黄色更突出；字标同时重绘，笔画更硬朗。整套更新还包括品牌口号、传播体系、品牌活动与零售空间概念。设计由意大利机构 The Branding Letters 负责，品牌活动与传播平台由英国 Mynt 负责。品牌创立于 1928 年，以登山鞋、攀岩鞋与越野跑鞋闻名。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/la-sportiva-new-logo.html",
+      "note": "报道日 11.5；品牌方未单独公布换标日期，公布场合为 2027 春夏系列发布会，本文不推断具体日期与时区。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/05/2026051310374765.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/05/2026051310374765.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/05/2026051310374765.png",
+          "paths": [
+            [
+              "设计",
+              "La Sportiva"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "品牌设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "hunan-tourism-20261108",
+      "title": "湖南旅发大会会徽：怀素草书的「永」里藏一个 7，配两款古装吉祥物",
+      "name": "第七届湖南旅游发展大会视觉",
+      "category": "标志设计",
+      "secondary": "视觉设计",
+      "region": "中国",
+      "studio": "未披露",
+      "date": "2026.11.05（报道）｜2026.11.04 发布会公布",
+      "summary": "11 月 4 日第七届湖南旅游发展大会新闻发布会在长沙举行，公布大会口号、形象标识与吉祥物；大会 12 月 10—12 日在永州举办。会徽以唐代书法家怀素的草书「永」字为骨架，把数字 7 融进字形，另加入永州女书与九嶷山三分石等地方元素，用蓝绿到橙的渐变线条呈现。全省口号沿用「三湘四水 相约湖南」，永州口号为「千年文脉 源来永州」。两款吉祥物「潇潇」「湘湘」为一男一女古装人物，融入阳明山山水、瑶族几何纹样与花边刺绣，并引用《爱莲说》等与永州有关的典故。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/the-7th-hunan-tourism-development-conference-released-its-logo-and-mascot.html",
+      "note": "报道日 11.5，发布会为 11.4；设计团队未披露，图形寓意来自发布会与报道转述。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/11/dc6d082b-fc7e-414f-8dfc-0b95dc8554ab.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/11/dc6d082b-fc7e-414f-8dfc-0b95dc8554ab.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/11/dc6d082b-fc7e-414f-8dfc-0b95dc8554ab.png",
+          "paths": [
+            [
+              "设计",
+              "湖南旅游发展大会"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "视觉设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "bloomington-city-20261108",
+      "title": "布卢明顿新城市标被指「像屁股」：两个几何块拼成的 b 没能说服本地人",
+      "name": "布卢明顿城市品牌",
+      "category": "标志设计",
+      "secondary": "品牌设计",
+      "region": "美国",
+      "studio": "CivicBrand",
+      "date": "2026.11.06（报道）｜方案 2026.09.02 公布",
+      "summary": "印第安纳州布卢明顿市公布城市品牌方案：新标志由两个不同的几何块拼成小写 b，官方解释两块代表不同的人、观点与路径在城市相遇，对应城市与大学、传统与创新、自然与建成环境等几组关系；配色为深海军蓝，字标是窄体无衬线大写的 BLOOMINGTON。旧标是 1986 年启用的圆形雪花标，灵感来自当地拼布图案里的牡丹与百合。项目 2016 年由市工资增长工作组提出，2025 年重启并在预算中立项，委托 CivicBrand，合同金额 9.5 万美元，含标志、色彩、字体与应用系统。方案公布后遭本地居民批评：与城市缺少关联、像通用商业标识，也有人认为形似臀部。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/bloomington-city-new-logo.html",
+      "note": "报道日 11.6，方案公布日为 9 月 2 日——属早先项目的新报道，不是窗口内首发；最终是否定稿启用未见公开结论，本文不预测。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/09/2026090414160845.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/09/2026090414160845.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/09/2026090414160845.png",
+          "paths": [
+            [
+              "设计",
+              "布卢明顿城市品牌"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "品牌设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "hololive-20261108",
+      "title": "hololive 把各地分品牌并成一个：三角形拆成碎片，字标去掉 production",
+      "name": "hololive production 品牌整合",
+      "category": "标志设计",
+      "secondary": "品牌设计",
+      "region": "日本",
+      "studio": "COVER 株式会社（未披露设计方）",
+      "date": "2026.11.06（报道）｜2026.09.07 宣布",
+      "summary": "COVER 旗下 hololive production 把按地区与团体划分的品牌结构（hololive English、hololive Indonesia、hololive DEV_IS 等）整合为单一「hololive」。新旧对照显示：旧标是叠层的蓝色三角播放键配蓝色粗圆体「hololive」与细体「production」副行；新标把三角拆成几块分离的碎片，播放键意象更抽象，字标改为深灰色、字重更稳的几何无衬线，并去掉 production 副行。官方称延续三角形与蓝色是为了表现艺人个性汇聚交融、活动范围扩展到直播、音乐、演出与游戏，并配合艺人形象的分阶段调整。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/hololive-production-new-logo.html",
+      "note": "报道日 11.6，品牌整合于 9 月 7 日宣布——属早先项目的新报道；设计方未披露。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/09/2026090810343054.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/09/2026090810343054.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/09/2026090810343054.png",
+          "paths": [
+            [
+              "设计",
+              "hololive production"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "品牌设计"
+          ],
+          "brands": []
+        }
+      }
+    }
+  ]
+}
