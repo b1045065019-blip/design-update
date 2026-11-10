@@ -1,0 +1,574 @@
+{
+  "date": "2026-11-11",
+  "id": "2026-11-11",
+  "label": "正式刊 010",
+  "window_start": "2026-11-08",
+  "window_end": "2026-11-10",
+  "coverage": "内容范围：2026.11.08—11.10（三个完整自然日）｜14 条报道，按项目去重；报道日与官方发布日分开标注，早先项目的新报道单独说明",
+  "published_on": "2026-11-11",
+  "source_failures": [
+    "扫描 19 个来源、160 条候选，上限被 Pentagram、TypeTogether、Brand New 等首页导航挤满；BP&O、LG2 抓取报 URLError，改用媒体首页核对最新条目与日期。",
+    "Brand New 自动扫描仍命中旧的 The Follow-up 播客 RSS（条目停在 2024 年），改用当前公开首页核对：11 月 8 日为周日无更新，11 月 9 日与 10 日各 4 条（Reviewed / Noted / Spotted 混排）。正文在订阅墙后，只记录新旧对照图可见变化与页面公开标签。",
+    "标志情报局 RSS 6 条，窗口内 5 条（11.08—11.10），逐篇打开正文核对日期与图片；11 月 5 日的 Karl Gerstner 壳牌旧稿属设计史回顾，不在窗口内。",
+    "It's Nice That 首页只给相对时间（小时/天），逐篇打开正文页确认绝对日期，窗口内仅 11 月 10 日一篇；更早条目为 11 月 4—5 日。",
+    "Ideogram 博客返回 403；Adobe Blog 只抓到页面片段，改用 news.adobe.com 官方新闻稿（2026 年 11 月 10 日）核对。Krea 博客最新为 11 月 3—5 日，不在窗口内。",
+    "TypeTogether、Monotype、方正字库、森泽、日本设计中心等来源窗口内没有带日期的公开新品条目，本期未收录。"
+  ],
+  "articles": [
+    {
+      "id": "oxford-street-koto-20261111",
+      "title": "Oxford Street 换新标：绿色底色上一行粗黑无衬线，把「St」缩成上标、句点做成菱形",
+      "name": "Oxford Street 品牌识别",
+      "category": "标志设计",
+      "secondary": "字体设计",
+      "region": "英国",
+      "studio": "Koto",
+      "date": "2026.11.10（Brand New 收录）",
+      "summary": "Brand New 11 月 10 日以 Reviewed 收录 Koto 为伦敦牛津街（Oxford Street）做的新标志，行业分类为 Destinations。新旧对照图可见的构成是：亮绿色满版底色上，一行黑色粗体无衬线大写「OXFORD」，右侧接一个缩小的上标「ST」，ST 下方再加一枚黑色菱形点，代替「St.」的句点；整行左对齐、字距收紧，远看像店铺招牌上的街名。页面公开标签为 flared serif、green、historic、koto、london、monogram、proprietary type、sans serif、uk、wayfinding，说明系统里除定制字体外还有字母组合图形与街道导视应用。",
+      "source": "Brand New",
+      "url": "https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_oxford_street_by_koto.php",
+      "note": "Brand New 正文需订阅，本文只描述新旧对照图中的字形、构图与配色，以及页面公开标签；委托方口径、字体名称与落地方案未见公开说明，不推测。日期为收录日，非官方发布日。",
+      "kind": "项目报道",
+      "images": [
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/oxford_st_logo_new.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/oxford_st_logo_new.png": {
+          "url": "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/oxford_st_logo_new.png",
+          "paths": [
+            [
+              "设计",
+              "Oxford Street"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "字体设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "zap-manual-20261111",
+      "title": "Zap 换标：闪电箭头换成被黄色斜纹切开的黑色粗块字",
+      "name": "Zap 品牌识别",
+      "category": "标志设计",
+      "secondary": "品牌设计",
+      "region": "美国",
+      "studio": "Manual",
+      "date": "2026.11.10（Brand New 收录，11.09 站点发布）",
+      "summary": "Brand New 11 月 9 日以 Reviewed 收录 Manual 为 Zap 做的新标志，行业分类为 Technology。新旧对照图：旧标是两枚灰蓝色箭头状闪电块拼在一起，下方配黑色窄体大写「ZAP ENERGY」；新标去掉图形，只留「ZAP」三个黑色超粗字母，每个字母被两道黄色斜线切开，斜线处露出底色，整体像工业警示条，背景换成浅黄绿。页面公开标签为 angle、energy、manual、nuclear、research、uppercase、wordmark、yellow，可判断品牌所在领域与能源、核研究相关，但具体业务与委托背景在订阅墙后，未核实。",
+      "source": "Brand New",
+      "url": "https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_zap_by_manual.php",
+      "note": "Brand New 正文需订阅，只描述对照图可见的字形与配色，以及公开标签；公司业务范围来自标签推断，不作结论。日期为收录日。",
+      "kind": "项目报道",
+      "images": [
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/zap_logo_before_after.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/zap_logo_before_after.png": {
+          "url": "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/zap_logo_before_after.png",
+          "paths": [
+            [
+              "设计",
+              "Zap"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "zig-lettera7-20261111",
+      "title": "坚果品牌 Zig 换装：红色圆形印章让位给橄榄绿手写体",
+      "name": "Zig 包装与标志更新",
+      "category": "包装设计",
+      "secondary": "标志设计",
+      "region": "意大利",
+      "studio": "Lettera7",
+      "date": "2026.11.10（Brand New 收录，11.09 站点发布）",
+      "summary": "Brand New 11 月 9 日以 Noted 收录 Lettera7 为坚果零食品牌 Zig 做的新标志与包装。对照图：旧标是红底圆形印章式构图，圆环内是弧形排列的小写「Zig」与「FRUTTA SECCA DAL 1907」字样，整体偏传统食品标签；新标只留一组橄榄绿色手写体「Zig」，字尾带连笔回钩，底色改为米白，用在包装正面更简洁。页面把该项目归在包装与标志更新一类，行业标签指向食品。",
+      "source": "Brand New",
+      "url": "https://www.underconsideration.com/brandnew/archives/new_logo_and_packaging_for_zig_by_lettera7.php",
+      "note": "Brand New 正文需订阅，只描述对照图可见的字形与配色，以及页面公开信息；包装结构与材质细节未见公开说明，不推测。日期为收录日。",
+      "kind": "项目报道",
+      "images": [
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/zig_nuts_logo_before_after.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/zig_nuts_logo_before_after.png": {
+          "url": "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/zig_nuts_logo_before_after.png",
+          "paths": [
+            [
+              "设计",
+              "Zig"
+            ]
+          ],
+          "tags": [
+            "包装设计",
+            "标志设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "whisky-exchange-otherway-20261111",
+      "title": "The Whisky Exchange 重塑：保留双狮徽章，但把纹章做轻、把货架话术讲清楚",
+      "name": "The Whisky Exchange 品牌重塑",
+      "category": "品牌设计",
+      "secondary": "包装设计",
+      "region": "英国",
+      "studio": "Otherway",
+      "date": "2026.11.10（BP&O 报道）",
+      "summary": "BP&O 11 月 10 日刊出 Otherway 为伦敦烈酒零售商 The Whisky Exchange 做的品牌重塑。品牌 1999 年由 Sukhinder 与 Rajbir Singh 兄弟创办，从父母西伦敦酒类小店起家，先做线上威士忌社区，后扩展到实体店、批发、拍卖与活动，2021 年被法国保乐力加收购。委托范围覆盖品牌策略、视觉识别、语气、数字设计、导视与包装。核心动作是重绘原有双狮徽章——该图形指向创始家族姓氏 Singh 在梵语里的「狮子」之意——把原本厚重的纹章处理得更轻、更流动，保留可信与历史感，同时去掉旧式排他与男性化的观感；配合新品类的货架物料，用 STAFF PICKS 立牌、风味卡与海报解释酒款，让专业度看起来更好接近。",
+      "source": "BP&O",
+      "url": "https://bpando.org/2026/11/10/otherway-the-whisky-exchange-contemporary-heritage-brand-identity-design/",
+      "note": "报道日 11.10；这是评论文章，作者对方案的评价属媒体意见。项目委托时间与官方发布日期文中未给出，不加推断。",
+      "kind": "项目报道",
+      "images": [
+        "https://bpando.org/wp-content/uploads/the-whisky-exchange-otherway-brand-identity-design-bpo-review-trio.png",
+        "https://bpando.org/wp-content/uploads/whisky-exchange-otherway-brand-identity-design-bpo-review-logo.jpeg",
+        "https://bpando.org/wp-content/uploads/whisky-exchange-otherway-brand-identity-design-bpo-review-signage.jpeg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://bpando.org/wp-content/uploads/the-whisky-exchange-otherway-brand-identity-design-bpo-review-trio.png": {
+          "url": "https://bpando.org/wp-content/uploads/the-whisky-exchange-otherway-brand-identity-design-bpo-review-trio.png",
+          "paths": [
+            [
+              "设计",
+              "The Whisky Exchange"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://bpando.org/wp-content/uploads/whisky-exchange-otherway-brand-identity-design-bpo-review-logo.jpeg": {
+          "url": "https://bpando.org/wp-content/uploads/whisky-exchange-otherway-brand-identity-design-bpo-review-logo.jpeg",
+          "paths": [
+            [
+              "设计",
+              "The Whisky Exchange"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "kua-kyoto-arts-20261111",
+      "title": "京都艺术大学为 50 周年启用简称 KUA：留着佐藤卓的墨滴，把 U 做成陶器的高台",
+      "name": "京都艺术大学 KUA 标志",
+      "category": "标志设计",
+      "secondary": "字体设计",
+      "region": "日本",
+      "studio": "佐藤卓（墨滴图形原设计）",
+      "date": "2026.11.10（报道）",
+      "summary": "京都艺术大学宣布在 2027 年建校 50 周年前启用新简称「KUA（クア）」与新标志，并提出新使命「解放全世界的创造力」。KUA 同时是瓜生山学园「KYOTO URYUYAMA ACADEMY」与京都艺术大学「KYOTO UNIVERSITY OF THE ARTS」的缩写。新标志沿用学园原有的墨滴图形——由佐藤卓设计，取自一滴墨落在纸面自然形成的轮廓，因每滴形状不同而象征生命多样性与个体尊严——在其右侧加入粗体「KUA」字标。字标重点处理字母 U：底部加了一圈类似陶器底足「高台」的结构，让整个字母看起来像一件容器，呼应「大学是提供学习空间的器，真正的主人是学生」。配套还提出思考与想象、挑战、享受探索、超越四项行动指引。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/kyoto-university-of-the-arts-new-logo.html",
+      "note": "报道日 11.10；学校未单独公布标志启用具体日期，只说明在建校 50 周年（2027 年）前推进，本文不推断具体启用时间与时区。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/09/2026091513441718.png",
+        "https://imgs.logonews.cn/uploads/2026/09/2026091513445796.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/09/2026091513441718.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/09/2026091513441718.png",
+          "paths": [
+            [
+              "设计",
+              "京都艺术大学"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "字体设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/09/2026091513445796.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/09/2026091513445796.png",
+          "paths": [
+            [
+              "设计",
+              "京都艺术大学"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "视觉设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "tcu-100th-logo-20261111",
+      "title": "东京都市大学百年标志由大三学生设计：数字 1 加无限符号，拼成校章里的 100",
+      "name": "东京都市大学建校 100 周年纪念标志",
+      "category": "标志设计",
+      "secondary": "视觉设计",
+      "region": "日本",
+      "studio": "永井和太（在校学生）",
+      "date": "2026.11.10（报道）｜2026.10.16 颁奖",
+      "summary": "东京都市大学为 2029 年建校 100 周年公开征集纪念标志，7 月 1 日启动、8 月截稿，共收到 71 件投稿，8 月 7 日评审，10 月 16 日举行表彰仪式，校长野城智也出席。最终采用信息工学部信息科学专业三年级学生永井和太的作品：沿用现有校章的外部轮廓，中央用数字「1」与无限符号「∞」组合成「100」，无限符号代表武藏工业大学与东横学园女子短期大学两段历史融合并共同走向下一个百年，配色用学校代表色 TCU BLUE。另有两件优秀奖，来自环境学部宗像美红与建筑都市设计学部多木菜央。文中一并回顾校章源流：图形最早取自旧校门旁的柏树叶帽徽，2009 年改为现名时在柏叶基础上加入 TCU 字母。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/tokyo-city-university-unveils-100th-anniversary-commemorative-logo.html",
+      "note": "报道日 11.10；征集与颁奖流程日期来自校方说明，转述自报道。纪念标志的正式启用日未公布，不推断。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/11/19d5fff3-a96f-4083-99d5-83a2f0bcb0f0.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/11/19d5fff3-a96f-4083-99d5-83a2f0bcb0f0.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/11/19d5fff3-a96f-4083-99d5-83a2f0bcb0f0.png",
+          "paths": [
+            [
+              "设计",
+              "东京都市大学"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "campus-6th-gen-20261111",
+      "title": "国誉 Campus 15 年首换标：横线变成「无界线条」，第六代封面一起改",
+      "name": "Campus 品牌与第六代笔记本",
+      "category": "标志设计",
+      "secondary": "视觉设计",
+      "region": "日本",
+      "studio": "6D（木住野彰悟）",
+      "date": "2026.11.09（报道）｜2026.11.11 发售",
+      "summary": "国誉公布 Campus 新品牌标志、文字标与笔记本封面，这是 Campus 时隔 15 年再次全面更新，也是 1975 年第一代上市以来的第六代产品，新设计商品 11 月 11 日起在日本发售。品牌定位同步从「笔记本品牌」转向「支持不同学习方式」。新图形叫「Borderless Line（无界线条）」，取自 Campus 内页横线，重新设计成可跨产品复用的视觉符号，寓意陪学生跨过失败与困惑这些界线；字标延续历代字母相连的特征，字重和字形按当代审美调整，并首次建立全球统一识别系统。封面保留熟悉的配色与横线规格标识，版面更简洁；另推「Campus 蓝色点线笔记本」，用浅蓝细密横线降低书写干扰，右侧加边栏。设计由平面设计工作室 6D 参与，创始人木住野彰悟负责设计与艺术指导。品牌方 2025 年 11 月至 2026 年 2 月在日、美、泰、马、中五国做过学习与文具使用调查。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/campus-new-logo.html",
+      "note": "报道日 11.9；发售日 11.11 为品牌公布日期，非本文报道日。代际说法与调查范围均引自报道。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/11/541bd0a0-150a-4f0e-9be1-f43a4d1c939b.png",
+        "https://imgs.logonews.cn/uploads/2026/11/333e0cf0-51a9-4924-92f7-c1ec0f04e11d.webp"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/11/541bd0a0-150a-4f0e-9be1-f43a4d1c939b.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/11/541bd0a0-150a-4f0e-9be1-f43a4d1c939b.png",
+          "paths": [
+            [
+              "设计",
+              "Campus"
+            ]
+          ],
+          "tags": [
+            "字体设计",
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/11/333e0cf0-51a9-4924-92f7-c1ec0f04e11d.webp": {
+          "url": "https://imgs.logonews.cn/uploads/2026/11/333e0cf0-51a9-4924-92f7-c1ec0f04e11d.webp",
+          "paths": [
+            [
+              "设计",
+              "Campus"
+            ]
+          ],
+          "tags": [
+            "视觉设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "chengdu-ich-logo-20261111",
+      "title": "成都非遗新标识取自编织：线条向心聚成芙蓉，外扩成五款子标识",
+      "name": "成都市非遗保护中心标识",
+      "category": "标志设计",
+      "secondary": "视觉设计",
+      "region": "中国",
+      "studio": "张寒煜（北京理工大学，董红羽指导）",
+      "date": "2026.11.09（报道）｜2026.10.28 发布",
+      "summary": "成都市非遗保护中心 10 月 28 日正式发布新标识，方案来自第十届米兰设计周中国高校设计学科师生优秀作品展「东方正火」全国非遗数字文创大赛的「成都非遗焕新类」赛道。一等奖作品「锦城艺韵」由北京理工大学设计与艺术学院董红羽指导、张寒煜设计，从 1176 件参赛作品中选出并被采用。图形把传统编结工艺里交织回环的形态转成互相穿插的几何线条：线条向中心聚合形成类似芙蓉花的纹样，呼应成都「蓉城」；向外舒展则指传承、交流与创新。除红色主标外，还派生五款彩色子标对应三个传习工作部与两个品牌项目——木偶皮影用紫、传统音乐用绿、曲艺用橙、「成都非遗生活季」用蓝、「成都手作」用红；子标沿用同一套线条交织方式，经旋转组合可排成连续纹样。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/chengdu-intangible-cultural-heritage-unveils-new-logo.html",
+      "note": "报道日 11.9，官方发布日为 10.28；属窗口内的新报道但项目发布更早，已在 date 中区分。设计说明来自主办方与报道转述。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/11/b8449ab7-a860-4da9-8c8d-856a35057026.jpg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/11/b8449ab7-a860-4da9-8c8d-856a35057026.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/11/b8449ab7-a860-4da9-8c8d-856a35057026.jpg",
+          "paths": [
+            [
+              "设计",
+              "成都非遗"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "brand-sg-20261111",
+      "title": "新加坡国家品牌近十年再升级：小红点长成「SG 球」，口号改成 When You're Ready",
+      "name": "Brand SG 国家品牌更新",
+      "category": "品牌设计",
+      "secondary": "视觉设计",
+      "region": "新加坡",
+      "studio": "Anak（与新加坡贸工部 MTI 合作）",
+      "date": "2026.11.08（报道）",
+      "summary": "新加坡国家品牌 Brand SG 近十年首次升级，由 2017 年做过「Passion Made Possible」的本地公司 Anak 再次与新加坡贸工部合作，推出新口号「When You're Ready（当你准备好时）」，传播对象转向全球企业与商业决策者。2017 年的红色圆圈「SG」图标与字标保持不变，新变化在把国家昵称「小红点」扩展成立体「SG Sphere」：通过球体造型与光影变化表现向外释放能量、向内吸引资源，官方赋予「引力中心」的含义。字体配 Viktor 与 DM Sans 两款，前者个性强、后者清晰易读。动态是这次的重点，用光线与阴影控制元素出现、移动和过渡，在信息切换处引导视线。整套形象用在数字平台上，强调持续变化。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/brand-sg-when-youre-ready.html",
+      "note": "报道日 11.08；官方启动日与新口号正式启用时间文中未明确给出，不推断。文中 AI 摘要为站点自动生成，本文事实以正文与官方说明转述为准。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/11/3d9f8bec-cba2-4eac-811c-c7b113074cf9.jpg",
+        "https://imgs.logonews.cn/uploads/2026/11/c8bd6b84-234e-4cbb-b38e-7569a0e5c7cc.jpg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/11/3d9f8bec-cba2-4eac-811c-c7b113074cf9.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/11/3d9f8bec-cba2-4eac-811c-c7b113074cf9.jpg",
+          "paths": [
+            [
+              "设计",
+              "新加坡国家品牌"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/11/c8bd6b84-234e-4cbb-b38e-7569a0e5c7cc.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/11/c8bd6b84-234e-4cbb-b38e-7569a0e5c7cc.jpg",
+          "paths": [
+            [
+              "设计",
+              "新加坡国家品牌"
+            ]
+          ],
+          "tags": [
+            "版式设计",
+            "广告设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "adobe-max-mcp-20261111",
+      "title": "Adobe 把 Creative Cloud 打开给外部 agent：Photoshop、Illustrator 走本地 MCP",
+      "name": "Adobe MAX 2026 创意工具更新",
+      "category": "视觉设计",
+      "secondary": "字体设计",
+      "region": "美国",
+      "studio": "Adobe",
+      "date": "2026.11.10（官方发布）",
+      "summary": "Adobe 在迈阿密海滩举行的 MAX 2026 上宣布把 Creative Agent 扩展到 Creative Cloud 与 Firefly，并预览 Creative Cloud 的本地 MCP 集成：第三方 agent 可以直接在 Photoshop、Illustrator、Premiere、After Effects 的原生项目文件上改东西，图层、矢量、素材箱与序列保持可编辑，人可随时接手。该集成 2027 年初进入私测，首批不支持其他应用。Firefly 一侧同时推出 Firefly Design（beta，把位图、矢量、动效、3D 与印刷放在同一画布）、Firefly Graph（beta，搭建可复用工作流）、Firefly Builder（私测，用自然语言生成可交互的品牌原型），并预览「always-on」常驻 agent，用来做素材整理、质检与多渠道改稿。Creative Cloud 侧还有 Photoshop 的 Relight 与 Generative Restyle、Premiere 的 Color Mode 调色系统、Lightroom 的 Open Eyes（beta）、InDesign 的协同编辑（beta），以及引入 Topaz Labs 的 Wonder 4 与 Image HDR 增强模型。",
+      "source": "Adobe Newsroom",
+      "url": "https://news.adobe.com/news/2026/11/adobe-powers-new-era-of-creativity",
+      "note": "官方新闻稿发布日期 11.10，与 Creative Boom 当日现场报道一致；两处均说明 MCP 集成为私测、2027 年初开放。功能可用性以官方 beta/私测标注为准，未实测。",
+      "kind": "产品发布",
+      "images": [],
+      "unavailable": true,
+      "references": [
+        "https://www.creativeboom.com/news/adobe-max-2026-all-the-big-announcements/"
+      ],
+      "collectionPlans": {}
+    },
+    {
+      "id": "recraft-gemini-omni-20261111",
+      "title": "Recraft Studio 接入 Gemini Omni Flash 1.2：10 秒带声视频，主打角色与商品一致",
+      "name": "Recraft Studio 视频模型更新",
+      "category": "视觉设计",
+      "secondary": "广告设计",
+      "region": "美国",
+      "studio": "Recraft",
+      "date": "2026.11.10（官方博客）",
+      "summary": "Recraft 官方博客 11 月 10 日宣布 Google 的新视频模型 Gemini Omni Flash 1.2 已接入 Recraft Studio。相比 1.1，官方给出的变化是：角色、物体与场景在整段视频里更稳定，漂移与形变更少；镜头指令执行更准，多余跳切减少；对白唇形更准，多说话人场景也能对齐。在 Studio 里单段最长 10 秒并带原生音频。文章定位是给设计师用的提示词指南，说明一致性收益出现在哪些场景；模型能力描述来自厂商自述，未做独立测试。",
+      "source": "Recraft Blog",
+      "url": "https://www.recraft.ai/blog/gemini-omni-flash-1-2-in-recraft-studio",
+      "note": "厂商自述内容，能力与效果未经独立验证；页面无可收录的作品图，标为 unavailable。",
+      "kind": "产品发布",
+      "images": [],
+      "unavailable": true,
+      "references": [],
+      "collectionPlans": {}
+    },
+    {
+      "id": "julien-gobled-20261111",
+      "title": "Julien Gobled：把档案图像和网络产物揉成版面，字与图一起变形",
+      "name": "Julien Gobled 平面与艺术指导",
+      "category": "版式设计",
+      "secondary": "海报设计",
+      "region": "法国",
+      "studio": "Julien Gobled（Million Goods 与 Sometimes Always 合作）",
+      "date": "2026.11.10（Creative Boom 报道）",
+      "summary": "Creative Boom 11 月 10 日刊出法国 Le Havre 的艺术家兼设计师 Julien Gobled 专题。他学纯艺出身，先在设计公司上班再做自由职业，现在独立工作，自称越来越像艺术家而不是设计师：捡拾旧档案、书籍与网络图像，数字化裁剪、变形、拼接，让文字与图像一起扭曲，做成整页的视觉世界。文中三个项目：与 Fidèle Éditions 合作、Éditions Biceps 联合出版、Jean-Philippe Bretin 负责编辑设计与版式的书《Derrière le soleil》，做了两年；为 Oneohtrix Point Never 新专辑《Tranquilizer》做艺术指导、字体与封面（封面丝网印来自 Abner Hershberger，其余是层叠字体与扭曲照片的拼贴）；与 Sometimes Always 的 Gabriel Finotti 合作为布鲁克林概念店 Million Goods 重做视觉识别，参考包豪斯、粗野主义与现代主义，但不做单纯致敬。",
+      "source": "Creative Boom",
+      "url": "https://www.creativeboom.com/inspiration/with-freaky-faces-warped-type-and-happy-accidents-julien-gobled-is-tearing-up-the-graphic-design-rulebook/",
+      "note": "报道日 11.10；文中所列项目完成时间分散，图文说明区分了作者：书籍版式为 Bretin，Million Goods 的平面设计由 Sometimes Always 完成、Gobled 主做艺术指导与画面。",
+      "kind": "人物报道",
+      "images": [
+        "https://media.creativeboom.com/58c6d127-8907-4b06-aaa5-aa7811048a4c/conversions/57cc83d15abb4d49652ae5ec6bff80d3fbe9c954-medium.webp",
+        "https://media.creativeboom.com/16caf7e7-beb9-497c-8b40-bf2bdcbb2423/conversions/41b13f769f421767fec062de78bfc8d2167fe141-medium.webp"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://media.creativeboom.com/58c6d127-8907-4b06-aaa5-aa7811048a4c/conversions/57cc83d15abb4d49652ae5ec6bff80d3fbe9c954-medium.webp": {
+          "url": "https://media.creativeboom.com/58c6d127-8907-4b06-aaa5-aa7811048a4c/conversions/57cc83d15abb4d49652ae5ec6bff80d3fbe9c954-medium.webp",
+          "paths": [
+            [
+              "设计",
+              "Million Goods"
+            ]
+          ],
+          "tags": [
+            "海报设计",
+            "版式设计"
+          ],
+          "brands": []
+        },
+        "https://media.creativeboom.com/16caf7e7-beb9-497c-8b40-bf2bdcbb2423/conversions/41b13f769f421767fec062de78bfc8d2167fe141-medium.webp": {
+          "url": "https://media.creativeboom.com/16caf7e7-beb9-497c-8b40-bf2bdcbb2423/conversions/41b13f769f421767fec062de78bfc8d2167fe141-medium.webp",
+          "paths": [
+            [
+              "设计",
+              "Oneohtrix Point Never Tranquilizer"
+            ]
+          ],
+          "tags": [
+            "包装设计",
+            "字体设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "carlson-boniver-20261111",
+      "title": "十年后拆解 22, A Million：Eric Timothy Carlson 那套符号表是怎么长出来的",
+      "name": "Bon Iver《22, A Million》视觉体系",
+      "category": "视觉设计",
+      "secondary": "海报设计",
+      "region": "美国",
+      "studio": "Eric Timothy Carlson",
+      "date": "2026.11.10（It's Nice That 报道）｜作品 2016 年",
+      "summary": "It's Nice That 11 月 10 日刊出对明尼苏达设计师 Eric Timothy Carlson 的访谈，回顾他十年后看 Bon Iver 2016 年专辑《22, A Million》的视觉工作。文章把这张封面与配套 MV 描述成来自另一个现实的卡拉 OK 幻灯片：大量手绘符号、圆圈、星座式标记与几何图示密集排布，黑白线稿做底，局部点入红、绿、黄等纯色，符号之间没有固定语法，靠重复与位置形成体系。Carlson 回忆第一次见 Justin Vernon 时，对方直接给他看身上纹的、正是自己设计的图形，两三年后开始合作。文中也提到他为乐队做过的其他物料，包括巡演海报。",
+      "source": "It's Nice That",
+      "url": "https://www.itsnicethat.com/articles/eric-timothy-carlson-bon-iver-22-a-million-graphic-design-101126",
+      "note": "报道日 11.10，专辑与巡演视觉为 2016—2018 年旧作，属早先项目的新报道，不是窗口内首发。图片为文章配图，含 2018 年巡演海报，已在说明中区分。",
+      "kind": "人物报道",
+      "images": [
+        "https://m.itsnicethat.com/original_images/eric-timothy-graphic-design-itsnicethat-4.jpg?class=w1080",
+        "https://m.itsnicethat.com/original_images/eric-timothy-graphic-design-itsnicethat-6.jpg?class=w1080"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://m.itsnicethat.com/original_images/eric-timothy-graphic-design-itsnicethat-4.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/eric-timothy-graphic-design-itsnicethat-4.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Bon Iver"
+            ]
+          ],
+          "tags": [
+            "视觉设计"
+          ],
+          "brands": []
+        },
+        "https://m.itsnicethat.com/original_images/eric-timothy-graphic-design-itsnicethat-6.jpg": {
+          "url": "https://m.itsnicethat.com/original_images/eric-timothy-graphic-design-itsnicethat-6.jpg?class=w1080",
+          "paths": [
+            [
+              "设计",
+              "Bon Iver"
+            ]
+          ],
+          "tags": [
+            "海报设计",
+            "版式设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "ozo-matalan-20261111",
+      "title": "Matalan 圣诞广告先假装成时装大片，再拉远露出普通客厅",
+      "name": "Matalan「Be the Occasion」广告",
+      "category": "广告设计",
+      "secondary": "视觉设计",
+      "region": "英国",
+      "studio": "Ozo（导演 Anastasja Black）",
+      "date": "2026.11.09（Creative Boom 报道）",
+      "summary": "Creative Boom 11 月 9 日刊出 Ozo 为英国平价服饰零售商 Matalan 做的圣诞广告「Be the Occasion」。结构是先用奢侈时装片的语法：压暗的光线、织物特写、超模般平静的脸；随后镜头拉远，发现不是秀场或大片现场，而是一个普通女人在自己家里准备过圣诞节，只是穿着 Matalan 的衣服。笑点落在时装广告的过度套路本身，而不是嘲笑观众，落点是「不需要夸张预算也能在节日里显得体面」。系列影片与平面由 Anastasja Black 执导，延续品牌此前的「Believe It's Matalan」平台，用来扭转「廉价」印象。",
+      "source": "Creative Boom",
+      "url": "https://www.creativeboom.com/news/ozos-campaign-for-matalan-pulls-off-a-clever-catwalk-switcheroo/",
+      "note": "报道日 11.09；广告上线具体日期与投放范围文中未明确给出，不推断。文中对创意的评价属媒体观点。",
+      "kind": "项目报道",
+      "images": [
+        "https://media.creativeboom.com/d21f50bd-915d-4962-9782-60567d72299a/conversions/42fd6dbc5188ce6fa01d48c4d45ee67647c453df-medium.webp"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://media.creativeboom.com/d21f50bd-915d-4962-9782-60567d72299a/conversions/42fd6dbc5188ce6fa01d48c4d45ee67647c453df-medium.webp": {
+          "url": "https://media.creativeboom.com/d21f50bd-915d-4962-9782-60567d72299a/conversions/42fd6dbc5188ce6fa01d48c4d45ee67647c453df-medium.webp",
+          "paths": [
+            [
+              "设计",
+              "Matalan"
+            ]
+          ],
+          "tags": [
+            "广告设计"
+          ],
+          "brands": []
+        }
+      }
+    }
+  ]
+}
