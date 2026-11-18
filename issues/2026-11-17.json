@@ -1,0 +1,393 @@
+{
+  "date": "2026-11-17",
+  "id": "2026-11-17",
+  "label": "正式刊 012",
+  "window_start": "2026-11-14",
+  "window_end": "2026-11-16",
+  "coverage": "内容范围：2026.11.14—11.16（三个完整自然日）｜9 条，按项目去重；11 月 14—15 日为周末，中英文设计媒体新增极少，本期以 11 月 14—16 日的公开报道为准，不为凑数放宽窗口。本期为名义刊日 2026-11-17 的迟发刊，2026-11-18 补发。",
+  "published_on": "2026-11-18",
+  "source_failures": [
+    "扫描 19 个来源、160 条候选，上限被设计机构首页导航占满；改按 scan-cache.json 分来源候选与媒体首页核对，只读入选正文。",
+    "Brand New 11 月 14—15 日（周末）无更新，11 月 16 日 3 条；11 月 17 日页面提示因 Brand New Conference 与感恩节减少更新。正文在订阅墙后，只记录标题与新旧对照图。",
+    "标志情报局 RSS 只有最近 10 条，11 月 14—16 日共 5 条，逐条取其公开内容核对日期与图片；11 月 17—18 日的伦敦电影学院、NOTA、白色优衣库不在窗口内。",
+    "BP&O 在 11 月 14—16 日没有发文，最近一条为 11 月 17 日，超出窗口；It's Nice That 首页仍停在 11 月 2 日，Design Week、Creative Review、Dezeen 返回 403，未采用。",
+    "Recraft、Ideogram、Figma 在窗口内只有教程、榜单或观点文，按规则不作为视觉设计产品新闻收录；字体厂商与日本设计中心窗口内无带日期的公开新品。"
+  ],
+  "articles": [
+    {
+      "id": "beike-20261117",
+      "title": "贝壳去掉「找房」：标志由平面图形变立体莫比乌斯环，配色换成红绿蓝渐变，并首次用上定制字体",
+      "name": "贝壳",
+      "category": "标志设计",
+      "secondary": "字体设计",
+      "region": "中国",
+      "studio": "贝壳（内部团队）＋方正字库（定制字体「贝壳体」）",
+      "date": "2026.11.12 官方发布｜2026.11.15 报道",
+      "summary": "11 月 12 日，贝壳在组织成立 25 周年大会上宣布启用全新品牌标志与定制字体「贝壳体」，「贝壳找房」App 同步更名为「贝壳」。新标志在原图形基础上加入莫比乌斯环结构，从平面图形变成立体环形，暗示居住服务的连续性；配色由原来的单色蓝改为红、绿、蓝三色渐变——「链家绿」延续链家创立时的理念，「贝壳蓝」代表技术与开放平台，「生态红」由平台上近 300 个房产经纪品牌的颜色融合调配。定制字体「贝壳体」由方正字库打造，首次用在标志上：字形沿纵向拉高，笔画转角用大小不同的圆角。品牌称去掉「找房」二字，对应业务从房产交易扩展到看房、签约、装修、租住与资产管理。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/beike-new-logo.html",
+      "note": "官方发布在 11 月 12 日，报道在 11 月 15 日；配色与字体的设计说明引自官方口径。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/11/08ba3fd9-c8ac-412b-9fd9-756908fd2cca.png",
+        "https://imgs.logonews.cn/uploads/2026/11/236458e1-919d-4a7a-ab5a-a4970d573a3e.png",
+        "https://imgs.logonews.cn/uploads/2026/11/504afb98-9d31-4f53-bdd7-6589f079e077.jpg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/11/08ba3fd9-c8ac-412b-9fd9-756908fd2cca.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/11/08ba3fd9-c8ac-412b-9fd9-756908fd2cca.png",
+          "paths": [
+            [
+              "设计",
+              "贝壳"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/11/236458e1-919d-4a7a-ab5a-a4970d573a3e.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/11/236458e1-919d-4a7a-ab5a-a4970d573a3e.png",
+          "paths": [
+            [
+              "设计",
+              "贝壳"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "字体设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/11/504afb98-9d31-4f53-bdd7-6589f079e077.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/11/504afb98-9d31-4f53-bdd7-6589f079e077.jpg",
+          "paths": [
+            [
+              "设计",
+              "贝壳"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "asean-emblem-20261117",
+      "title": "东盟更新会徽与会旗：稻穗从 10 束增至 11 束，蓝底更亮、中央红圆缩小",
+      "name": "ASEAN 会徽与会旗",
+      "category": "标志设计",
+      "secondary": "视觉设计",
+      "region": "东南亚",
+      "studio": "东盟秘书处（公开报道未列设计方）",
+      "date": "2026.11.15 发布｜2026.11.16 报道",
+      "summary": "东盟 1967 年成立，2025 年 10 月东帝汶成为第 11 个成员国，组织首次覆盖全部东南亚国家。据标志情报局 11 月 16 日报道，2026 年 11 月 15 日第 49 届东盟峰会在马尼拉开幕，开幕式上发布更新后的联盟会徽并升起新版会旗。会徽中央的稻穗由 10 束增至 11 束，对应东帝汶；会旗的蓝底更亮、更偏青，中央红色圆形更偏橙，圆形直径从约占旗面高度的六成缩到接近一半，四周留出更多蓝色。文章同时回顾了标志沿革：1977 年由马来西亚人 Mohammad Radzi Hanif 设计首版五茎稻秆徽记，1984 年文莱加入后增至六茎，1997 年扩为 10 束并改用红底黄穗。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/asean-new-logo.html",
+      "note": "发布场合与日期取自峰会报道；设计执行方未公开，不推测。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/11/5b0cd986-b214-4924-872b-dd36682ca42c.jpeg",
+        "https://imgs.logonews.cn/uploads/2026/11/121b3a16-9c93-486f-a8a0-14eaaecf19b7.png",
+        "https://imgs.logonews.cn/uploads/2026/11/d5ac6d86-5a9e-4379-99eb-2436c4808ad2.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/11/5b0cd986-b214-4924-872b-dd36682ca42c.jpeg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/11/5b0cd986-b214-4924-872b-dd36682ca42c.jpeg",
+          "paths": [
+            [
+              "设计",
+              "ASEAN"
+            ]
+          ],
+          "tags": [
+            "视觉设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/11/121b3a16-9c93-486f-a8a0-14eaaecf19b7.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/11/121b3a16-9c93-486f-a8a0-14eaaecf19b7.png",
+          "paths": [
+            [
+              "设计",
+              "ASEAN"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/11/d5ac6d86-5a9e-4379-99eb-2436c4808ad2.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/11/d5ac6d86-5a9e-4379-99eb-2436c4808ad2.png",
+          "paths": [
+            [
+              "设计",
+              "ASEAN"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "视觉设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "us-asean-50-20261117",
+      "title": "美东盟建交 50 周年纪念标志：50 连成无穷符号，白头鹰托着数字 5、东盟会徽嵌在 0 里",
+      "name": "US–ASEAN 50 周年纪念标志",
+      "category": "标志设计",
+      "secondary": "视觉设计",
+      "region": "美国 / 东盟",
+      "studio": "公开报道未列设计方",
+      "date": "2026.11.04 揭晓｜2026.11.16 报道",
+      "summary": "美国与东盟将在 2027 年迎来正式建立关系 50 周年。据标志情报局 11 月 16 日报道，双方于 11 月 4 日揭晓纪念标志：主体是数字「50」，美国的白头鹰画在数字 5 的下方并向上托住笔画，东盟会徽嵌在数字「0」的中央；两个数字相连后整体呈无穷符号，官方说法是象征信任与善意的握手，以及双方关系的持续承诺。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/logo-unveiled-for-the-50th-anniversary-of-u-s-asean-relations.html",
+      "note": "揭晓在 11 月 4 日，落在窗口之外，本条只作为窗口内报道记录，不当作窗口内首发。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/11/93cb35f4-b130-410e-bdfe-6c48fee7ca92.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/11/93cb35f4-b130-410e-bdfe-6c48fee7ca92.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/11/93cb35f4-b130-410e-bdfe-6c48fee7ca92.png",
+          "paths": [
+            [
+              "设计",
+              "US-ASEAN 50"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "sainsbury-museum-north-20261117",
+      "title": "Sainsbury 博物馆与艺术中心换标：North Design 用一组嵌套方框做「门廊」，字标改成竖排堆叠",
+      "name": "Sainsbury Museum and Art Centre",
+      "category": "标志设计",
+      "secondary": "品牌设计",
+      "region": "英国",
+      "studio": "North Design",
+      "date": "2026.11.16（Brand New 收录）",
+      "summary": "Brand New 11 月 16 日以 Noted 收录 North Design 为 Sainsbury 博物馆与艺术中心做的新标志。对照图里，旧标是左对齐两行的「SAINSBURY / CENTRE」，只有文字没有图形；新标拆成两件：黑色方块内一组由大到小嵌套、下方开口的白色方框，像层层门廊或展陈空间，右侧再把「SAINSBURY / MUSEUM AND / ART CENTRE」分三行堆叠，字距拉开、字号统一，整体更接近美术馆的题名方式。",
+      "source": "Brand New",
+      "url": "https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_sainsbury_museum_and_art_centre_by_north_design.php",
+      "note": "正文在订阅墙后，仅依据新旧对照图描述图形与字标结构；机构正式名称与启用时间未见公开说明。",
+      "kind": "项目报道",
+      "images": [
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/sainsbury_museum_logo_before_after.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/sainsbury_museum_logo_before_after.png": {
+          "url": "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/sainsbury_museum_logo_before_after.png",
+          "paths": [
+            [
+              "设计",
+              "Sainsbury Museum and Art Centre"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "品牌设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "shimane-susanoo-sony-20261117",
+      "title": "岛根须佐之男魔术队换标：Sony Design Consulting 把彩色吉祥物队徽收成六边形 S 字盾牌",
+      "name": "Shimane Susanoo Magic",
+      "category": "标志设计",
+      "secondary": "视觉设计",
+      "region": "日本",
+      "studio": "Sony Design Consulting",
+      "date": "2026.11.16（Brand New 收录）",
+      "summary": "Brand New 11 月 16 日以 Spotted 收录 Sony Design Consulting 为日本 B.LEAGUE 球队岛根须佐之男魔术（Shimane Susanoo Magic）做的新队徽。旧徽是写实风格的鹰头、篮球与球队全称叠加的插画式组合，颜色多、细节密；新徽只剩一枚六边形盾牌，内部用两个折角笔画拼出「S」，黑白单色，队名以三行小字排在盾牌下方，从插画转向可缩小、可单色印刷的字标型徽记。",
+      "source": "Brand New",
+      "url": "https://www.underconsideration.com/brandnew/archives/new_logo_for_shimane_susanoo_magic_by_sony_design_consulting.php",
+      "note": "正文在订阅墙后，仅依据新旧对照图描述；球队官方发布时间未见公开说明，收录日不等于启用日。",
+      "kind": "项目报道",
+      "images": [
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/shimane_susanoo_magic_logo_before_after.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/shimane_susanoo_magic_logo_before_after.png": {
+          "url": "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/shimane_susanoo_magic_logo_before_after.png",
+          "paths": [
+            [
+              "设计",
+              "Shimane Susanoo Magic"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "maison-myrthus-amertume-20261117",
+      "title": "Maison Myrthus 用一笔连写的手写字标，M 的圈环咬住后面的字母",
+      "name": "Maison Myrthus",
+      "category": "标志设计",
+      "secondary": "包装设计",
+      "region": "法国",
+      "studio": "Amertume studio",
+      "date": "2026.11.16（Brand New 收录）",
+      "summary": "Brand New 11 月 16 日以 Spotted 收录 Amertume studio 为 Maison Myrthus 做的新字标。对照图里只有一行连笔手写体「Maison Myrthus」：起笔的 M 带两个圈环，第二个圈环顺势咬住后面的字母，词间不留空隙，字距一路收紧到词尾，整体更接近手写签名而不是排印字标，笔画粗细随书写方向变化。",
+      "source": "Brand New",
+      "url": "https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_maison_myrthus_by_amertume_studio.php",
+      "note": "正文在订阅墙后，只描述对照图可见的笔画与连写关系；品牌所属行业与产品线未见公开说明，不推测。",
+      "kind": "项目报道",
+      "images": [
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/maison_myrthus_logo_before_after.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/maison_myrthus_logo_before_after.png": {
+          "url": "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/maison_myrthus_logo_before_after.png",
+          "paths": [
+            [
+              "设计",
+              "Maison Myrthus"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "字体设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "reset-studio-kiln-20261117",
+      "title": "减重 App Reset 让一块会翻滚的积木当向导，Studio Kiln 把角色拼成字母 R",
+      "name": "Reset",
+      "category": "品牌设计",
+      "secondary": "视觉设计",
+      "region": "英国",
+      "studio": "Studio Kiln",
+      "date": "2026.11.16（Creative Boom 报道）",
+      "summary": "Reset 2019 年上线，走的是不逐卡计数、按代谢类型给建议的路线。据 Creative Boom 11 月 16 日报道，工作室 Studio Kiln 为其重做识别，核心是一个叫 Ester 的角色：由几个柔和圆角的 3D 方块组成，单眼、一枚浮动小点和两条粗腿，拼起来正好是字母「R」。Ester 没有五官，不靠表情传达情绪，而是靠方块翻滚、散开与重组表达状态；品牌视觉因此从「说教式打卡」转向更温和的陪伴感。Studio Kiln 起家于 Falmouth，目前在 Cornwall 与伦敦两地办公。",
+      "source": "Creative Boom",
+      "url": "https://www.creativeboom.com/news/studio-kiln-builds-a-shape-shifting-character-for-weight-loss-app-reset/",
+      "note": "事实取自 Creative Boom 报道与其引用的项目材料；角色动效的完整规范未见公开。",
+      "kind": "项目报道",
+      "images": [
+        "https://media.creativeboom.com/2c0fe8e8-2256-4025-83c0-a4fd82054057/conversions/19940eaf152a0a787b0e91140a8d7ef00a479e69-medium.webp"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://media.creativeboom.com/2c0fe8e8-2256-4025-83c0-a4fd82054057/conversions/19940eaf152a0a787b0e91140a8d7ef00a479e69-medium.webp": {
+          "url": "https://media.creativeboom.com/2c0fe8e8-2256-4025-83c0-a4fd82054057/conversions/19940eaf152a0a787b0e91140a8d7ef00a479e69-medium.webp",
+          "paths": [
+            [
+              "设计",
+              "Reset"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "视觉设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "max-cameron-cigarette-20261117",
+      "title": "Max Cameron 把 AI 宣传语印上烟盒：「继续抽，AI 会救你」",
+      "name": "Max Cameron 烟盒讽刺系列",
+      "category": "包装设计",
+      "secondary": "广告设计",
+      "region": "英国",
+      "studio": "Max Cameron（个人项目）",
+      "date": "2026.11.16（Creative Boom 报道）",
+      "summary": "资深创意人 Max Cameron 的个人项目，把烟盒做成看起来像普通 20 支装的样子，正面原本印健康警示的位置换成一句句关于 AI 的「保证」，例如「继续抽，AI 会治好你的肺癌」；凑近才会发现全部是反话。据 Creative Boom 11 月 16 日报道，项目起因是 Palantir 首席技术官 Shyam Sankar 在 CBS《Face the Nation》10 月节目里的一段说法——AI 开发者之所以抽烟，是因为他们确信 AI 会解决癌症。Cameron 此前曾把日本交通锥做成摄影书，习惯从日常物件里找反讽的入口。",
+      "source": "Creative Boom",
+      "url": "https://www.creativeboom.com/news/max-cameron-roasts-the-arrogance-of-ai-tech-bros-with-subversive-cigarette-packaging/",
+      "note": "个人创作，非品牌委托；不涉及真实烟草品牌授权，画面里的品牌名为戏仿。",
+      "kind": "项目报道",
+      "images": [
+        "https://media.creativeboom.com/a2668030-f2ab-449e-8690-5b7ffe96e46c/conversions/83532b022568b4eba106da0aa7d05a2a90a085f3-medium.webp",
+        "https://media.creativeboom.com/dde86043-6808-48bf-a031-e51e21a408dc/conversions/dad80d12624006ee8b10b82114a479bd377165c4-medium.webp"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://media.creativeboom.com/a2668030-f2ab-449e-8690-5b7ffe96e46c/conversions/83532b022568b4eba106da0aa7d05a2a90a085f3-medium.webp": {
+          "url": "https://media.creativeboom.com/a2668030-f2ab-449e-8690-5b7ffe96e46c/conversions/83532b022568b4eba106da0aa7d05a2a90a085f3-medium.webp",
+          "paths": [
+            [
+              "设计",
+              "Max Cameron"
+            ]
+          ],
+          "tags": [
+            "包装设计"
+          ],
+          "brands": []
+        },
+        "https://media.creativeboom.com/dde86043-6808-48bf-a031-e51e21a408dc/conversions/dad80d12624006ee8b10b82114a479bd377165c4-medium.webp": {
+          "url": "https://media.creativeboom.com/dde86043-6808-48bf-a031-e51e21a408dc/conversions/dad80d12624006ee8b10b82114a479bd377165c4-medium.webp",
+          "paths": [
+            [
+              "设计",
+              "Max Cameron"
+            ]
+          ],
+          "tags": [
+            "包装设计",
+            "广告设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "nvidia-logo-debate-20261117",
+      "title": "英伟达换不换标成了设计媒体话题：现行螺旋眼标志已用 20 年",
+      "name": "NVIDIA 标志讨论",
+      "category": "视觉设计",
+      "secondary": "品牌设计",
+      "region": "美国",
+      "studio": "不适用（媒体讨论）",
+      "date": "2026.11.14 报道",
+      "summary": "11 月 12 日英伟达宣布联合创始人黄仁勋辞去总裁、CEO 与董事职务，由 CFO Colette Kress 出任临时 CEO。据标志情报局 11 月 14 日报道，设计媒体 Creative Bloq 的作者 Joe Foley 借机提出另一个问题：这家市值最高的公司之一，为什么还在用 2006 年启用、像从二十年前显卡包装盒上搬下来的标志。文章引述 Reddit 讨论，批评点集中在螺旋眼图形一半正色一半反色、亮绿与黑白三色、以及带复古未来感的字标各自抢眼却不成体系；文中也给出反例，IBM 的条纹字标自 1972 年沿用至今仍清晰可辨。这是关于识别的讨论，英伟达没有宣布换标。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/beyond-a-new-ceo-does-nvidia-also-need-a-new-logo.html",
+      "note": "属观点与媒体讨论，不是换标项目；英伟达未发布任何识别更新。没有可收录的作品图，本条不占默认勾选。",
+      "kind": "媒体报道",
+      "images": [],
+      "unavailable": true,
+      "references": [],
+      "collectionPlans": {}
+    }
+  ]
+}

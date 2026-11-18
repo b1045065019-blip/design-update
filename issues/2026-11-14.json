@@ -1,0 +1,660 @@
+{
+  "date": "2026-11-14",
+  "id": "2026-11-14",
+  "label": "正式刊 011",
+  "window_start": "2026-11-11",
+  "window_end": "2026-11-13",
+  "coverage": "内容范围：2026.11.11—11.13（三个完整自然日）｜14 条，按项目去重；报道日与官方发布日分开标注，窗口外发布但窗口内报道的项目单独说明。本期为名义刊日 2026-11-14 的迟发刊，2026-11-18 补发。",
+  "published_on": "2026-11-18",
+  "source_failures": [
+    "扫描 19 个来源、160 条候选，上限仍被 Pentagram、COLLINS、TypeTogether 的首页导航占满；改按 scan-cache.json 分来源候选与媒体首页逐条核对，未全量读正文。",
+    "Brand New 自动 feed 仍指向 2024 年停更的 The Follow-up 播客；改用当前公开首页按日期核对：11 月 11—13 日每天 3—4 条。正文在订阅墙后，只记录标题与新旧对照图可见变化。",
+    "标志情报局 RSS 只保留最近 10 条（最早到 11 月 13 日），11 月 11—12 日的条目改用其公开 REST 接口按日期补查。",
+    "BP&O 首页正常，11 月 11 日与 12 日各一条；It's Nice That 首页与栏目页最新条目停在 11 月 2 日，Design Week、Creative Review、Dezeen 返回 403，The Dieline 与 Krea 页面为脚本渲染、抓不到发布日期，本期未采用。",
+    "TypeTogether、Monotype、森泽、方正、汉仪、日本设计中心等字体与机构来源窗口内没有带日期的公开新品条目，本期未收录；不因来源失败补写内容。"
+  ],
+  "articles": [
+    {
+      "id": "takara-tomy-20261114",
+      "title": "Takara Tomy 自 2006 年合并以来首次更换企业标志，把片假名「アソビ」折进几何图形",
+      "name": "Takara Tomy 企业标识",
+      "category": "标志设计",
+      "secondary": "品牌设计",
+      "region": "日本",
+      "studio": "Takara Tomy（公开报道未列外部设计方）",
+      "date": "2026.11.10 官方宣布｜2026.11.12 报道",
+      "summary": "多美（Takara Tomy）由 1924 年创立的多美与 1955 年创立的特佳丽（Takara）于 2006 年合并而成，旗下有多美卡（Tomica）、普乐路路（Plarail）、莉卡娃娃（Licca）与战斗陀螺（Beyblade）。11 月 10 日公司宣布更新企业品牌标识，并计划 2027 年 4 月 1 日正式启用，这是合并以来首次更换企业标志。新标志由图形符号与「TAKARA TOMY」英文两部分组成：图形以日本审美里的「白银比例」与江户时代文化为灵感，把片假名「アソビ」（玩乐）融进造型；英文字标融合不同字体的特点；主色是蓝紫渐变，另配四色日本传统色（若草色、空色、缥色、蓝），各自对应探索、好奇心、个性与智慧的说法。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/takara-tomy-new-logo.html",
+      "note": "正式启用日为 2027 年 4 月 1 日，不是报道日；外部设计方未公开，不推测。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/11/cefbf185-02cc-4420-9593-2760d0c860e0.jpg",
+        "https://imgs.logonews.cn/uploads/2026/11/a61487ab-6928-45e1-a129-57678bb574cc.jpg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/11/cefbf185-02cc-4420-9593-2760d0c860e0.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/11/cefbf185-02cc-4420-9593-2760d0c860e0.jpg",
+          "paths": [
+            [
+              "设计",
+              "Takara Tomy"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "品牌设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/11/a61487ab-6928-45e1-a129-57678bb574cc.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/11/a61487ab-6928-45e1-a129-57678bb574cc.jpg",
+          "paths": [
+            [
+              "设计",
+              "Takara Tomy"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "sunlife-20261114",
+      "title": "Sun Life 统一写作「Sunlife」，太阳与地球简化成一枚黄圆，口号换成「Making life brighter」",
+      "name": "Sunlife 全球品牌形象",
+      "category": "品牌设计",
+      "secondary": "标志设计",
+      "region": "加拿大",
+      "studio": "Sun Life（公开报道未列外部设计方）",
+      "date": "2026.10.15 官方发布｜2026.11.11 报道",
+      "summary": "永明金融 1865 年成立于多伦多，业务覆盖加拿大、美国、英国、爱尔兰、中国大陆与香港、菲律宾、日本、印尼、印度、澳大利亚、新加坡、越南、马来西亚与百慕大；截至 2026 年 6 月 30 日全球管理资产 1.70 万亿加元。10 月 15 日公司公布新全球品牌：沿用多年的太阳与地球图形被简化为一枚黄色圆形，品牌名从两个词的「Sun Life」合并为「Sunlife」，同时启用新口号「Making life brighter」。公司称新形象用于反映业务已从人寿保险扩展到资产管理、财富管理与健康等领域。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/sunlife-new-logo.html",
+      "note": "官方发布在 10 月 15 日，在窗口之外；本条是窗口内的媒体报道，不当作窗口内首发。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/10/f02c18aa-d5a6-4227-ab06-a76fc0491c3a.png",
+        "https://imgs.logonews.cn/uploads/2026/10/16389727-2705-4d01-bd0f-5cb4d09e2724.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/10/f02c18aa-d5a6-4227-ab06-a76fc0491c3a.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/f02c18aa-d5a6-4227-ab06-a76fc0491c3a.png",
+          "paths": [
+            [
+              "设计",
+              "Sunlife"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/10/16389727-2705-4d01-bd0f-5cb4d09e2724.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/16389727-2705-4d01-bd0f-5cb4d09e2724.png",
+          "paths": [
+            [
+              "设计",
+              "Sunlife"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "字体设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "archie-rose-thirst-20261114",
+      "title": "Archie Rose 换标：Thirst 把细衬线、大字距的字标收成更重的两行衬线",
+      "name": "Archie Rose Distilling Co.",
+      "category": "包装设计",
+      "secondary": "标志设计",
+      "region": "澳大利亚",
+      "studio": "Thirst",
+      "date": "2026.11.11（Brand New 收录）",
+      "summary": "Brand New 11 月 11 日以 Noted 收录 Thirst 为 Archie Rose Distilling Co. 做的新标志与包装。新旧对照图里，旧字标是笔画很细、字距很开的衬线「ARCHIE ROSE」，下挂小号的「DISTILLING CO.」；新字标仍保留两行结构，但笔画加粗、字距收紧、字重更统一，整组在小尺寸下更实。报道归类为标志与包装。",
+      "source": "Brand New",
+      "url": "https://www.underconsideration.com/brandnew/archives/new_logo_and_packaging_for_archie_rose_distilling_co__by_thirst.php",
+      "note": "Brand New 正文在订阅墙后，这里只描述新旧对照图可见的字形与排布；委托方口径与完整包装清单未见公开说明。收录日不等于官方发布日。",
+      "kind": "项目报道",
+      "images": [
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/archie_rose_logo_before_after.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/archie_rose_logo_before_after.png": {
+          "url": "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/archie_rose_logo_before_after.png",
+          "paths": [
+            [
+              "设计",
+              "Archie Rose"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "包装设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "jyllandsposten-20261114",
+      "title": "丹麦《日德兰邮报》去掉字标里的连字符：Katinka Bukh、Henrik Kubel 与报社内部团队合做",
+      "name": "Jyllandsposten",
+      "category": "标志设计",
+      "secondary": "字体设计",
+      "region": "丹麦",
+      "studio": "Katinka Bukh、Henrik Kubel 与报社内部团队",
+      "date": "2026.11.11（Brand New 收录）",
+      "summary": "Brand New 11 月 11 日以 Spotted 收录《日德兰邮报》的新字标，作者署名 Katinka Bukh、Henrik Kubel 与报社内部团队。对照图里旧标写作「Jyllands-Posten」，两词之间带连字符，字形偏轻；新标写成连读的「Jyllandsposten」，去掉了连字符，笔画对比加强、字距收紧，仍保留报纸传统的黑体结构，可视为一次只动排印细节、不动骨架的改标。",
+      "source": "Brand New",
+      "url": "https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_jyllandsposten_katinka_bukh_henrik_kubel_and_in-house.php",
+      "note": "正文在订阅墙后，只记录对照图可见的字形变化；新字标是否配新字体家族未见公开说明，不推测字体名称。",
+      "kind": "项目报道",
+      "images": [
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/jyllandsposten_logo_before_after.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/jyllandsposten_logo_before_after.png": {
+          "url": "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/jyllandsposten_logo_before_after.png",
+          "paths": [
+            [
+              "设计",
+              "Jyllands-Posten"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "字体设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "crystal-ski-landor-20261114",
+      "title": "Crystal Ski 换标：Landor 把雪晶做成独立符号，两行衬线字标并成一行",
+      "name": "Crystal Ski",
+      "category": "标志设计",
+      "secondary": "品牌设计",
+      "region": "英国",
+      "studio": "Landor",
+      "date": "2026.11.13（Brand New 收录）",
+      "summary": "Brand New 11 月 13 日以 Spotted 收录 Landor 为滑雪度假品牌 Crystal Ski 做的新标志。旧的组合是两行：大号衬线「CRYSTAL」压着一行小号大写「SKI HOLIDAYS」，整体像旅行社招牌；新组合把字标并为一行「CrystalSki」，用首字母大写、无衬线，左侧另立一个放射状雪晶符号，作为可独立使用的图形标记。",
+      "source": "Brand New",
+      "url": "https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_crystal_ski_by_landor.php",
+      "note": "正文在订阅墙后，仅根据新旧对照图描述；雪晶符号的精确构造与字体名称未见公开说明。",
+      "kind": "项目报道",
+      "images": [
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/crystal_ski_logo_before_after.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/crystal_ski_logo_before_after.png": {
+          "url": "https://www.underconsideration.com/brandnew/wp/wp-content/uploads/2026/11/crystal_ski_logo_before_after.png",
+          "paths": [
+            [
+              "设计",
+              "Crystal Ski"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "smk-etypes-20261114",
+      "title": "丹麦国家美术馆改名 SMK：e-Types 用皇冠徽记、框架装置与字体 Hill 重建整套识别",
+      "name": "SMK 丹麦国家美术馆",
+      "category": "品牌设计",
+      "secondary": "字体设计",
+      "region": "丹麦",
+      "studio": "e-Types（字体：Playtype 的 Hill）",
+      "date": "2026.11.12（BP&O 报道）",
+      "summary": "丹麦国家美术馆（Statens Museum for Kunst）1896 年成立，馆藏涵盖 700 年的丹麦与国际艺术。BP&O 11 月 12 日报道，馆方在 2026 年把名称缩为「SMK」，新识别由合作十余年的哥本哈根工作室 e-Types 完成，工作范围包括命名、视觉识别、艺术指导、活动概念、导视与设计模板。整套系统围绕三个元素：皇冠徽记、可反复套用的框架装置，以及新字体——用 e-Types 姊妹字厂 Playtype 的 Hill。BP&O 同时把它与 Almeida & Dale、Horniman、MoN Takanawa 等近期的博物馆识别并列讨论。",
+      "source": "BP&O",
+      "url": "https://bpando.org/2026/11/12/smk-statens-museum-for-kunst-etypes-brand-identity-design/",
+      "note": "BP&O 属设计媒体评论，机构口径以馆方公开信息为准；本文只取项目事实，不转述评价。",
+      "kind": "项目报道",
+      "images": [
+        "https://bpando.org/wp-content/uploads/Statens-Museum-for-Kunst-SMK-eType-brand-identity-design-bpo-review-wordmark-logo-blue.jpeg",
+        "https://bpando.org/wp-content/uploads/statens-museum-kunst-SMK-eType-brand-identity-design-bpo-review-typography-digital-poster.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://bpando.org/wp-content/uploads/Statens-Museum-for-Kunst-SMK-eType-brand-identity-design-bpo-review-wordmark-logo-blue.jpeg": {
+          "url": "https://bpando.org/wp-content/uploads/Statens-Museum-for-Kunst-SMK-eType-brand-identity-design-bpo-review-wordmark-logo-blue.jpeg",
+          "paths": [
+            [
+              "设计",
+              "SMK"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "字体设计"
+          ],
+          "brands": []
+        },
+        "https://bpando.org/wp-content/uploads/statens-museum-kunst-SMK-eType-brand-identity-design-bpo-review-typography-digital-poster.png": {
+          "url": "https://bpando.org/wp-content/uploads/statens-museum-kunst-SMK-eType-brand-identity-design-bpo-review-typography-digital-poster.png",
+          "paths": [
+            [
+              "设计",
+              "SMK"
+            ]
+          ],
+          "tags": [
+            "版式设计",
+            "海报设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "korshags-20261114",
+      "title": "Korshags 换包装：深蓝、锚和船让位给亮黄、粗字与一条简笔鱼",
+      "name": "Korshags",
+      "category": "包装设计",
+      "secondary": "品牌设计",
+      "region": "瑞典",
+      "studio": "公开报道未列设计方",
+      "date": "2026.11.11（BP&O 刊登）",
+      "summary": "Korshags 是瑞典西海岸 Falkenberg 的家族海鲜企业，做了五代人、八十多年手工处理鱼类。BP&O 11 月 11 日的文章写道，新识别放弃了传统海鲜品牌惯用的深蓝、锚与船，改用亮黄底色、更粗的字体和一条简笔鱼图标；文案也从节庆场景转向日常晚餐，例如「One aioli, a thousand possibilities」。文章的切入点是：瑞典人爱吃鱼，但消费集中在仲夏、圣诞与复活节，品牌需要在没有节日的周二也能被想起来。",
+      "source": "BP&O",
+      "url": "https://bpando.org/2026/11/11/swedes-love-fish/",
+      "note": "该篇属 BP&O Voices 评论栏目，设计方未公开署名；本文只取其中可核实的产品与视觉描述。",
+      "kind": "项目报道",
+      "images": [
+        "https://bpando.org/wp-content/uploads/korshags-pond-salmon-packs-wide.jpg",
+        "https://bpando.org/wp-content/uploads/korshags-pond-01.jpg",
+        "https://bpando.org/wp-content/uploads/korshags-pond-03.jpg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://bpando.org/wp-content/uploads/korshags-pond-salmon-packs-wide.jpg": {
+          "url": "https://bpando.org/wp-content/uploads/korshags-pond-salmon-packs-wide.jpg",
+          "paths": [
+            [
+              "设计",
+              "Korshags"
+            ]
+          ],
+          "tags": [
+            "包装设计"
+          ],
+          "brands": []
+        },
+        "https://bpando.org/wp-content/uploads/korshags-pond-01.jpg": {
+          "url": "https://bpando.org/wp-content/uploads/korshags-pond-01.jpg",
+          "paths": [
+            [
+              "设计",
+              "Korshags"
+            ]
+          ],
+          "tags": [
+            "包装设计"
+          ],
+          "brands": []
+        },
+        "https://bpando.org/wp-content/uploads/korshags-pond-03.jpg": {
+          "url": "https://bpando.org/wp-content/uploads/korshags-pond-03.jpg",
+          "paths": [
+            [
+              "设计",
+              "Korshags"
+            ]
+          ],
+          "tags": [
+            "包装设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "giffgaff-koto-20261114",
+      "title": "Koto 给 Giffgaff 装了一套「路标」：字标末笔改成箭头，黑白之外加进一枚酸绿",
+      "name": "Giffgaff",
+      "category": "品牌设计",
+      "secondary": "标志设计",
+      "region": "英国",
+      "studio": "Koto",
+      "date": "2026.11.11（Creative Boom 报道）",
+      "summary": "Giffgaff 是英国移动运营商，用户超过 400 万，2021 年与 Virgin Media O2 合并后仍以挑战者自居。Creative Boom 11 月 11 日报道，Koto 以「路标」为核心概念重做品牌：字标最后一个「f」的收笔改成箭头尖，同一形状贯穿系统，用来指向价格、优惠与下一步操作；黑白主色之外加入一枚高饱和酸绿；配套定制字体 Giffsans 为高瘦窄体，带一个回连旧标志的「gg」连字；摄影改成闪光灯直打、像用户自己拍的随手照；网页与 App 系统直接建在既有 design token 上，可分批上线，绿胶带印「Your Next Move」贴在牛皮纸包裹上。Koto 创意总监 Joe Ling 在报道中说明，难点是让品牌继续进化而不丢掉原有的脾气。",
+      "source": "Creative Boom",
+      "url": "https://www.creativeboom.com/news/koto-points-giffgaff-towards-its-next-chapter-with-an-arrow-led-rebrand/",
+      "note": "事实取自 Creative Boom 报道与其中的 Koto 访谈；品牌方未发布完整识别手册，落地范围以官方后续公开为准。",
+      "kind": "项目报道",
+      "images": [
+        "https://media.creativeboom.com/cd0b49ab-5e18-49fd-9a1d-d505fdfd86eb/conversions/1fdf69732b86b576978b7d30fb3794d7b38fa920-medium.webp"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://media.creativeboom.com/cd0b49ab-5e18-49fd-9a1d-d505fdfd86eb/conversions/1fdf69732b86b576978b7d30fb3794d7b38fa920-medium.webp": {
+          "url": "https://media.creativeboom.com/cd0b49ab-5e18-49fd-9a1d-d505fdfd86eb/conversions/1fdf69732b86b576978b7d30fb3794d7b38fa920-medium.webp",
+          "paths": [
+            [
+              "设计",
+              "Giffgaff"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "视觉设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "woven-essential-viewing-20261114",
+      "title": "Ironman 的女子社区改名 Woven：Essential Viewing 把游泳、骑行、跑步编成三股绳结符号",
+      "name": "Woven",
+      "category": "品牌设计",
+      "secondary": "视觉设计",
+      "region": "新西兰",
+      "studio": "Essential Viewing",
+      "date": "2026.10 于 Kona 世锦赛发布｜2026.11.11 报道",
+      "summary": "Ironman 集团旗下的女子社区 Women For Tri 2014 年启动，为了让更多女性报名参赛，集团把它升级成独立品牌 Woven。项目交给新西兰的女性所有工作室 Essential Viewing，范围含命名、品牌策略、识别、语气、周边与发布活动。名字取自铁人三项把游泳、骑行、跑步三种运动「编织」在一起，符号是三段折线编成的结。新品牌 10 月在夏威夷 Kailua-Kona 的铁人世界锦标赛上亮相，此后在 45 个地区铺开。",
+      "source": "Creative Boom",
+      "url": "https://www.creativeboom.com/news/this-new-identity-for-a-womens-sports-community-swaps-cheerleading-for-real-talk/",
+      "note": "发布时点在 10 月的世锦赛，报道在窗口内；本条不当作窗口内首发。",
+      "kind": "项目报道",
+      "images": [
+        "https://media.creativeboom.com/89f3d8fe-142a-48b8-a038-a5968496d63e/conversions/9d77fbb057c24ea57f2629ec299eb358774d129e-medium.webp",
+        "https://media.creativeboom.com/b7437e92-f477-4f2b-a587-b1da1abd6524/conversions/6dbad7a7b36f565ef08311ae413b9bd090d534a7-medium.webp"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://media.creativeboom.com/89f3d8fe-142a-48b8-a038-a5968496d63e/conversions/9d77fbb057c24ea57f2629ec299eb358774d129e-medium.webp": {
+          "url": "https://media.creativeboom.com/89f3d8fe-142a-48b8-a038-a5968496d63e/conversions/9d77fbb057c24ea57f2629ec299eb358774d129e-medium.webp",
+          "paths": [
+            [
+              "设计",
+              "Woven"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "品牌设计"
+          ],
+          "brands": []
+        },
+        "https://media.creativeboom.com/b7437e92-f477-4f2b-a587-b1da1abd6524/conversions/6dbad7a7b36f565ef08311ae413b9bd090d534a7-medium.webp": {
+          "url": "https://media.creativeboom.com/b7437e92-f477-4f2b-a587-b1da1abd6524/conversions/6dbad7a7b36f565ef08311ae413b9bd090d534a7-medium.webp",
+          "paths": [
+            [
+              "设计",
+              "Woven"
+            ]
+          ],
+          "tags": [
+            "广告设计",
+            "视觉设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "le-large-h5-20261114",
+      "title": "塞甘岛艺术中心 Le Large 用 H5 的标识：LARGE 的 A 转成三角，笔画越出字面往外撑",
+      "name": "Le Large",
+      "category": "标志设计",
+      "secondary": "视觉设计",
+      "region": "法国",
+      "studio": "H5",
+      "date": "2026.10.17 开馆亮相｜2026.11.13 报道",
+      "summary": "Le Large 是巴黎近郊布洛涅-比扬古塞甘岛的当代艺术中心，所在地原是雷诺工厂，建筑由普利兹克奖得主 RCR Arquitectes 与 CALQ 等合作设计，外立面用铜粉色阳极氧化铝与微穿孔耐候钢。艺术中心 2026 年 10 月 17 日正式开放，形象同步亮相，由法国工作室 H5 负责，含标志、视觉规范、宣传物料与馆内导视。标识直接用五个无衬线大写「LARGE」排列，A 旋转后向左张开成三角形，上下两条斜线拉长、越出其余字母的高度，呼应「le large」的开阔之意。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/le-large-new-logo.html",
+      "note": "开馆与形象发布在 10 月 17 日，报道在 11 月 13 日；本条只描述公开的标识构成与项目背景。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/11/0a95c7bc-34b2-4d7d-976f-4e0b8ecb7d4c.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/11/0a95c7bc-34b2-4d7d-976f-4e0b8ecb7d4c.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/11/0a95c7bc-34b2-4d7d-976f-4e0b8ecb7d4c.png",
+          "paths": [
+            [
+              "设计",
+              "Le Large"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "apple-music-classical-20261114",
+      "title": "Apple Music Classical 4.1 换成白底黑谱号，界面强调色从红转蓝",
+      "name": "Apple Music Classical",
+      "category": "视觉设计",
+      "secondary": "标志设计",
+      "region": "美国",
+      "studio": "Apple（内部团队）",
+      "date": "2026.11.13 报道（版本 4.1）",
+      "summary": "Apple Music Classical 是苹果 2021 年收购古典音乐流媒体后推出的独立 App，原先的图标沿用 Apple Music 的红色渐变底，只把「♫」换成高音谱号。据标志情报局 11 月 13 日报道，苹果发布 4.1 版本，图标改为白底、黑色谱号，与上个月 Apple Music 换上的黑白配色保持一致；界面里原先用于选中标签、播放按钮与链接的红色强调色也统一改成蓝色。苹果在版本说明里只写了稳定性与性能改进，没有单独介绍视觉变化。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/apple-music-classical-new-logo.html",
+      "note": "苹果未发布设计说明，配色变更依据 App 实际截图与版本号；官方更新日志只提性能改进。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/11/c81ceace-877d-42c0-b89c-f8f7cd9b79f1.jpg",
+        "https://imgs.logonews.cn/uploads/2026/11/c02efc86-616f-4c0a-92ce-111affb9cc5b.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/11/c81ceace-877d-42c0-b89c-f8f7cd9b79f1.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/11/c81ceace-877d-42c0-b89c-f8f7cd9b79f1.jpg",
+          "paths": [
+            [
+              "设计",
+              "Apple Music Classical"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "视觉设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/11/c02efc86-616f-4c0a-92ce-111affb9cc5b.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/11/c02efc86-616f-4c0a-92ce-111affb9cc5b.png",
+          "paths": [
+            [
+              "设计",
+              "Apple Music Classical"
+            ]
+          ],
+          "tags": [
+            "视觉设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "chaozhou-museum-alliance-20261114",
+      "title": "潮州博物馆联盟发布联盟标志：以「潮」「博」折出 M 与 A，线条取韩江水纹",
+      "name": "潮州博物馆联盟",
+      "category": "标志设计",
+      "secondary": "品牌设计",
+      "region": "中国",
+      "studio": "潮州美术馆",
+      "date": "2026.11.13 报道（工作推进会发布）",
+      "summary": "潮州博物馆联盟 2026 年 5 月 18 日国际博物馆日成立，用来整合潮州市国有博物馆、非国有专题馆、民间艺术馆与文创资源。据标志情报局 11 月 13 日报道，联盟在工作推进会上发布联盟标志，并新增 8 家成员单位。标志由潮州美术馆设计，创意取自「潮」「博」二字的字形，线条折叠后同时形成英文字母 M 与 A，对应 Museum 与 Alliance；流动的线条取意韩江水纹，开放式结构表示联盟开放共建；标志内橙、青、蓝三色的「+」号分别指向国有博物馆、非国有博物馆与文创企业。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/chaozhou-museum-alliance-unveils-new-logo.html",
+      "note": "发布场次为联盟工作推进会，报道给出官方新闻稿链接；标志含义引自设计方与官方说明。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/11/ddfce850-0383-4adf-a772-6f144e303c3c.png",
+        "https://imgs.logonews.cn/uploads/2026/11/53f7be75-6342-48cb-bf8f-3d5a5f3211fe.png",
+        "https://imgs.logonews.cn/uploads/2026/11/b41ff4b2-71ed-4472-972b-199b3f47c77d.png"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/11/ddfce850-0383-4adf-a772-6f144e303c3c.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/11/ddfce850-0383-4adf-a772-6f144e303c3c.png",
+          "paths": [
+            [
+              "设计",
+              "潮州博物馆联盟"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/11/53f7be75-6342-48cb-bf8f-3d5a5f3211fe.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/11/53f7be75-6342-48cb-bf8f-3d5a5f3211fe.png",
+          "paths": [
+            [
+              "设计",
+              "潮州博物馆联盟"
+            ]
+          ],
+          "tags": [
+            "标志设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/11/b41ff4b2-71ed-4472-972b-199b3f47c77d.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/11/b41ff4b2-71ed-4472-972b-199b3f47c77d.png",
+          "paths": [
+            [
+              "设计",
+              "潮州博物馆联盟"
+            ]
+          ],
+          "tags": [
+            "品牌设计",
+            "视觉设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "biotic-mucho-20261114",
+      "title": "合成细胞项目 Biotic 用一枚实心圆点做标志，Mucho 让它在动态里生长、分裂",
+      "name": "Biotic",
+      "category": "品牌设计",
+      "secondary": "视觉设计",
+      "region": "美国",
+      "studio": "Mucho",
+      "date": "2026.11.11 报道",
+      "summary": "Biotic 是 2026 年 7 月宣布成立的非营利研究组织，由合成生物学家 Kate Adamala、Drew Endy、Chris Raggio 与 Jan Jedryszek 发起，负责管理与推广开源合成细胞项目 SpudCell——一种在实验室里从零拼装、具备部分代谢与辅助繁殖能力的人造细胞。据标志情报局 11 月 11 日报道，Biotic 与国际设计公司 Mucho 合作，提出「Ex Uno Plures（从一到多）」的概念，标志是一枚实心圆点代表单个细胞，动态系统里圆点会生长、扩散、分裂；图案用数字艺术家 Karl Sims 的反应扩散软件生成。",
+      "source": "标志情报局",
+      "url": "https://www.logonews.cn/biotic-new-logo.html",
+      "note": "项目成立时间与组织背景取自报道原文；动效技术栈为设计方公开说法。",
+      "kind": "项目报道",
+      "images": [
+        "https://imgs.logonews.cn/uploads/2026/10/6716875a-cbb1-4459-ad6b-3ad4c062c22e.png",
+        "https://imgs.logonews.cn/uploads/2026/10/ff4a244b-c8e8-4458-9d27-eb1db6302680.jpg"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://imgs.logonews.cn/uploads/2026/10/6716875a-cbb1-4459-ad6b-3ad4c062c22e.png": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/6716875a-cbb1-4459-ad6b-3ad4c062c22e.png",
+          "paths": [
+            [
+              "设计",
+              "Biotic"
+            ]
+          ],
+          "tags": [
+            "标志设计",
+            "品牌设计"
+          ],
+          "brands": []
+        },
+        "https://imgs.logonews.cn/uploads/2026/10/ff4a244b-c8e8-4458-9d27-eb1db6302680.jpg": {
+          "url": "https://imgs.logonews.cn/uploads/2026/10/ff4a244b-c8e8-4458-9d27-eb1db6302680.jpg",
+          "paths": [
+            [
+              "设计",
+              "Biotic"
+            ]
+          ],
+          "tags": [
+            "视觉设计"
+          ],
+          "brands": []
+        }
+      }
+    },
+    {
+      "id": "recraft-vectorizer-pro-20261114",
+      "title": "Recraft 上线 Vectorizer Pro：同一批图矢量化后边缘更干净，厂商自测对比",
+      "name": "Recraft Vectorizer Pro",
+      "category": "视觉设计",
+      "secondary": "标志设计",
+      "region": "美国",
+      "studio": "Recraft",
+      "date": "2026.11.11（官方博客）",
+      "summary": "Recraft 在 11 月 11 日的官方博客发布 Vectorizer Pro，主打把位图转成矢量时边缘更干净、去噪更彻底。文章的做法是把同一批图片分别用旧版 Vectorizer 与 Vectorizer Pro 处理，再放大局部对比差异；官方给出的示例是一枚毛边布料圆环与处理后的干净弧形。对做标志、图标与单色插画的人来说，这类工具的价值在于转出的 SVG 是否少修补节点、能否直接进编辑流程。",
+      "source": "Recraft",
+      "url": "https://www.recraft.ai/blog/vectorizer-pro",
+      "note": "属厂商自测与宣传材料，未见第三方独立评测；效果以官方示例图为准，不当作行业基准。",
+      "kind": "产品发布",
+      "images": [
+        "https://cdn.prod.website-files.com/655741af3f04e006606d26ad/6af4b9ae7e0f3aa56a42836c_6af4b96086aa045d5c8f9e54_c582ff9e-ff0a-4a65-82e7-d3fcf375ba1d.webp"
+      ],
+      "unavailable": false,
+      "references": [],
+      "collectionPlans": {
+        "https://cdn.prod.website-files.com/655741af3f04e006606d26ad/6af4b9ae7e0f3aa56a42836c_6af4b96086aa045d5c8f9e54_c582ff9e-ff0a-4a65-82e7-d3fcf375ba1d.webp": {
+          "url": "https://cdn.prod.website-files.com/655741af3f04e006606d26ad/6af4b9ae7e0f3aa56a42836c_6af4b96086aa045d5c8f9e54_c582ff9e-ff0a-4a65-82e7-d3fcf375ba1d.webp",
+          "paths": [
+            [
+              "设计",
+              "Recraft"
+            ]
+          ],
+          "tags": [
+            "视觉设计"
+          ],
+          "brands": []
+        }
+      }
+    }
+  ]
+}
